@@ -1,0 +1,7241 @@
+{
+  "sourceUrl": "https://www.gwangjin.go.kr/gooddata/orl/sqt/ssqt.do?type=smsl",
+  "sourceEndpoint": "https://www.gwangjin.go.kr/gooddata/map/reqGeoServerProxy.do",
+  "request": {
+    "service": "WFS",
+    "typeName": "gjgc:smart_security_light",
+    "storage": "gjgc",
+    "viewParams": ""
+  },
+  "sourceSha256": "6c71e32566c824567f815240689b19ce43efc50e4bb615ad9c0af9fbc9bc7553",
+  "generatedAt": "2026-09-05T02:20:11.999Z",
+  "sourceUpdatedAt": null,
+  "sourceResponseCount": 3699,
+  "selectedFacilityCount": 902,
+  "filter": {
+    "center": {
+      "lat": 37.542,
+      "lng": 127.073
+    },
+    "radiusMeters": 1000
+  },
+  "note": "공식 지도 공개 좌표의 수집 시점 스냅샷. 원본에 측정시각이 없어 점등·고장 상태는 앱에 반영하지 않습니다. 서울 열린데이터 측정자료의 갱신일을 이 좌표의 기준일로 사용하지 않습니다.",
+  "facilities": [
+    {
+      "id": "gwangjin-light-LA0564",
+      "name": "스마트보안등 LA0564",
+      "coordinate": {
+        "lat": 37.53699604,
+        "lng": 127.0685205
+      }
+    },
+    {
+      "id": "gwangjin-light-LA0612",
+      "name": "스마트보안등 LA0612",
+      "coordinate": {
+        "lat": 37.53895594,
+        "lng": 127.0765643
+      }
+    },
+    {
+      "id": "gwangjin-light-LA0616",
+      "name": "스마트보안등 LA0616",
+      "coordinate": {
+        "lat": 37.53644154,
+        "lng": 127.0781392
+      }
+    },
+    {
+      "id": "gwangjin-light-LA0625",
+      "name": "스마트보안등 LA0625",
+      "coordinate": {
+        "lat": 37.53646954,
+        "lng": 127.0782633
+      }
+    },
+    {
+      "id": "gwangjin-light-LA0643",
+      "name": "스마트보안등 LA0643",
+      "coordinate": {
+        "lat": 37.53739204,
+        "lng": 127.0672083
+      }
+    },
+    {
+      "id": "gwangjin-light-LA0670",
+      "name": "스마트보안등 LA0670",
+      "coordinate": {
+        "lat": 37.53741114,
+        "lng": 127.0674435
+      }
+    },
+    {
+      "id": "gwangjin-light-LA0673",
+      "name": "스마트보안등 LA0673",
+      "coordinate": {
+        "lat": 37.53432834,
+        "lng": 127.0698481
+      }
+    },
+    {
+      "id": "gwangjin-light-LA0704",
+      "name": "스마트보안등 LA0704",
+      "coordinate": {
+        "lat": 37.53895664,
+        "lng": 127.0752348
+      }
+    },
+    {
+      "id": "gwangjin-light-LA0720",
+      "name": "스마트보안등 LA0720",
+      "coordinate": {
+        "lat": 37.53859344,
+        "lng": 127.0771861
+      }
+    },
+    {
+      "id": "gwangjin-light-LA0743",
+      "name": "스마트보안등 LA0743",
+      "coordinate": {
+        "lat": 37.53759214,
+        "lng": 127.0667001
+      }
+    },
+    {
+      "id": "gwangjin-light-LA0746",
+      "name": "스마트보안등 LA0746",
+      "coordinate": {
+        "lat": 37.53713144,
+        "lng": 127.0785129
+      }
+    },
+    {
+      "id": "gwangjin-light-LA0776",
+      "name": "스마트보안등 LA0776",
+      "coordinate": {
+        "lat": 37.53620994,
+        "lng": 127.0781652
+      }
+    },
+    {
+      "id": "gwangjin-light-LA0782",
+      "name": "스마트보안등 LA0782",
+      "coordinate": {
+        "lat": 37.53618124,
+        "lng": 127.0780392
+      }
+    },
+    {
+      "id": "gwangjin-light-LA0821",
+      "name": "스마트보안등 LA0821",
+      "coordinate": {
+        "lat": 37.53870614,
+        "lng": 127.0768841
+      }
+    },
+    {
+      "id": "gwangjin-light-LA0825",
+      "name": "스마트보안등 LA0825",
+      "coordinate": {
+        "lat": 37.53449094,
+        "lng": 127.0700217
+      }
+    },
+    {
+      "id": "gwangjin-light-LA0868",
+      "name": "스마트보안등 LA0868",
+      "coordinate": {
+        "lat": 37.53694354,
+        "lng": 127.0687135
+      }
+    },
+    {
+      "id": "gwangjin-light-LA0875",
+      "name": "스마트보안등 LA0875",
+      "coordinate": {
+        "lat": 37.53735664,
+        "lng": 127.0786041
+      }
+    },
+    {
+      "id": "gwangjin-light-LA0886",
+      "name": "스마트보안등 LA0886",
+      "coordinate": {
+        "lat": 37.53723764,
+        "lng": 127.067698
+      }
+    },
+    {
+      "id": "gwangjin-light-LA0941",
+      "name": "스마트보안등 LA0941",
+      "coordinate": {
+        "lat": 37.53904104,
+        "lng": 127.0753249
+      }
+    },
+    {
+      "id": "gwangjin-light-LA0945",
+      "name": "스마트보안등 LA0945",
+      "coordinate": {
+        "lat": 37.53907424,
+        "lng": 127.0757543
+      }
+    },
+    {
+      "id": "gwangjin-light-LA0951",
+      "name": "스마트보안등 LA0951",
+      "coordinate": {
+        "lat": 37.53706384,
+        "lng": 127.06822
+      }
+    },
+    {
+      "id": "gwangjin-light-LA1332",
+      "name": "스마트보안등 LA1332",
+      "coordinate": {
+        "lat": 37.53913834,
+        "lng": 127.0756907
+      }
+    },
+    {
+      "id": "gwangjin-light-LA1343",
+      "name": "스마트보안등 LA1343",
+      "coordinate": {
+        "lat": 37.53885074,
+        "lng": 127.0767318
+      }
+    },
+    {
+      "id": "gwangjin-light-LA1347",
+      "name": "스마트보안등 LA1347",
+      "coordinate": {
+        "lat": 37.53909854,
+        "lng": 127.0760759
+      }
+    },
+    {
+      "id": "gwangjin-light-LA1350",
+      "name": "스마트보안등 LA1350",
+      "coordinate": {
+        "lat": 37.53697554,
+        "lng": 127.0784495
+      }
+    },
+    {
+      "id": "gwangjin-light-LA1389",
+      "name": "스마트보안등 LA1389",
+      "coordinate": {
+        "lat": 37.53860404,
+        "lng": 127.0773501
+      }
+    },
+    {
+      "id": "gwangjin-light-LA1393",
+      "name": "스마트보안등 LA1393",
+      "coordinate": {
+        "lat": 37.53765664,
+        "lng": 127.0664808
+      }
+    },
+    {
+      "id": "gwangjin-light-LA1463",
+      "name": "스마트보안등 LA1463",
+      "coordinate": {
+        "lat": 37.53886084,
+        "lng": 127.0819485
+      }
+    },
+    {
+      "id": "gwangjin-light-LA1465",
+      "name": "스마트보안등 LA1465",
+      "coordinate": {
+        "lat": 37.53701344,
+        "lng": 127.0681444
+      }
+    },
+    {
+      "id": "gwangjin-light-LA1822",
+      "name": "스마트보안등 LA1822",
+      "coordinate": {
+        "lat": 37.53922074,
+        "lng": 127.0828911
+      }
+    },
+    {
+      "id": "gwangjin-light-LA1971",
+      "name": "스마트보안등 LA1971",
+      "coordinate": {
+        "lat": 37.53343234,
+        "lng": 127.0711166
+      }
+    },
+    {
+      "id": "gwangjin-light-LA2133",
+      "name": "스마트보안등 LA2133",
+      "coordinate": {
+        "lat": 37.54678874,
+        "lng": 127.0744556
+      }
+    },
+    {
+      "id": "gwangjin-light-LA2263",
+      "name": "스마트보안등 LA2263",
+      "coordinate": {
+        "lat": 37.53472834,
+        "lng": 127.067182
+      }
+    },
+    {
+      "id": "gwangjin-light-LA2398",
+      "name": "스마트보안등 LA2398",
+      "coordinate": {
+        "lat": 37.54004014,
+        "lng": 127.0637333
+      }
+    },
+    {
+      "id": "gwangjin-light-LA2439",
+      "name": "스마트보안등 LA2439",
+      "coordinate": {
+        "lat": 37.54014634,
+        "lng": 127.0634172
+      }
+    },
+    {
+      "id": "gwangjin-light-LA2490",
+      "name": "스마트보안등 LA2490",
+      "coordinate": {
+        "lat": 37.53828934,
+        "lng": 127.0685527
+      }
+    },
+    {
+      "id": "gwangjin-light-LA2493",
+      "name": "스마트보안등 LA2493",
+      "coordinate": {
+        "lat": 37.53846984,
+        "lng": 127.068375
+      }
+    },
+    {
+      "id": "gwangjin-light-LA2498",
+      "name": "스마트보안등 LA2498",
+      "coordinate": {
+        "lat": 37.53841074,
+        "lng": 127.0685427
+      }
+    },
+    {
+      "id": "gwangjin-light-LA2500",
+      "name": "스마트보안등 LA2500",
+      "coordinate": {
+        "lat": 37.53925214,
+        "lng": 127.0660959
+      }
+    },
+    {
+      "id": "gwangjin-light-LA2506",
+      "name": "스마트보안등 LA2506",
+      "coordinate": {
+        "lat": 37.53558154,
+        "lng": 127.0779236
+      }
+    },
+    {
+      "id": "gwangjin-light-LA2511",
+      "name": "스마트보안등 LA2511",
+      "coordinate": {
+        "lat": 37.53858634,
+        "lng": 127.0777717
+      }
+    },
+    {
+      "id": "gwangjin-light-LA2512",
+      "name": "스마트보안등 LA2512",
+      "coordinate": {
+        "lat": 37.53878554,
+        "lng": 127.0674322
+      }
+    },
+    {
+      "id": "gwangjin-light-LA2527",
+      "name": "스마트보안등 LA2527",
+      "coordinate": {
+        "lat": 37.53566184,
+        "lng": 127.0776997
+      }
+    },
+    {
+      "id": "gwangjin-light-LA2529",
+      "name": "스마트보안등 LA2529",
+      "coordinate": {
+        "lat": 37.53861304,
+        "lng": 127.0786368
+      }
+    },
+    {
+      "id": "gwangjin-light-LA2745",
+      "name": "스마트보안등 LA2745",
+      "coordinate": {
+        "lat": 37.53482864,
+        "lng": 127.0670374
+      }
+    },
+    {
+      "id": "gwangjin-light-LA2747",
+      "name": "스마트보안등 LA2747",
+      "coordinate": {
+        "lat": 37.53859984,
+        "lng": 127.078934
+      }
+    },
+    {
+      "id": "gwangjin-light-LA2755",
+      "name": "스마트보안등 LA2755",
+      "coordinate": {
+        "lat": 37.53863314,
+        "lng": 127.0675726
+      }
+    },
+    {
+      "id": "gwangjin-light-LA2759",
+      "name": "스마트보안등 LA2759",
+      "coordinate": {
+        "lat": 37.53857334,
+        "lng": 127.0680511
+      }
+    },
+    {
+      "id": "gwangjin-light-LA2803",
+      "name": "스마트보안등 LA2803",
+      "coordinate": {
+        "lat": 37.53305284,
+        "lng": 127.0734287
+      }
+    },
+    {
+      "id": "gwangjin-light-LA2821",
+      "name": "스마트보안등 LA2821",
+      "coordinate": {
+        "lat": 37.53414954,
+        "lng": 127.0783941
+      }
+    },
+    {
+      "id": "gwangjin-light-LA2825",
+      "name": "스마트보안등 LA2825",
+      "coordinate": {
+        "lat": 37.53976044,
+        "lng": 127.0645543
+      }
+    },
+    {
+      "id": "gwangjin-light-LA2827",
+      "name": "스마트보안등 LA2827",
+      "coordinate": {
+        "lat": 37.53849524,
+        "lng": 127.0794361
+      }
+    },
+    {
+      "id": "gwangjin-light-LA2830",
+      "name": "스마트보안등 LA2830",
+      "coordinate": {
+        "lat": 37.53495624,
+        "lng": 127.0672338
+      }
+    },
+    {
+      "id": "gwangjin-light-LA2843",
+      "name": "스마트보안등 LA2843",
+      "coordinate": {
+        "lat": 37.53456744,
+        "lng": 127.0670457
+      }
+    },
+    {
+      "id": "gwangjin-light-LA2854",
+      "name": "스마트보안등 LA2854",
+      "coordinate": {
+        "lat": 37.53503214,
+        "lng": 127.0752848
+      }
+    },
+    {
+      "id": "gwangjin-light-LA2898",
+      "name": "스마트보안등 LA2898",
+      "coordinate": {
+        "lat": 37.54009984,
+        "lng": 127.0632368
+      }
+    },
+    {
+      "id": "gwangjin-light-LA2935",
+      "name": "스마트보안등 LA2935",
+      "coordinate": {
+        "lat": 37.53488014,
+        "lng": 127.0776384
+      }
+    },
+    {
+      "id": "gwangjin-light-LA2969",
+      "name": "스마트보안등 LA2969",
+      "coordinate": {
+        "lat": 37.53616174,
+        "lng": 127.0737473
+      }
+    },
+    {
+      "id": "gwangjin-light-LA2997",
+      "name": "스마트보안등 LA2997",
+      "coordinate": {
+        "lat": 37.53894684,
+        "lng": 127.0821189
+      }
+    },
+    {
+      "id": "gwangjin-light-LA3023",
+      "name": "스마트보안등 LA3023",
+      "coordinate": {
+        "lat": 37.53822184,
+        "lng": 127.0804495
+      }
+    },
+    {
+      "id": "gwangjin-light-LA3034",
+      "name": "스마트보안등 LA3034",
+      "coordinate": {
+        "lat": 37.53901164,
+        "lng": 127.0669166
+      }
+    },
+    {
+      "id": "gwangjin-light-LA3037",
+      "name": "스마트보안등 LA3037",
+      "coordinate": {
+        "lat": 37.53443104,
+        "lng": 127.0763937
+      }
+    },
+    {
+      "id": "gwangjin-light-LA3057",
+      "name": "스마트보안등 LA3057",
+      "coordinate": {
+        "lat": 37.53913114,
+        "lng": 127.0664554
+      }
+    },
+    {
+      "id": "gwangjin-light-LA3085",
+      "name": "스마트보안등 LA3085",
+      "coordinate": {
+        "lat": 37.53835524,
+        "lng": 127.0801445
+      }
+    },
+    {
+      "id": "gwangjin-light-LA3142",
+      "name": "스마트보안등 LA3142",
+      "coordinate": {
+        "lat": 37.53402224,
+        "lng": 127.0748911
+      }
+    },
+    {
+      "id": "gwangjin-light-LA3154",
+      "name": "스마트보안등 LA3154",
+      "coordinate": {
+        "lat": 37.53391144,
+        "lng": 127.0686971
+      }
+    },
+    {
+      "id": "gwangjin-light-LA3155",
+      "name": "스마트보안등 LA3155",
+      "coordinate": {
+        "lat": 37.53641594,
+        "lng": 127.0725612
+      }
+    },
+    {
+      "id": "gwangjin-light-LA3302",
+      "name": "스마트보안등 LA3302",
+      "coordinate": {
+        "lat": 37.53857634,
+        "lng": 127.0780564
+      }
+    },
+    {
+      "id": "gwangjin-light-LA3307",
+      "name": "스마트보안등 LA3307",
+      "coordinate": {
+        "lat": 37.53324254,
+        "lng": 127.0711974
+      }
+    },
+    {
+      "id": "gwangjin-light-LA3340",
+      "name": "스마트보안등 LA3340",
+      "coordinate": {
+        "lat": 37.53566564,
+        "lng": 127.0722536
+      }
+    },
+    {
+      "id": "gwangjin-light-LA3367",
+      "name": "스마트보안등 LA3367",
+      "coordinate": {
+        "lat": 37.53862844,
+        "lng": 127.067903
+      }
+    },
+    {
+      "id": "gwangjin-light-LA3402",
+      "name": "스마트보안등 LA3402",
+      "coordinate": {
+        "lat": 37.53951604,
+        "lng": 127.0652843
+      }
+    },
+    {
+      "id": "gwangjin-light-LA3491",
+      "name": "스마트보안등 LA3491",
+      "coordinate": {
+        "lat": 37.53545584,
+        "lng": 127.0754676
+      }
+    },
+    {
+      "id": "gwangjin-light-LA3544",
+      "name": "스마트보안등 LA3544",
+      "coordinate": {
+        "lat": 37.53462614,
+        "lng": 127.0751289
+      }
+    },
+    {
+      "id": "gwangjin-light-LA3556",
+      "name": "스마트보안등 LA3556",
+      "coordinate": {
+        "lat": 37.53942624,
+        "lng": 127.0655797
+      }
+    },
+    {
+      "id": "gwangjin-light-LA3581",
+      "name": "스마트보안등 LA3581",
+      "coordinate": {
+        "lat": 37.53550294,
+        "lng": 127.0721877
+      }
+    },
+    {
+      "id": "gwangjin-light-LA3681",
+      "name": "스마트보안등 LA3681",
+      "coordinate": {
+        "lat": 37.53571164,
+        "lng": 127.0748384
+      }
+    },
+    {
+      "id": "gwangjin-light-LA3738",
+      "name": "스마트보안등 LA3738",
+      "coordinate": {
+        "lat": 37.53896604,
+        "lng": 127.0668492
+      }
+    },
+    {
+      "id": "gwangjin-light-LA3750",
+      "name": "스마트보안등 LA3750",
+      "coordinate": {
+        "lat": 37.53507384,
+        "lng": 127.0776049
+      }
+    },
+    {
+      "id": "gwangjin-light-LA3831",
+      "name": "스마트보안등 LA3831",
+      "coordinate": {
+        "lat": 37.53525444,
+        "lng": 127.0753803
+      }
+    },
+    {
+      "id": "gwangjin-light-LA3840",
+      "name": "스마트보안등 LA3840",
+      "coordinate": {
+        "lat": 37.54008494,
+        "lng": 127.063633
+      }
+    },
+    {
+      "id": "gwangjin-light-LA3842",
+      "name": "스마트보안등 LA3842",
+      "coordinate": {
+        "lat": 37.53989754,
+        "lng": 127.064171
+      }
+    },
+    {
+      "id": "gwangjin-light-LA3847",
+      "name": "스마트보안등 LA3847",
+      "coordinate": {
+        "lat": 37.53390644,
+        "lng": 127.0730609
+      }
+    },
+    {
+      "id": "gwangjin-light-LA3899",
+      "name": "스마트보안등 LA3899",
+      "coordinate": {
+        "lat": 37.54026474,
+        "lng": 127.063128
+      }
+    },
+    {
+      "id": "gwangjin-light-LA3907",
+      "name": "스마트보안등 LA3907",
+      "coordinate": {
+        "lat": 37.53541794,
+        "lng": 127.0778386
+      }
+    },
+    {
+      "id": "gwangjin-light-LA3908",
+      "name": "스마트보안등 LA3908",
+      "coordinate": {
+        "lat": 37.53481604,
+        "lng": 127.0752108
+      }
+    },
+    {
+      "id": "gwangjin-light-LA3914",
+      "name": "스마트보안등 LA3914",
+      "coordinate": {
+        "lat": 37.53373444,
+        "lng": 127.072894
+      }
+    },
+    {
+      "id": "gwangjin-light-LA3920",
+      "name": "스마트보안등 LA3920",
+      "coordinate": {
+        "lat": 37.53352234,
+        "lng": 127.0767508
+      }
+    },
+    {
+      "id": "gwangjin-light-LA3926",
+      "name": "스마트보안등 LA3926",
+      "coordinate": {
+        "lat": 37.53935124,
+        "lng": 127.0658042
+      }
+    },
+    {
+      "id": "gwangjin-light-LA3935",
+      "name": "스마트보안등 LA3935",
+      "coordinate": {
+        "lat": 37.53439464,
+        "lng": 127.0766063
+      }
+    },
+    {
+      "id": "gwangjin-light-LA3942",
+      "name": "스마트보안등 LA3942",
+      "coordinate": {
+        "lat": 37.53606264,
+        "lng": 127.0740382
+      }
+    },
+    {
+      "id": "gwangjin-light-LA3947",
+      "name": "스마트보안등 LA3947",
+      "coordinate": {
+        "lat": 37.53521744,
+        "lng": 127.0720813
+      }
+    },
+    {
+      "id": "gwangjin-light-LA3983",
+      "name": "스마트보안등 LA3983",
+      "coordinate": {
+        "lat": 37.53479774,
+        "lng": 127.071891
+      }
+    },
+    {
+      "id": "gwangjin-light-LA3991",
+      "name": "스마트보안등 LA3991",
+      "coordinate": {
+        "lat": 37.53821764,
+        "lng": 127.0806781
+      }
+    },
+    {
+      "id": "gwangjin-light-LA4020",
+      "name": "스마트보안등 LA4020",
+      "coordinate": {
+        "lat": 37.53599274,
+        "lng": 127.0742103
+      }
+    },
+    {
+      "id": "gwangjin-light-LA4056",
+      "name": "스마트보안등 LA4056",
+      "coordinate": {
+        "lat": 37.53621704,
+        "lng": 127.0724731
+      }
+    },
+    {
+      "id": "gwangjin-light-LA4086",
+      "name": "스마트보안등 LA4086",
+      "coordinate": {
+        "lat": 37.53548984,
+        "lng": 127.0755627
+      }
+    },
+    {
+      "id": "gwangjin-light-LA4147",
+      "name": "스마트보안등 LA4147",
+      "coordinate": {
+        "lat": 37.53504194,
+        "lng": 127.0720011
+      }
+    },
+    {
+      "id": "gwangjin-light-LA4209",
+      "name": "스마트보안등 LA4209",
+      "coordinate": {
+        "lat": 37.53385674,
+        "lng": 127.0748331
+      }
+    },
+    {
+      "id": "gwangjin-light-LA4229",
+      "name": "스마트보안등 LA4229",
+      "coordinate": {
+        "lat": 37.53426964,
+        "lng": 127.0773631
+      }
+    },
+    {
+      "id": "gwangjin-light-LA4231",
+      "name": "스마트보안등 LA4231",
+      "coordinate": {
+        "lat": 37.53335624,
+        "lng": 127.0699579
+      }
+    },
+    {
+      "id": "gwangjin-light-LA4257",
+      "name": "스마트보안등 LA4257",
+      "coordinate": {
+        "lat": 37.53594574,
+        "lng": 127.072352
+      }
+    },
+    {
+      "id": "gwangjin-light-LA4299",
+      "name": "스마트보안등 LA4299",
+      "coordinate": {
+        "lat": 37.53451344,
+        "lng": 127.0781629
+      }
+    },
+    {
+      "id": "gwangjin-light-LA4347",
+      "name": "스마트보안등 LA4347",
+      "coordinate": {
+        "lat": 37.53330664,
+        "lng": 127.0731372
+      }
+    },
+    {
+      "id": "gwangjin-light-LA4351",
+      "name": "스마트보안등 LA4351",
+      "coordinate": {
+        "lat": 37.53376954,
+        "lng": 127.0729934
+      }
+    },
+    {
+      "id": "gwangjin-light-LA4379",
+      "name": "스마트보안등 LA4379",
+      "coordinate": {
+        "lat": 37.53673144,
+        "lng": 127.0783396
+      }
+    },
+    {
+      "id": "gwangjin-light-LA4381",
+      "name": "스마트보안등 LA4381",
+      "coordinate": {
+        "lat": 37.53396044,
+        "lng": 127.0696836
+      }
+    },
+    {
+      "id": "gwangjin-light-LA4383",
+      "name": "스마트보안등 LA4383",
+      "coordinate": {
+        "lat": 37.53433214,
+        "lng": 127.076972
+      }
+    },
+    {
+      "id": "gwangjin-light-LA4387",
+      "name": "스마트보안등 LA4387",
+      "coordinate": {
+        "lat": 37.53421784,
+        "lng": 127.0776156
+      }
+    },
+    {
+      "id": "gwangjin-light-LA4396",
+      "name": "스마트보안등 LA4396",
+      "coordinate": {
+        "lat": 37.53414964,
+        "lng": 127.0697724
+      }
+    },
+    {
+      "id": "gwangjin-light-LA4406",
+      "name": "스마트보안등 LA4406",
+      "coordinate": {
+        "lat": 37.53444884,
+        "lng": 127.0779713
+      }
+    },
+    {
+      "id": "gwangjin-light-LA4408",
+      "name": "스마트보안등 LA4408",
+      "coordinate": {
+        "lat": 37.53432574,
+        "lng": 127.0781657
+      }
+    },
+    {
+      "id": "gwangjin-light-LA4423",
+      "name": "스마트보안등 LA4423",
+      "coordinate": {
+        "lat": 37.53726464,
+        "lng": 127.0784286
+      }
+    },
+    {
+      "id": "gwangjin-light-LA4553",
+      "name": "스마트보안등 LA4553",
+      "coordinate": {
+        "lat": 37.53393914,
+        "lng": 127.07731
+      }
+    },
+    {
+      "id": "gwangjin-light-LA4584",
+      "name": "스마트보안등 LA4584",
+      "coordinate": {
+        "lat": 37.53592884,
+        "lng": 127.074409
+      }
+    },
+    {
+      "id": "gwangjin-light-LA4589",
+      "name": "스마트보안등 LA4589",
+      "coordinate": {
+        "lat": 37.53459134,
+        "lng": 127.0718204
+      }
+    },
+    {
+      "id": "gwangjin-light-LA4624",
+      "name": "스마트보안등 LA4624",
+      "coordinate": {
+        "lat": 37.53561944,
+        "lng": 127.0752724
+      }
+    },
+    {
+      "id": "gwangjin-light-LA4652",
+      "name": "스마트보안등 LA4652",
+      "coordinate": {
+        "lat": 37.53839544,
+        "lng": 127.0811988
+      }
+    },
+    {
+      "id": "gwangjin-light-LA4655",
+      "name": "스마트보안등 LA4655",
+      "coordinate": {
+        "lat": 37.53372954,
+        "lng": 127.0770071
+      }
+    },
+    {
+      "id": "gwangjin-light-LA4689",
+      "name": "스마트보안등 LA4689",
+      "coordinate": {
+        "lat": 37.53926374,
+        "lng": 127.0661304
+      }
+    },
+    {
+      "id": "gwangjin-light-LA4699",
+      "name": "스마트보안등 LA4699",
+      "coordinate": {
+        "lat": 37.53868464,
+        "lng": 127.081637
+      }
+    },
+    {
+      "id": "gwangjin-light-LA4703",
+      "name": "스마트보안등 LA4703",
+      "coordinate": {
+        "lat": 37.53376144,
+        "lng": 127.0695843
+      }
+    },
+    {
+      "id": "gwangjin-light-LA4716",
+      "name": "스마트보안등 LA4716",
+      "coordinate": {
+        "lat": 37.53802594,
+        "lng": 127.0810016
+      }
+    },
+    {
+      "id": "gwangjin-light-LA4767",
+      "name": "스마트보안등 LA4767",
+      "coordinate": {
+        "lat": 37.53889754,
+        "lng": 127.0671166
+      }
+    },
+    {
+      "id": "gwangjin-light-LA4768",
+      "name": "스마트보안등 LA4768",
+      "coordinate": {
+        "lat": 37.53863324,
+        "lng": 127.0814
+      }
+    },
+    {
+      "id": "gwangjin-light-LA4769",
+      "name": "스마트보안등 LA4769",
+      "coordinate": {
+        "lat": 37.53855024,
+        "lng": 127.081415
+      }
+    },
+    {
+      "id": "gwangjin-light-LA4773",
+      "name": "스마트보안등 LA4773",
+      "coordinate": {
+        "lat": 37.53321554,
+        "lng": 127.0727427
+      }
+    },
+    {
+      "id": "gwangjin-light-LA4781",
+      "name": "스마트보안등 LA4781",
+      "coordinate": {
+        "lat": 37.53395674,
+        "lng": 127.0715054
+      }
+    },
+    {
+      "id": "gwangjin-light-LA4786",
+      "name": "스마트보안등 LA4786",
+      "coordinate": {
+        "lat": 37.53825244,
+        "lng": 127.0810703
+      }
+    },
+    {
+      "id": "gwangjin-light-LA4820",
+      "name": "스마트보안등 LA4820",
+      "coordinate": {
+        "lat": 37.53880554,
+        "lng": 127.0670662
+      }
+    },
+    {
+      "id": "gwangjin-light-LA5015",
+      "name": "스마트보안등 LA5015",
+      "coordinate": {
+        "lat": 37.53915404,
+        "lng": 127.082627
+      }
+    },
+    {
+      "id": "gwangjin-light-LA5155",
+      "name": "스마트보안등 LA5155",
+      "coordinate": {
+        "lat": 37.53346864,
+        "lng": 127.0713077
+      }
+    },
+    {
+      "id": "gwangjin-light-LA5173",
+      "name": "스마트보안등 LA5173",
+      "coordinate": {
+        "lat": 37.53414844,
+        "lng": 127.077579
+      }
+    },
+    {
+      "id": "gwangjin-light-LA5695",
+      "name": "스마트보안등 LA5695",
+      "coordinate": {
+        "lat": 37.53358474,
+        "lng": 127.0729981
+      }
+    },
+    {
+      "id": "gwangjin-light-LA5867",
+      "name": "스마트보안등 LA5867",
+      "coordinate": {
+        "lat": 37.53540244,
+        "lng": 127.0674254
+      }
+    },
+    {
+      "id": "gwangjin-light-LA5868",
+      "name": "스마트보안등 LA5868",
+      "coordinate": {
+        "lat": 37.53468774,
+        "lng": 127.0777706
+      }
+    },
+    {
+      "id": "gwangjin-light-LA5873",
+      "name": "스마트보안등 LA5873",
+      "coordinate": {
+        "lat": 37.53596344,
+        "lng": 127.0780659
+      }
+    },
+    {
+      "id": "gwangjin-light-LA5886",
+      "name": "스마트보안등 LA5886",
+      "coordinate": {
+        "lat": 37.53927444,
+        "lng": 127.0659628
+      }
+    },
+    {
+      "id": "gwangjin-light-LA5888",
+      "name": "스마트보안등 LA5888",
+      "coordinate": {
+        "lat": 37.53846174,
+        "lng": 127.0796311
+      }
+    },
+    {
+      "id": "gwangjin-light-LA5891",
+      "name": "스마트보안등 LA5891",
+      "coordinate": {
+        "lat": 37.53474174,
+        "lng": 127.0774872
+      }
+    },
+    {
+      "id": "gwangjin-light-LA5894",
+      "name": "스마트보안등 LA5894",
+      "coordinate": {
+        "lat": 37.53525924,
+        "lng": 127.0777806
+      }
+    },
+    {
+      "id": "gwangjin-light-LA5897",
+      "name": "스마트보안등 LA5897",
+      "coordinate": {
+        "lat": 37.53326084,
+        "lng": 127.0710412
+      }
+    },
+    {
+      "id": "gwangjin-light-LA5901",
+      "name": "스마트보안등 LA5901",
+      "coordinate": {
+        "lat": 37.53404424,
+        "lng": 127.0775863
+      }
+    },
+    {
+      "id": "gwangjin-light-LA5907",
+      "name": "스마트보안등 LA5907",
+      "coordinate": {
+        "lat": 37.53370394,
+        "lng": 127.0713869
+      }
+    },
+    {
+      "id": "gwangjin-light-LA5908",
+      "name": "스마트보안등 LA5908",
+      "coordinate": {
+        "lat": 37.53369484,
+        "lng": 127.0771773
+      }
+    },
+    {
+      "id": "gwangjin-light-LA5909",
+      "name": "스마트보안등 LA5909",
+      "coordinate": {
+        "lat": 37.53907994,
+        "lng": 127.0824047
+      }
+    },
+    {
+      "id": "gwangjin-light-LA6240",
+      "name": "스마트보안등 LA6240",
+      "coordinate": {
+        "lat": 37.53836694,
+        "lng": 127.0799097
+      }
+    },
+    {
+      "id": "gwangjin-light-LA6242",
+      "name": "스마트보안등 LA6242",
+      "coordinate": {
+        "lat": 37.53514914,
+        "lng": 127.0673041
+      }
+    },
+    {
+      "id": "gwangjin-light-LA6244",
+      "name": "스마트보안등 LA6244",
+      "coordinate": {
+        "lat": 37.53606874,
+        "lng": 127.0779171
+      }
+    },
+    {
+      "id": "gwangjin-light-LA6253",
+      "name": "스마트보안등 LA6253",
+      "coordinate": {
+        "lat": 37.53877614,
+        "lng": 127.0817799
+      }
+    },
+    {
+      "id": "gwangjin-light-LA6282",
+      "name": "스마트보안등 LA6282",
+      "coordinate": {
+        "lat": 37.53959564,
+        "lng": 127.0650741
+      }
+    },
+    {
+      "id": "gwangjin-light-LA6531",
+      "name": "스마트보안등 LA6531",
+      "coordinate": {
+        "lat": 37.53387544,
+        "lng": 127.0728514
+      }
+    },
+    {
+      "id": "gwangjin-light-LA6638",
+      "name": "스마트보안등 LA6638",
+      "coordinate": {
+        "lat": 37.54275521,
+        "lng": 127.0686246
+      }
+    },
+    {
+      "id": "gwangjin-light-LA6808",
+      "name": "스마트보안등 LA6808",
+      "coordinate": {
+        "lat": 37.53734121,
+        "lng": 127.0672806
+      }
+    },
+    {
+      "id": "gwangjin-light-LA8901",
+      "name": "스마트보안등 LA8901",
+      "coordinate": {
+        "lat": 37.54772994,
+        "lng": 127.0676427
+      }
+    },
+    {
+      "id": "gwangjin-light-LA9093",
+      "name": "스마트보안등 LA9093",
+      "coordinate": {
+        "lat": 37.54070721,
+        "lng": 127.0638906
+      }
+    },
+    {
+      "id": "gwangjin-light-LA9094",
+      "name": "스마트보안등 LA9094",
+      "coordinate": {
+        "lat": 37.53762821,
+        "lng": 127.0763796
+      }
+    },
+    {
+      "id": "gwangjin-light-LA9663",
+      "name": "스마트보안등 LA9663",
+      "coordinate": {
+        "lat": 37.54502714,
+        "lng": 127.0710375
+      }
+    },
+    {
+      "id": "gwangjin-light-LA9881",
+      "name": "스마트보안등 LA9881",
+      "coordinate": {
+        "lat": 37.54967221,
+        "lng": 127.0729346
+      }
+    },
+    {
+      "id": "gwangjin-light-LB3875",
+      "name": "스마트보안등 LB3875",
+      "coordinate": {
+        "lat": 37.54343864,
+        "lng": 127.0674292
+      }
+    },
+    {
+      "id": "gwangjin-light-LB3876",
+      "name": "스마트보안등 LB3876",
+      "coordinate": {
+        "lat": 37.54341394,
+        "lng": 127.067635
+      }
+    },
+    {
+      "id": "gwangjin-light-LB3878",
+      "name": "스마트보안등 LB3878",
+      "coordinate": {
+        "lat": 37.54510984,
+        "lng": 127.0678655
+      }
+    },
+    {
+      "id": "gwangjin-light-LB3879",
+      "name": "스마트보안등 LB3879",
+      "coordinate": {
+        "lat": 37.54553574,
+        "lng": 127.0682117
+      }
+    },
+    {
+      "id": "gwangjin-light-LB3880",
+      "name": "스마트보안등 LB3880",
+      "coordinate": {
+        "lat": 37.54411144,
+        "lng": 127.0674955
+      }
+    },
+    {
+      "id": "gwangjin-light-LB3881",
+      "name": "스마트보안등 LB3881",
+      "coordinate": {
+        "lat": 37.54437454,
+        "lng": 127.0682275
+      }
+    },
+    {
+      "id": "gwangjin-light-LB3882",
+      "name": "스마트보안등 LB3882",
+      "coordinate": {
+        "lat": 37.54347514,
+        "lng": 127.0681269
+      }
+    },
+    {
+      "id": "gwangjin-light-LB3883",
+      "name": "스마트보안등 LB3883",
+      "coordinate": {
+        "lat": 37.54484294,
+        "lng": 127.0686556
+      }
+    },
+    {
+      "id": "gwangjin-light-LB3886",
+      "name": "스마트보안등 LB3886",
+      "coordinate": {
+        "lat": 37.54280294,
+        "lng": 127.0674606
+      }
+    },
+    {
+      "id": "gwangjin-light-LB3887",
+      "name": "스마트보안등 LB3887",
+      "coordinate": {
+        "lat": 37.54493574,
+        "lng": 127.0683966
+      }
+    },
+    {
+      "id": "gwangjin-light-LB3888",
+      "name": "스마트보안등 LB3888",
+      "coordinate": {
+        "lat": 37.54263294,
+        "lng": 127.0670032
+      }
+    },
+    {
+      "id": "gwangjin-light-LB3889",
+      "name": "스마트보안등 LB3889",
+      "coordinate": {
+        "lat": 37.54327934,
+        "lng": 127.0680173
+      }
+    },
+    {
+      "id": "gwangjin-light-LB3899",
+      "name": "스마트보안등 LB3899",
+      "coordinate": {
+        "lat": 37.54265994,
+        "lng": 127.0664763
+      }
+    },
+    {
+      "id": "gwangjin-light-LB3902",
+      "name": "스마트보안등 LB3902",
+      "coordinate": {
+        "lat": 37.54318394,
+        "lng": 127.0669867
+      }
+    },
+    {
+      "id": "gwangjin-light-LB3935",
+      "name": "스마트보안등 LB3935",
+      "coordinate": {
+        "lat": 37.54374744,
+        "lng": 127.0672766
+      }
+    },
+    {
+      "id": "gwangjin-light-LB3936",
+      "name": "스마트보안등 LB3936",
+      "coordinate": {
+        "lat": 37.54233774,
+        "lng": 127.066921
+      }
+    },
+    {
+      "id": "gwangjin-light-LB3937",
+      "name": "스마트보안등 LB3937",
+      "coordinate": {
+        "lat": 37.54318164,
+        "lng": 127.0676225
+      }
+    },
+    {
+      "id": "gwangjin-light-LB3938",
+      "name": "스마트보안등 LB3938",
+      "coordinate": {
+        "lat": 37.54220684,
+        "lng": 127.0674196
+      }
+    },
+    {
+      "id": "gwangjin-light-LB3939",
+      "name": "스마트보안등 LB3939",
+      "coordinate": {
+        "lat": 37.54336664,
+        "lng": 127.0677692
+      }
+    },
+    {
+      "id": "gwangjin-light-LB3942",
+      "name": "스마트보안등 LB3942",
+      "coordinate": {
+        "lat": 37.54418184,
+        "lng": 127.0678229
+      }
+    },
+    {
+      "id": "gwangjin-light-LB3944",
+      "name": "스마트보안등 LB3944",
+      "coordinate": {
+        "lat": 37.54331824,
+        "lng": 127.0670589
+      }
+    },
+    {
+      "id": "gwangjin-light-LB3945",
+      "name": "스마트보안등 LB3945",
+      "coordinate": {
+        "lat": 37.54353114,
+        "lng": 127.0678122
+      }
+    },
+    {
+      "id": "gwangjin-light-LB3946",
+      "name": "스마트보안등 LB3946",
+      "coordinate": {
+        "lat": 37.54369294,
+        "lng": 127.0682546
+      }
+    },
+    {
+      "id": "gwangjin-light-LB3947",
+      "name": "스마트보안등 LB3947",
+      "coordinate": {
+        "lat": 37.54459224,
+        "lng": 127.0673711
+      }
+    },
+    {
+      "id": "gwangjin-light-LB5226",
+      "name": "스마트보안등 LB5226",
+      "coordinate": {
+        "lat": 37.54821321,
+        "lng": 127.0727946
+      }
+    },
+    {
+      "id": "gwangjin-light-LB5239",
+      "name": "스마트보안등 LB5239",
+      "coordinate": {
+        "lat": 37.54141221,
+        "lng": 127.0842916
+      }
+    },
+    {
+      "id": "gwangjin-light-LB5240",
+      "name": "스마트보안등 LB5240",
+      "coordinate": {
+        "lat": 37.53962814,
+        "lng": 127.0658858
+      }
+    },
+    {
+      "id": "gwangjin-light-LB5253",
+      "name": "스마트보안등 LB5253",
+      "coordinate": {
+        "lat": 37.54452444,
+        "lng": 127.0676075
+      }
+    },
+    {
+      "id": "gwangjin-light-LB5257",
+      "name": "스마트보안등 LB5257",
+      "coordinate": {
+        "lat": 37.54848121,
+        "lng": 127.0725806
+      }
+    },
+    {
+      "id": "gwangjin-light-LB8403",
+      "name": "스마트보안등 LB8403",
+      "coordinate": {
+        "lat": 37.54460704,
+        "lng": 127.0680529
+      }
+    },
+    {
+      "id": "gwangjin-light-LB8404",
+      "name": "스마트보안등 LB8404",
+      "coordinate": {
+        "lat": 37.54513314,
+        "lng": 127.0681699
+      }
+    },
+    {
+      "id": "gwangjin-light-LB8406",
+      "name": "스마트보안등 LB8406",
+      "coordinate": {
+        "lat": 37.54518254,
+        "lng": 127.0684706
+      }
+    },
+    {
+      "id": "gwangjin-light-LB8407",
+      "name": "스마트보안등 LB8407",
+      "coordinate": {
+        "lat": 37.54322264,
+        "lng": 127.0673141
+      }
+    },
+    {
+      "id": "gwangjin-light-LB8408",
+      "name": "스마트보안등 LB8408",
+      "coordinate": {
+        "lat": 37.54453784,
+        "lng": 127.0685782
+      }
+    },
+    {
+      "id": "gwangjin-light-LB8409",
+      "name": "스마트보안등 LB8409",
+      "coordinate": {
+        "lat": 37.54530694,
+        "lng": 127.0682658
+      }
+    },
+    {
+      "id": "gwangjin-light-LB8410",
+      "name": "스마트보안등 LB8410",
+      "coordinate": {
+        "lat": 37.54261244,
+        "lng": 127.066729
+      }
+    },
+    {
+      "id": "gwangjin-light-LB8411",
+      "name": "스마트보안등 LB8411",
+      "coordinate": {
+        "lat": 37.54287124,
+        "lng": 127.0672059
+      }
+    },
+    {
+      "id": "gwangjin-light-LB8415",
+      "name": "스마트보안등 LB8415",
+      "coordinate": {
+        "lat": 37.54467134,
+        "lng": 127.0678427
+      }
+    },
+    {
+      "id": "gwangjin-light-LB8416",
+      "name": "스마트보안등 LB8416",
+      "coordinate": {
+        "lat": 37.54498364,
+        "lng": 127.068244
+      }
+    },
+    {
+      "id": "gwangjin-light-LB8417",
+      "name": "스마트보안등 LB8417",
+      "coordinate": {
+        "lat": 37.54390974,
+        "lng": 127.0673692
+      }
+    },
+    {
+      "id": "gwangjin-light-LB8427",
+      "name": "스마트보안등 LB8427",
+      "coordinate": {
+        "lat": 37.54249284,
+        "lng": 127.0673365
+      }
+    },
+    {
+      "id": "gwangjin-light-LB8464",
+      "name": "스마트보안등 LB8464",
+      "coordinate": {
+        "lat": 37.54469734,
+        "lng": 127.0681026
+      }
+    },
+    {
+      "id": "gwangjin-light-LB8465",
+      "name": "스마트보안등 LB8465",
+      "coordinate": {
+        "lat": 37.54299584,
+        "lng": 127.067574
+      }
+    },
+    {
+      "id": "gwangjin-light-LB8466",
+      "name": "스마트보안등 LB8466",
+      "coordinate": {
+        "lat": 37.54555574,
+        "lng": 127.0678977
+      }
+    },
+    {
+      "id": "gwangjin-light-LB8467",
+      "name": "스마트보안등 LB8467",
+      "coordinate": {
+        "lat": 37.54307434,
+        "lng": 127.067001
+      }
+    },
+    {
+      "id": "gwangjin-light-LB8470",
+      "name": "스마트보안등 LB8470",
+      "coordinate": {
+        "lat": 37.54487021,
+        "lng": 127.0679396
+      }
+    },
+    {
+      "id": "gwangjin-light-LB8471",
+      "name": "스마트보안등 LB8471",
+      "coordinate": {
+        "lat": 37.54247624,
+        "lng": 127.0665247
+      }
+    },
+    {
+      "id": "gwangjin-light-LB8473",
+      "name": "스마트보안등 LB8473",
+      "coordinate": {
+        "lat": 37.54499854,
+        "lng": 127.0687519
+      }
+    },
+    {
+      "id": "gwangjin-light-LB8474",
+      "name": "스마트보안등 LB8474",
+      "coordinate": {
+        "lat": 37.54548924,
+        "lng": 127.0681012
+      }
+    },
+    {
+      "id": "gwangjin-light-LB8475",
+      "name": "스마트보안등 LB8475",
+      "coordinate": {
+        "lat": 37.54438814,
+        "lng": 127.0679369
+      }
+    },
+    {
+      "id": "gwangjin-light-LB8476",
+      "name": "스마트보안등 LB8476",
+      "coordinate": {
+        "lat": 37.54229074,
+        "lng": 127.0671789
+      }
+    },
+    {
+      "id": "gwangjin-light-LB8477",
+      "name": "스마트보안등 LB8477",
+      "coordinate": {
+        "lat": 37.54357904,
+        "lng": 127.0671709
+      }
+    },
+    {
+      "id": "gwangjin-light-LB8478",
+      "name": "스마트보안등 LB8478",
+      "coordinate": {
+        "lat": 37.54527184,
+        "lng": 127.0679522
+      }
+    },
+    {
+      "id": "gwangjin-light-LB9741",
+      "name": "스마트보안등 LB9741",
+      "coordinate": {
+        "lat": 37.54249834,
+        "lng": 127.0670119
+      }
+    },
+    {
+      "id": "gwangjin-light-LB9750",
+      "name": "스마트보안등 LB9750",
+      "coordinate": {
+        "lat": 37.54371814,
+        "lng": 127.0679086
+      }
+    },
+    {
+      "id": "gwangjin-light-LB9767",
+      "name": "스마트보안등 LB9767",
+      "coordinate": {
+        "lat": 37.54048794,
+        "lng": 127.0685074
+      }
+    },
+    {
+      "id": "gwangjin-light-LB9782",
+      "name": "스마트보안등 LB9782",
+      "coordinate": {
+        "lat": 37.54982184,
+        "lng": 127.0701437
+      }
+    },
+    {
+      "id": "gwangjin-light-LC1141",
+      "name": "스마트보안등 LC1141",
+      "coordinate": {
+        "lat": 37.54353721,
+        "lng": 127.0830296
+      }
+    },
+    {
+      "id": "gwangjin-light-LC1147",
+      "name": "스마트보안등 LC1147",
+      "coordinate": {
+        "lat": 37.54267921,
+        "lng": 127.0828996
+      }
+    },
+    {
+      "id": "gwangjin-light-LC1148",
+      "name": "스마트보안등 LC1148",
+      "coordinate": {
+        "lat": 37.54664521,
+        "lng": 127.0677036
+      }
+    },
+    {
+      "id": "gwangjin-light-LC1150",
+      "name": "스마트보안등 LC1150",
+      "coordinate": {
+        "lat": 37.54740821,
+        "lng": 127.0677836
+      }
+    },
+    {
+      "id": "gwangjin-light-LC1152",
+      "name": "스마트보안등 LC1152",
+      "coordinate": {
+        "lat": 37.54195021,
+        "lng": 127.0819236
+      }
+    },
+    {
+      "id": "gwangjin-light-LC1153",
+      "name": "스마트보안등 LC1153",
+      "coordinate": {
+        "lat": 37.54251021,
+        "lng": 127.0827966
+      }
+    },
+    {
+      "id": "gwangjin-light-LC1155",
+      "name": "스마트보안등 LC1155",
+      "coordinate": {
+        "lat": 37.54475321,
+        "lng": 127.0836056
+      }
+    },
+    {
+      "id": "gwangjin-light-LC1157",
+      "name": "스마트보안등 LC1157",
+      "coordinate": {
+        "lat": 37.54450221,
+        "lng": 127.0835146
+      }
+    },
+    {
+      "id": "gwangjin-light-LC1160",
+      "name": "스마트보안등 LC1160",
+      "coordinate": {
+        "lat": 37.54439321,
+        "lng": 127.0838126
+      }
+    },
+    {
+      "id": "gwangjin-light-LC1167",
+      "name": "스마트보안등 LC1167",
+      "coordinate": {
+        "lat": 37.54383021,
+        "lng": 127.0838306
+      }
+    },
+    {
+      "id": "gwangjin-light-LC1174",
+      "name": "스마트보안등 LC1174",
+      "coordinate": {
+        "lat": 37.54651321,
+        "lng": 127.0681316
+      }
+    },
+    {
+      "id": "gwangjin-light-LC1181",
+      "name": "스마트보안등 LC1181",
+      "coordinate": {
+        "lat": 37.55001721,
+        "lng": 127.0729996
+      }
+    },
+    {
+      "id": "gwangjin-light-LC1184",
+      "name": "스마트보안등 LC1184",
+      "coordinate": {
+        "lat": 37.54959221,
+        "lng": 127.0724186
+      }
+    },
+    {
+      "id": "gwangjin-light-LC1186",
+      "name": "스마트보안등 LC1186",
+      "coordinate": {
+        "lat": 37.54235421,
+        "lng": 127.0833076
+      }
+    },
+    {
+      "id": "gwangjin-light-LC1189",
+      "name": "스마트보안등 LC1189",
+      "coordinate": {
+        "lat": 37.54189021,
+        "lng": 127.0827396
+      }
+    },
+    {
+      "id": "gwangjin-light-LC1191",
+      "name": "스마트보안등 LC1191",
+      "coordinate": {
+        "lat": 37.54244421,
+        "lng": 127.0832406
+      }
+    },
+    {
+      "id": "gwangjin-light-LC1192",
+      "name": "스마트보안등 LC1192",
+      "coordinate": {
+        "lat": 37.54300821,
+        "lng": 127.0835616
+      }
+    },
+    {
+      "id": "gwangjin-light-LC1194",
+      "name": "스마트보안등 LC1194",
+      "coordinate": {
+        "lat": 37.54263121,
+        "lng": 127.0820726
+      }
+    },
+    {
+      "id": "gwangjin-light-LC1197",
+      "name": "스마트보안등 LC1197",
+      "coordinate": {
+        "lat": 37.54364421,
+        "lng": 127.0826916
+      }
+    },
+    {
+      "id": "gwangjin-light-LC1199",
+      "name": "스마트보안등 LC1199",
+      "coordinate": {
+        "lat": 37.54382621,
+        "lng": 127.0827866
+      }
+    },
+    {
+      "id": "gwangjin-light-LC1200",
+      "name": "스마트보안등 LC1200",
+      "coordinate": {
+        "lat": 37.54281521,
+        "lng": 127.0821776
+      }
+    },
+    {
+      "id": "gwangjin-light-LC1203",
+      "name": "스마트보안등 LC1203",
+      "coordinate": {
+        "lat": 37.54309421,
+        "lng": 127.0824156
+      }
+    },
+    {
+      "id": "gwangjin-light-LC1204",
+      "name": "스마트보안등 LC1204",
+      "coordinate": {
+        "lat": 37.54840221,
+        "lng": 127.0727016
+      }
+    },
+    {
+      "id": "gwangjin-light-LC1205",
+      "name": "스마트보안등 LC1205",
+      "coordinate": {
+        "lat": 37.54234721,
+        "lng": 127.0819056
+      }
+    },
+    {
+      "id": "gwangjin-light-LC1206",
+      "name": "스마트보안등 LC1206",
+      "coordinate": {
+        "lat": 37.54888521,
+        "lng": 127.0723996
+      }
+    },
+    {
+      "id": "gwangjin-light-LC1238",
+      "name": "스마트보안등 LC1238",
+      "coordinate": {
+        "lat": 37.54138321,
+        "lng": 127.0833886
+      }
+    },
+    {
+      "id": "gwangjin-light-LC1240",
+      "name": "스마트보안등 LC1240",
+      "coordinate": {
+        "lat": 37.54769221,
+        "lng": 127.0679136
+      }
+    },
+    {
+      "id": "gwangjin-light-LC1241",
+      "name": "스마트보안등 LC1241",
+      "coordinate": {
+        "lat": 37.54154521,
+        "lng": 127.0828176
+      }
+    },
+    {
+      "id": "gwangjin-light-LC1243",
+      "name": "스마트보안등 LC1243",
+      "coordinate": {
+        "lat": 37.54702521,
+        "lng": 127.0675666
+      }
+    },
+    {
+      "id": "gwangjin-light-LC1244",
+      "name": "스마트보안등 LC1244",
+      "coordinate": {
+        "lat": 37.54224121,
+        "lng": 127.0822076
+      }
+    },
+    {
+      "id": "gwangjin-light-LC1253",
+      "name": "스마트보안등 LC1253",
+      "coordinate": {
+        "lat": 37.54883021,
+        "lng": 127.0733096
+      }
+    },
+    {
+      "id": "gwangjin-light-LC1256",
+      "name": "스마트보안등 LC1256",
+      "coordinate": {
+        "lat": 37.54846221,
+        "lng": 127.0732856
+      }
+    },
+    {
+      "id": "gwangjin-light-LC1258",
+      "name": "스마트보안등 LC1258",
+      "coordinate": {
+        "lat": 37.54899521,
+        "lng": 127.0733166
+      }
+    },
+    {
+      "id": "gwangjin-light-LC1260",
+      "name": "스마트보안등 LC1260",
+      "coordinate": {
+        "lat": 37.55038421,
+        "lng": 127.0690476
+      }
+    },
+    {
+      "id": "gwangjin-light-LC1261",
+      "name": "스마트보안등 LC1261",
+      "coordinate": {
+        "lat": 37.54892421,
+        "lng": 127.0727126
+      }
+    },
+    {
+      "id": "gwangjin-light-LC1263",
+      "name": "스마트보안등 LC1263",
+      "coordinate": {
+        "lat": 37.54936421,
+        "lng": 127.0721266
+      }
+    },
+    {
+      "id": "gwangjin-light-LC1266",
+      "name": "스마트보안등 LC1266",
+      "coordinate": {
+        "lat": 37.54899521,
+        "lng": 127.0726726
+      }
+    },
+    {
+      "id": "gwangjin-light-LC1268",
+      "name": "스마트보안등 LC1268",
+      "coordinate": {
+        "lat": 37.54690421,
+        "lng": 127.0676796
+      }
+    },
+    {
+      "id": "gwangjin-light-LC1273",
+      "name": "스마트보안등 LC1273",
+      "coordinate": {
+        "lat": 37.54683121,
+        "lng": 127.0680446
+      }
+    },
+    {
+      "id": "gwangjin-light-LC1275",
+      "name": "스마트보안등 LC1275",
+      "coordinate": {
+        "lat": 37.54870821,
+        "lng": 127.0733046
+      }
+    },
+    {
+      "id": "gwangjin-light-LC1284",
+      "name": "스마트보안등 LC1284",
+      "coordinate": {
+        "lat": 37.54868021,
+        "lng": 127.0728196
+      }
+    },
+    {
+      "id": "gwangjin-light-LC1289",
+      "name": "스마트보안등 LC1289",
+      "coordinate": {
+        "lat": 37.55013021,
+        "lng": 127.0690446
+      }
+    },
+    {
+      "id": "gwangjin-light-LC1292",
+      "name": "스마트보안등 LC1292",
+      "coordinate": {
+        "lat": 37.54859821,
+        "lng": 127.0688306
+      }
+    },
+    {
+      "id": "gwangjin-light-LC1294",
+      "name": "스마트보안등 LC1294",
+      "coordinate": {
+        "lat": 37.54936521,
+        "lng": 127.0693826
+      }
+    },
+    {
+      "id": "gwangjin-light-LC1297",
+      "name": "스마트보안등 LC1297",
+      "coordinate": {
+        "lat": 37.54875821,
+        "lng": 127.0695836
+      }
+    },
+    {
+      "id": "gwangjin-light-LC1299",
+      "name": "스마트보안등 LC1299",
+      "coordinate": {
+        "lat": 37.54953821,
+        "lng": 127.0730386
+      }
+    },
+    {
+      "id": "gwangjin-light-LC1306",
+      "name": "스마트보안등 LC1306",
+      "coordinate": {
+        "lat": 37.54656721,
+        "lng": 127.0679596
+      }
+    },
+    {
+      "id": "gwangjin-light-LC1309",
+      "name": "스마트보안등 LC1309",
+      "coordinate": {
+        "lat": 37.54643421,
+        "lng": 127.0683786
+      }
+    },
+    {
+      "id": "gwangjin-light-LC1312",
+      "name": "스마트보안등 LC1312",
+      "coordinate": {
+        "lat": 37.54672621,
+        "lng": 127.0683096
+      }
+    },
+    {
+      "id": "gwangjin-light-LC1313",
+      "name": "스마트보안등 LC1313",
+      "coordinate": {
+        "lat": 37.54944621,
+        "lng": 127.0691636
+      }
+    },
+    {
+      "id": "gwangjin-light-LC1316",
+      "name": "스마트보안등 LC1316",
+      "coordinate": {
+        "lat": 37.54897021,
+        "lng": 127.0691726
+      }
+    },
+    {
+      "id": "gwangjin-light-LC1317",
+      "name": "스마트보안등 LC1317",
+      "coordinate": {
+        "lat": 37.54958521,
+        "lng": 127.0687486
+      }
+    },
+    {
+      "id": "gwangjin-light-LC1319",
+      "name": "스마트보안등 LC1319",
+      "coordinate": {
+        "lat": 37.54914221,
+        "lng": 127.0696376
+      }
+    },
+    {
+      "id": "gwangjin-light-LC1321",
+      "name": "스마트보안등 LC1321",
+      "coordinate": {
+        "lat": 37.54399221,
+        "lng": 127.0832936
+      }
+    },
+    {
+      "id": "gwangjin-light-LC1324",
+      "name": "스마트보안등 LC1324",
+      "coordinate": {
+        "lat": 37.54358221,
+        "lng": 127.0841226
+      }
+    },
+    {
+      "id": "gwangjin-light-LC1326",
+      "name": "스마트보안등 LC1326",
+      "coordinate": {
+        "lat": 37.54354221,
+        "lng": 127.0837026
+      }
+    },
+    {
+      "id": "gwangjin-light-LC1330",
+      "name": "스마트보안등 LC1330",
+      "coordinate": {
+        "lat": 37.54913521,
+        "lng": 127.0733276
+      }
+    },
+    {
+      "id": "gwangjin-light-LC1339",
+      "name": "스마트보안등 LC1339",
+      "coordinate": {
+        "lat": 37.54917621,
+        "lng": 127.0721646
+      }
+    },
+    {
+      "id": "gwangjin-light-LC1342",
+      "name": "스마트보안등 LC1342",
+      "coordinate": {
+        "lat": 37.55004021,
+        "lng": 127.0727896
+      }
+    },
+    {
+      "id": "gwangjin-light-LC2534",
+      "name": "스마트보안등 LC2534",
+      "coordinate": {
+        "lat": 37.54276821,
+        "lng": 127.0826016
+      }
+    },
+    {
+      "id": "gwangjin-light-LC2547",
+      "name": "스마트보안등 LC2547",
+      "coordinate": {
+        "lat": 37.54300121,
+        "lng": 127.0827206
+      }
+    },
+    {
+      "id": "gwangjin-light-LC2550",
+      "name": "스마트보안등 LC2550",
+      "coordinate": {
+        "lat": 37.54720621,
+        "lng": 127.0676756
+      }
+    },
+    {
+      "id": "gwangjin-light-LC2557",
+      "name": "스마트보안등 LC2557",
+      "coordinate": {
+        "lat": 37.54416321,
+        "lng": 127.0839496
+      }
+    },
+    {
+      "id": "gwangjin-light-LC2560",
+      "name": "스마트보안등 LC2560",
+      "coordinate": {
+        "lat": 37.54359121,
+        "lng": 127.0838936
+      }
+    },
+    {
+      "id": "gwangjin-light-LC2564",
+      "name": "스마트보안등 LC2564",
+      "coordinate": {
+        "lat": 37.54428921,
+        "lng": 127.0835666
+      }
+    },
+    {
+      "id": "gwangjin-light-LC2586",
+      "name": "스마트보안등 LC2586",
+      "coordinate": {
+        "lat": 37.54228321,
+        "lng": 127.0835606
+      }
+    },
+    {
+      "id": "gwangjin-light-LC2588",
+      "name": "스마트보안등 LC2588",
+      "coordinate": {
+        "lat": 37.54247021,
+        "lng": 127.0836616
+      }
+    },
+    {
+      "id": "gwangjin-light-LC2589",
+      "name": "스마트보안등 LC2589",
+      "coordinate": {
+        "lat": 37.54181521,
+        "lng": 127.0826466
+      }
+    },
+    {
+      "id": "gwangjin-light-LC2590",
+      "name": "스마트보안등 LC2590",
+      "coordinate": {
+        "lat": 37.54279621,
+        "lng": 127.0834606
+      }
+    },
+    {
+      "id": "gwangjin-light-LC2591",
+      "name": "스마트보안등 LC2591",
+      "coordinate": {
+        "lat": 37.54333521,
+        "lng": 127.0838916
+      }
+    },
+    {
+      "id": "gwangjin-light-LC2594",
+      "name": "스마트보안등 LC2594",
+      "coordinate": {
+        "lat": 37.54411521,
+        "lng": 127.0829416
+      }
+    },
+    {
+      "id": "gwangjin-light-LC2599",
+      "name": "스마트보안등 LC2599",
+      "coordinate": {
+        "lat": 37.54231421,
+        "lng": 127.0826536
+      }
+    },
+    {
+      "id": "gwangjin-light-LC2600",
+      "name": "스마트보안등 LC2600",
+      "coordinate": {
+        "lat": 37.54207521,
+        "lng": 127.0816356
+      }
+    },
+    {
+      "id": "gwangjin-light-LC2601",
+      "name": "스마트보안등 LC2601",
+      "coordinate": {
+        "lat": 37.54942521,
+        "lng": 127.0721026
+      }
+    },
+    {
+      "id": "gwangjin-light-LC2602",
+      "name": "스마트보안등 LC2602",
+      "coordinate": {
+        "lat": 37.54244321,
+        "lng": 127.0824126
+      }
+    },
+    {
+      "id": "gwangjin-light-LC2604",
+      "name": "스마트보안등 LC2604",
+      "coordinate": {
+        "lat": 37.54906321,
+        "lng": 127.0730566
+      }
+    },
+    {
+      "id": "gwangjin-light-LC2637",
+      "name": "스마트보안등 LC2637",
+      "coordinate": {
+        "lat": 37.54182221,
+        "lng": 127.0821946
+      }
+    },
+    {
+      "id": "gwangjin-light-LC2638",
+      "name": "스마트보안등 LC2638",
+      "coordinate": {
+        "lat": 37.54162521,
+        "lng": 127.0824166
+      }
+    },
+    {
+      "id": "gwangjin-light-LC2640",
+      "name": "스마트보안등 LC2640",
+      "coordinate": {
+        "lat": 37.54185721,
+        "lng": 127.0830606
+      }
+    },
+    {
+      "id": "gwangjin-light-LC2642",
+      "name": "스마트보안등 LC2642",
+      "coordinate": {
+        "lat": 37.54751214,
+        "lng": 127.0678213
+      }
+    },
+    {
+      "id": "gwangjin-light-LC2643",
+      "name": "스마트보안등 LC2643",
+      "coordinate": {
+        "lat": 37.54212321,
+        "lng": 127.0824066
+      }
+    },
+    {
+      "id": "gwangjin-light-LC2649",
+      "name": "스마트보안등 LC2649",
+      "coordinate": {
+        "lat": 37.54156521,
+        "lng": 127.0833136
+      }
+    },
+    {
+      "id": "gwangjin-light-LC2655",
+      "name": "스마트보안등 LC2655",
+      "coordinate": {
+        "lat": 37.54857121,
+        "lng": 127.0732956
+      }
+    },
+    {
+      "id": "gwangjin-light-LC2660",
+      "name": "스마트보안등 LC2660",
+      "coordinate": {
+        "lat": 37.54933021,
+        "lng": 127.0731936
+      }
+    },
+    {
+      "id": "gwangjin-light-LC2662",
+      "name": "스마트보안등 LC2662",
+      "coordinate": {
+        "lat": 37.54878621,
+        "lng": 127.0730406
+      }
+    },
+    {
+      "id": "gwangjin-light-LC2665",
+      "name": "스마트보안등 LC2665",
+      "coordinate": {
+        "lat": 37.54924721,
+        "lng": 127.0722916
+      }
+    },
+    {
+      "id": "gwangjin-light-LC2669",
+      "name": "스마트보안등 LC2669",
+      "coordinate": {
+        "lat": 37.54889521,
+        "lng": 127.0696006
+      }
+    },
+    {
+      "id": "gwangjin-light-LC2673",
+      "name": "스마트보안등 LC2673",
+      "coordinate": {
+        "lat": 37.54712421,
+        "lng": 127.0672806
+      }
+    },
+    {
+      "id": "gwangjin-light-LC2687",
+      "name": "스마트보안등 LC2687",
+      "coordinate": {
+        "lat": 37.54857421,
+        "lng": 127.0717666
+      }
+    },
+    {
+      "id": "gwangjin-light-LC2688",
+      "name": "스마트보안등 LC2688",
+      "coordinate": {
+        "lat": 37.54974821,
+        "lng": 127.0732266
+      }
+    },
+    {
+      "id": "gwangjin-light-LC2698",
+      "name": "스마트보안등 LC2698",
+      "coordinate": {
+        "lat": 37.54982421,
+        "lng": 127.0728236
+      }
+    },
+    {
+      "id": "gwangjin-light-LC2701",
+      "name": "스마트보안등 LC2701",
+      "coordinate": {
+        "lat": 37.54997321,
+        "lng": 127.0726216
+      }
+    },
+    {
+      "id": "gwangjin-light-LC2713",
+      "name": "스마트보안등 LC2713",
+      "coordinate": {
+        "lat": 37.54877821,
+        "lng": 127.0687386
+      }
+    },
+    {
+      "id": "gwangjin-light-LC2716",
+      "name": "스마트보안등 LC2716",
+      "coordinate": {
+        "lat": 37.54840921,
+        "lng": 127.0724416
+      }
+    },
+    {
+      "id": "gwangjin-light-LC2718",
+      "name": "스마트보안등 LC2718",
+      "coordinate": {
+        "lat": 37.54918421,
+        "lng": 127.0686066
+      }
+    },
+    {
+      "id": "gwangjin-light-LC2720",
+      "name": "스마트보안등 LC2720",
+      "coordinate": {
+        "lat": 37.54188821,
+        "lng": 127.0820526
+      }
+    },
+    {
+      "id": "gwangjin-light-LC2723",
+      "name": "스마트보안등 LC2723",
+      "coordinate": {
+        "lat": 37.54252621,
+        "lng": 127.0834666
+      }
+    },
+    {
+      "id": "gwangjin-light-LC2724",
+      "name": "스마트보안등 LC2724",
+      "coordinate": {
+        "lat": 37.54198221,
+        "lng": 127.0831486
+      }
+    },
+    {
+      "id": "gwangjin-light-LC2726",
+      "name": "스마트보안등 LC2726",
+      "coordinate": {
+        "lat": 37.54171821,
+        "lng": 127.0830726
+      }
+    },
+    {
+      "id": "gwangjin-light-LC2731",
+      "name": "스마트보안등 LC2731",
+      "coordinate": {
+        "lat": 37.54383521,
+        "lng": 127.0830996
+      }
+    },
+    {
+      "id": "gwangjin-light-LC2736",
+      "name": "스마트보안등 LC2736",
+      "coordinate": {
+        "lat": 37.54941921,
+        "lng": 127.0726346
+      }
+    },
+    {
+      "id": "gwangjin-light-LC6086",
+      "name": "스마트보안등 LC6086",
+      "coordinate": {
+        "lat": 37.54663434,
+        "lng": 127.0720466
+      }
+    },
+    {
+      "id": "gwangjin-light-LC6090",
+      "name": "스마트보안등 LC6090",
+      "coordinate": {
+        "lat": 37.54133154,
+        "lng": 127.0674601
+      }
+    },
+    {
+      "id": "gwangjin-light-LC6092",
+      "name": "스마트보안등 LC6092",
+      "coordinate": {
+        "lat": 37.53734124,
+        "lng": 127.0747465
+      }
+    },
+    {
+      "id": "gwangjin-light-LC6101",
+      "name": "스마트보안등 LC6101",
+      "coordinate": {
+        "lat": 37.53579721,
+        "lng": 127.0756636
+      }
+    },
+    {
+      "id": "gwangjin-light-LC6554",
+      "name": "스마트보안등 LC6554",
+      "coordinate": {
+        "lat": 37.53783721,
+        "lng": 127.0654746
+      }
+    },
+    {
+      "id": "gwangjin-light-LC6578",
+      "name": "스마트보안등 LC6578",
+      "coordinate": {
+        "lat": 37.54406524,
+        "lng": 127.0670803
+      }
+    },
+    {
+      "id": "gwangjin-light-LC6595",
+      "name": "스마트보안등 LC6595",
+      "coordinate": {
+        "lat": 37.54456574,
+        "lng": 127.0689626
+      }
+    },
+    {
+      "id": "gwangjin-light-LC6756",
+      "name": "스마트보안등 LC6756",
+      "coordinate": {
+        "lat": 37.54524844,
+        "lng": 127.0674789
+      }
+    },
+    {
+      "id": "gwangjin-light-LC6785",
+      "name": "스마트보안등 LC6785",
+      "coordinate": {
+        "lat": 37.54221084,
+        "lng": 127.0671079
+      }
+    },
+    {
+      "id": "gwangjin-light-LC6887",
+      "name": "스마트보안등 LC6887",
+      "coordinate": {
+        "lat": 37.54272694,
+        "lng": 127.0680525
+      }
+    },
+    {
+      "id": "gwangjin-light-LC6902",
+      "name": "스마트보안등 LC6902",
+      "coordinate": {
+        "lat": 37.54571374,
+        "lng": 127.0684599
+      }
+    },
+    {
+      "id": "gwangjin-light-LC6903",
+      "name": "스마트보안등 LC6903",
+      "coordinate": {
+        "lat": 37.54492594,
+        "lng": 127.0673812
+      }
+    },
+    {
+      "id": "gwangjin-light-LC6918",
+      "name": "스마트보안등 LC6918",
+      "coordinate": {
+        "lat": 37.54520184,
+        "lng": 127.0689352
+      }
+    },
+    {
+      "id": "gwangjin-light-LC6944",
+      "name": "스마트보안등 LC6944",
+      "coordinate": {
+        "lat": 37.54352494,
+        "lng": 127.0665491
+      }
+    },
+    {
+      "id": "gwangjin-light-LC6967",
+      "name": "스마트보안등 LC6967",
+      "coordinate": {
+        "lat": 37.54239384,
+        "lng": 127.0674865
+      }
+    },
+    {
+      "id": "gwangjin-light-LC6971",
+      "name": "스마트보안등 LC6971",
+      "coordinate": {
+        "lat": 37.54567014,
+        "lng": 127.0677106
+      }
+    },
+    {
+      "id": "gwangjin-light-LC6972",
+      "name": "스마트보안등 LC6972",
+      "coordinate": {
+        "lat": 37.54291004,
+        "lng": 127.0678219
+      }
+    },
+    {
+      "id": "gwangjin-light-LC6978",
+      "name": "스마트보안등 LC6978",
+      "coordinate": {
+        "lat": 37.54372124,
+        "lng": 127.0685073
+      }
+    },
+    {
+      "id": "gwangjin-light-LC7016",
+      "name": "스마트보안등 LC7016",
+      "coordinate": {
+        "lat": 37.54228034,
+        "lng": 127.0678058
+      }
+    },
+    {
+      "id": "gwangjin-light-LC7032",
+      "name": "스마트보안등 LC7032",
+      "coordinate": {
+        "lat": 37.54208984,
+        "lng": 127.0676279
+      }
+    },
+    {
+      "id": "gwangjin-light-LC7050",
+      "name": "스마트보안등 LC7050",
+      "coordinate": {
+        "lat": 37.54292534,
+        "lng": 127.0662262
+      }
+    },
+    {
+      "id": "gwangjin-light-LC7058",
+      "name": "스마트보안등 LC7058",
+      "coordinate": {
+        "lat": 37.54588094,
+        "lng": 127.0678256
+      }
+    },
+    {
+      "id": "gwangjin-light-LC7069",
+      "name": "스마트보안등 LC7069",
+      "coordinate": {
+        "lat": 37.54261004,
+        "lng": 127.0660646
+      }
+    },
+    {
+      "id": "gwangjin-light-LC7081",
+      "name": "스마트보안등 LC7081",
+      "coordinate": {
+        "lat": 37.54317921,
+        "lng": 127.0667716
+      }
+    },
+    {
+      "id": "gwangjin-light-LC7096",
+      "name": "스마트보안등 LC7096",
+      "coordinate": {
+        "lat": 37.53877514,
+        "lng": 127.063589
+      }
+    },
+    {
+      "id": "gwangjin-light-LC7098",
+      "name": "스마트보안등 LC7098",
+      "coordinate": {
+        "lat": 37.54316294,
+        "lng": 127.066354
+      }
+    },
+    {
+      "id": "gwangjin-light-LC7108",
+      "name": "스마트보안등 LC7108",
+      "coordinate": {
+        "lat": 37.54554474,
+        "lng": 127.0686159
+      }
+    },
+    {
+      "id": "gwangjin-light-LC7112",
+      "name": "스마트보안등 LC7112",
+      "coordinate": {
+        "lat": 37.54448304,
+        "lng": 127.06937
+      }
+    },
+    {
+      "id": "gwangjin-light-LC7763",
+      "name": "스마트보안등 LC7763",
+      "coordinate": {
+        "lat": 37.54347294,
+        "lng": 127.0667304
+      }
+    },
+    {
+      "id": "gwangjin-light-LC7765",
+      "name": "스마트보안등 LC7765",
+      "coordinate": {
+        "lat": 37.54611584,
+        "lng": 127.0681006
+      }
+    },
+    {
+      "id": "gwangjin-light-LC7767",
+      "name": "스마트보안등 LC7767",
+      "coordinate": {
+        "lat": 37.54282724,
+        "lng": 127.0680296
+      }
+    },
+    {
+      "id": "gwangjin-light-LC7768",
+      "name": "스마트보안등 LC7768",
+      "coordinate": {
+        "lat": 37.54548564,
+        "lng": 127.0676139
+      }
+    },
+    {
+      "id": "gwangjin-light-LC7789",
+      "name": "스마트보안등 LC7789",
+      "coordinate": {
+        "lat": 37.54345324,
+        "lng": 127.0668438
+      }
+    },
+    {
+      "id": "gwangjin-light-LC7791",
+      "name": "스마트보안등 LC7791",
+      "coordinate": {
+        "lat": 37.54550854,
+        "lng": 127.0676967
+      }
+    },
+    {
+      "id": "gwangjin-light-LC7794",
+      "name": "스마트보안등 LC7794",
+      "coordinate": {
+        "lat": 37.54468874,
+        "lng": 127.0690949
+      }
+    },
+    {
+      "id": "gwangjin-light-LC7796",
+      "name": "스마트보안등 LC7796",
+      "coordinate": {
+        "lat": 37.54415534,
+        "lng": 127.0672842
+      }
+    },
+    {
+      "id": "gwangjin-light-LC8288",
+      "name": "스마트보안등 LC8288",
+      "coordinate": {
+        "lat": 37.54226004,
+        "lng": 127.0665318
+      }
+    },
+    {
+      "id": "gwangjin-light-LC8296",
+      "name": "스마트보안등 LC8296",
+      "coordinate": {
+        "lat": 37.54288844,
+        "lng": 127.0665782
+      }
+    },
+    {
+      "id": "gwangjin-light-LC8303",
+      "name": "스마트보안등 LC8303",
+      "coordinate": {
+        "lat": 37.54212994,
+        "lng": 127.0675202
+      }
+    },
+    {
+      "id": "gwangjin-light-LC8798",
+      "name": "스마트보안등 LC8798",
+      "coordinate": {
+        "lat": 37.54299634,
+        "lng": 127.0666326
+      }
+    },
+    {
+      "id": "gwangjin-light-LD1097",
+      "name": "스마트보안등 LD1097",
+      "coordinate": {
+        "lat": 37.54685721,
+        "lng": 127.0696326
+      }
+    },
+    {
+      "id": "gwangjin-light-LD1099",
+      "name": "스마트보안등 LD1099",
+      "coordinate": {
+        "lat": 37.53698494,
+        "lng": 127.0745644
+      }
+    },
+    {
+      "id": "gwangjin-light-LD1101",
+      "name": "스마트보안등 LD1101",
+      "coordinate": {
+        "lat": 37.53449794,
+        "lng": 127.0773816
+      }
+    },
+    {
+      "id": "gwangjin-light-LD1112",
+      "name": "스마트보안등 LD1112",
+      "coordinate": {
+        "lat": 37.54127094,
+        "lng": 127.0676465
+      }
+    },
+    {
+      "id": "gwangjin-light-LD1526",
+      "name": "스마트보안등 LD1526",
+      "coordinate": {
+        "lat": 37.54530994,
+        "lng": 127.0688246
+      }
+    },
+    {
+      "id": "gwangjin-light-LD1538",
+      "name": "스마트보안등 LD1538",
+      "coordinate": {
+        "lat": 37.54414764,
+        "lng": 127.0687419
+      }
+    },
+    {
+      "id": "gwangjin-light-LD1550",
+      "name": "스마트보안등 LD1550",
+      "coordinate": {
+        "lat": 37.54468414,
+        "lng": 127.0694063
+      }
+    },
+    {
+      "id": "gwangjin-light-LD1559",
+      "name": "스마트보안등 LD1559",
+      "coordinate": {
+        "lat": 37.54510884,
+        "lng": 127.0690108
+      }
+    },
+    {
+      "id": "gwangjin-light-LD1570",
+      "name": "스마트보안등 LD1570",
+      "coordinate": {
+        "lat": 37.54457734,
+        "lng": 127.0692223
+      }
+    },
+    {
+      "id": "gwangjin-light-LD1586",
+      "name": "스마트보안등 LD1586",
+      "coordinate": {
+        "lat": 37.54260384,
+        "lng": 127.0661395
+      }
+    },
+    {
+      "id": "gwangjin-light-LD1712",
+      "name": "스마트보안등 LD1712",
+      "coordinate": {
+        "lat": 37.54295964,
+        "lng": 127.0680972
+      }
+    },
+    {
+      "id": "gwangjin-light-LD1871",
+      "name": "스마트보안등 LD1871",
+      "coordinate": {
+        "lat": 37.54249914,
+        "lng": 127.0679278
+      }
+    },
+    {
+      "id": "gwangjin-light-LD1872",
+      "name": "스마트보안등 LD1872",
+      "coordinate": {
+        "lat": 37.54247264,
+        "lng": 127.06757
+      }
+    },
+    {
+      "id": "gwangjin-light-LD1879",
+      "name": "스마트보안등 LD1879",
+      "coordinate": {
+        "lat": 37.54479144,
+        "lng": 127.0688069
+      }
+    },
+    {
+      "id": "gwangjin-light-LD1880",
+      "name": "스마트보안등 LD1880",
+      "coordinate": {
+        "lat": 37.54428744,
+        "lng": 127.0684577
+      }
+    },
+    {
+      "id": "gwangjin-light-LD1881",
+      "name": "스마트보안등 LD1881",
+      "coordinate": {
+        "lat": 37.54385814,
+        "lng": 127.0667315
+      }
+    },
+    {
+      "id": "gwangjin-light-LD1882",
+      "name": "스마트보안등 LD1882",
+      "coordinate": {
+        "lat": 37.54263164,
+        "lng": 127.0677883
+      }
+    },
+    {
+      "id": "gwangjin-light-LD1887",
+      "name": "스마트보안등 LD1887",
+      "coordinate": {
+        "lat": 37.54391874,
+        "lng": 127.0686143
+      }
+    },
+    {
+      "id": "gwangjin-light-LD1893",
+      "name": "스마트보안등 LD1893",
+      "coordinate": {
+        "lat": 37.54482024,
+        "lng": 127.0672523
+      }
+    },
+    {
+      "id": "gwangjin-light-LD1915",
+      "name": "스마트보안등 LD1915",
+      "coordinate": {
+        "lat": 37.54448144,
+        "lng": 127.0670685
+      }
+    },
+    {
+      "id": "gwangjin-light-LD1952",
+      "name": "스마트보안등 LD1952",
+      "coordinate": {
+        "lat": 37.54610021,
+        "lng": 127.0670416
+      }
+    },
+    {
+      "id": "gwangjin-light-LD1956",
+      "name": "스마트보안등 LD1956",
+      "coordinate": {
+        "lat": 37.54274134,
+        "lng": 127.0661358
+      }
+    },
+    {
+      "id": "gwangjin-light-LD1976",
+      "name": "스마트보안등 LD1976",
+      "coordinate": {
+        "lat": 37.54435654,
+        "lng": 127.0670036
+      }
+    },
+    {
+      "id": "gwangjin-light-LD1980",
+      "name": "스마트보안등 LD1980",
+      "coordinate": {
+        "lat": 37.54604194,
+        "lng": 127.0679821
+      }
+    },
+    {
+      "id": "gwangjin-light-LD1984",
+      "name": "스마트보안등 LD1984",
+      "coordinate": {
+        "lat": 37.54321504,
+        "lng": 127.0682106
+      }
+    },
+    {
+      "id": "gwangjin-light-LD2001",
+      "name": "스마트보안등 LD2001",
+      "coordinate": {
+        "lat": 37.54657521,
+        "lng": 127.0673066
+      }
+    },
+    {
+      "id": "gwangjin-light-LD2012",
+      "name": "스마트보안등 LD2012",
+      "coordinate": {
+        "lat": 37.54440834,
+        "lng": 127.0688485
+      }
+    },
+    {
+      "id": "gwangjin-light-LD2013",
+      "name": "스마트보안등 LD2013",
+      "coordinate": {
+        "lat": 37.54588721,
+        "lng": 127.0669286
+      }
+    },
+    {
+      "id": "gwangjin-light-LD2050",
+      "name": "스마트보안등 LD2050",
+      "coordinate": {
+        "lat": 37.54588954,
+        "lng": 127.0683009
+      }
+    },
+    {
+      "id": "gwangjin-light-LD2054",
+      "name": "스마트보안등 LD2054",
+      "coordinate": {
+        "lat": 37.54367324,
+        "lng": 127.0668555
+      }
+    },
+    {
+      "id": "gwangjin-light-LD2064",
+      "name": "스마트보안등 LD2064",
+      "coordinate": {
+        "lat": 37.54413094,
+        "lng": 127.0668862
+      }
+    },
+    {
+      "id": "gwangjin-light-LD2141",
+      "name": "스마트보안등 LD2141",
+      "coordinate": {
+        "lat": 37.54528334,
+        "lng": 127.0687335
+      }
+    },
+    {
+      "id": "gwangjin-light-LD2704",
+      "name": "스마트보안등 LD2704",
+      "coordinate": {
+        "lat": 37.54327944,
+        "lng": 127.0682753
+      }
+    },
+    {
+      "id": "gwangjin-light-LD2705",
+      "name": "스마트보안등 LD2705",
+      "coordinate": {
+        "lat": 37.54403274,
+        "lng": 127.0683729
+      }
+    },
+    {
+      "id": "gwangjin-light-LD2707",
+      "name": "스마트보안등 LD2707",
+      "coordinate": {
+        "lat": 37.54353204,
+        "lng": 127.0684035
+      }
+    },
+    {
+      "id": "gwangjin-light-LD3319",
+      "name": "스마트보안등 LD3319",
+      "coordinate": {
+        "lat": 37.54317514,
+        "lng": 127.0682163
+      }
+    },
+    {
+      "id": "gwangjin-light-LD5301",
+      "name": "스마트보안등 LD5301",
+      "coordinate": {
+        "lat": 37.54355121,
+        "lng": 127.0687416
+      }
+    },
+    {
+      "id": "gwangjin-light-LD5302",
+      "name": "스마트보안등 LD5302",
+      "coordinate": {
+        "lat": 37.53909921,
+        "lng": 127.0633226
+      }
+    },
+    {
+      "id": "gwangjin-light-LD5310",
+      "name": "스마트보안등 LD5310",
+      "coordinate": {
+        "lat": 37.53839721,
+        "lng": 127.0636336
+      }
+    },
+    {
+      "id": "gwangjin-light-LD5313",
+      "name": "스마트보안등 LD5313",
+      "coordinate": {
+        "lat": 37.53928521,
+        "lng": 127.0629066
+      }
+    },
+    {
+      "id": "gwangjin-light-LD5315",
+      "name": "스마트보안등 LD5315",
+      "coordinate": {
+        "lat": 37.53972321,
+        "lng": 127.0636566
+      }
+    },
+    {
+      "id": "gwangjin-light-LD5317",
+      "name": "스마트보안등 LD5317",
+      "coordinate": {
+        "lat": 37.53848644,
+        "lng": 127.0654399
+      }
+    },
+    {
+      "id": "gwangjin-light-LD5318",
+      "name": "스마트보안등 LD5318",
+      "coordinate": {
+        "lat": 37.53806821,
+        "lng": 127.0644196
+      }
+    },
+    {
+      "id": "gwangjin-light-LD5319",
+      "name": "스마트보안등 LD5319",
+      "coordinate": {
+        "lat": 37.53828921,
+        "lng": 127.0652656
+      }
+    },
+    {
+      "id": "gwangjin-light-LD5321",
+      "name": "스마트보안등 LD5321",
+      "coordinate": {
+        "lat": 37.53952621,
+        "lng": 127.0639326
+      }
+    },
+    {
+      "id": "gwangjin-light-LD5322",
+      "name": "스마트보안등 LD5322",
+      "coordinate": {
+        "lat": 37.53833021,
+        "lng": 127.0640256
+      }
+    },
+    {
+      "id": "gwangjin-light-LD5323",
+      "name": "스마트보안등 LD5323",
+      "coordinate": {
+        "lat": 37.54334121,
+        "lng": 127.0687006
+      }
+    },
+    {
+      "id": "gwangjin-light-LD5325",
+      "name": "스마트보안등 LD5325",
+      "coordinate": {
+        "lat": 37.53962121,
+        "lng": 127.0638426
+      }
+    },
+    {
+      "id": "gwangjin-light-LD5326",
+      "name": "스마트보안등 LD5326",
+      "coordinate": {
+        "lat": 37.53879121,
+        "lng": 127.0631786
+      }
+    },
+    {
+      "id": "gwangjin-light-LD5327",
+      "name": "스마트보안등 LD5327",
+      "coordinate": {
+        "lat": 37.53765221,
+        "lng": 127.0646646
+      }
+    },
+    {
+      "id": "gwangjin-light-LD5328",
+      "name": "스마트보안등 LD5328",
+      "coordinate": {
+        "lat": 37.53921821,
+        "lng": 127.0641746
+      }
+    },
+    {
+      "id": "gwangjin-light-LD5331",
+      "name": "스마트보안등 LD5331",
+      "coordinate": {
+        "lat": 37.54415121,
+        "lng": 127.0656776
+      }
+    },
+    {
+      "id": "gwangjin-light-LD5332",
+      "name": "스마트보안등 LD5332",
+      "coordinate": {
+        "lat": 37.54443934,
+        "lng": 127.0680443
+      }
+    },
+    {
+      "id": "gwangjin-light-LD5333",
+      "name": "스마트보안등 LD5333",
+      "coordinate": {
+        "lat": 37.54374621,
+        "lng": 127.0687536
+      }
+    },
+    {
+      "id": "gwangjin-light-LD5334",
+      "name": "스마트보안등 LD5334",
+      "coordinate": {
+        "lat": 37.53934821,
+        "lng": 127.0634546
+      }
+    },
+    {
+      "id": "gwangjin-light-LD5335",
+      "name": "스마트보안등 LD5335",
+      "coordinate": {
+        "lat": 37.54373221,
+        "lng": 127.0691516
+      }
+    },
+    {
+      "id": "gwangjin-light-LD5336",
+      "name": "스마트보안등 LD5336",
+      "coordinate": {
+        "lat": 37.54379121,
+        "lng": 127.0664356
+      }
+    },
+    {
+      "id": "gwangjin-light-LD5337",
+      "name": "스마트보안등 LD5337",
+      "coordinate": {
+        "lat": 37.54402621,
+        "lng": 127.0657086
+      }
+    },
+    {
+      "id": "gwangjin-light-LD5338",
+      "name": "스마트보안등 LD5338",
+      "coordinate": {
+        "lat": 37.53914721,
+        "lng": 127.0636136
+      }
+    },
+    {
+      "id": "gwangjin-light-LD5339",
+      "name": "스마트보안등 LD5339",
+      "coordinate": {
+        "lat": 37.54408121,
+        "lng": 127.0654796
+      }
+    },
+    {
+      "id": "gwangjin-light-LD5340",
+      "name": "스마트보안등 LD5340",
+      "coordinate": {
+        "lat": 37.53934221,
+        "lng": 127.0642906
+      }
+    },
+    {
+      "id": "gwangjin-light-LD5341",
+      "name": "스마트보안등 LD5341",
+      "coordinate": {
+        "lat": 37.53811521,
+        "lng": 127.0639206
+      }
+    },
+    {
+      "id": "gwangjin-light-LD5342",
+      "name": "스마트보안등 LD5342",
+      "coordinate": {
+        "lat": 37.5381551,
+        "lng": 127.06416037
+      }
+    },
+    {
+      "id": "gwangjin-light-LD5343",
+      "name": "스마트보안등 LD5343",
+      "coordinate": {
+        "lat": 37.54495821,
+        "lng": 127.0668016
+      }
+    },
+    {
+      "id": "gwangjin-light-LD5344",
+      "name": "스마트보안등 LD5344",
+      "coordinate": {
+        "lat": 37.54465821,
+        "lng": 127.0662196
+      }
+    },
+    {
+      "id": "gwangjin-light-LD5347",
+      "name": "스마트보안등 LD5347",
+      "coordinate": {
+        "lat": 37.53780921,
+        "lng": 127.0652096
+      }
+    },
+    {
+      "id": "gwangjin-light-LD5348",
+      "name": "스마트보안등 LD5348",
+      "coordinate": {
+        "lat": 37.53774321,
+        "lng": 127.0653766
+      }
+    },
+    {
+      "id": "gwangjin-light-LD5349",
+      "name": "스마트보안등 LD5349",
+      "coordinate": {
+        "lat": 37.54423421,
+        "lng": 127.0696866
+      }
+    },
+    {
+      "id": "gwangjin-light-LD5350",
+      "name": "스마트보안등 LD5350",
+      "coordinate": {
+        "lat": 37.53830321,
+        "lng": 127.0642846
+      }
+    },
+    {
+      "id": "gwangjin-light-LD5352",
+      "name": "스마트보안등 LD5352",
+      "coordinate": {
+        "lat": 37.54429321,
+        "lng": 127.0690946
+      }
+    },
+    {
+      "id": "gwangjin-light-LD5353",
+      "name": "스마트보안등 LD5353",
+      "coordinate": {
+        "lat": 37.54390121,
+        "lng": 127.0665266
+      }
+    },
+    {
+      "id": "gwangjin-light-LD5354",
+      "name": "스마트보안등 LD5354",
+      "coordinate": {
+        "lat": 37.54368321,
+        "lng": 127.0660186
+      }
+    },
+    {
+      "id": "gwangjin-light-LD5355",
+      "name": "스마트보안등 LD5355",
+      "coordinate": {
+        "lat": 37.54443021,
+        "lng": 127.0667286
+      }
+    },
+    {
+      "id": "gwangjin-light-LD5357",
+      "name": "스마트보안등 LD5357",
+      "coordinate": {
+        "lat": 37.53861021,
+        "lng": 127.0645516
+      }
+    },
+    {
+      "id": "gwangjin-light-LD5358",
+      "name": "스마트보안등 LD5358",
+      "coordinate": {
+        "lat": 37.54293121,
+        "lng": 127.0689816
+      }
+    },
+    {
+      "id": "gwangjin-light-LD5359",
+      "name": "스마트보안등 LD5359",
+      "coordinate": {
+        "lat": 37.54451121,
+        "lng": 127.0661366
+      }
+    },
+    {
+      "id": "gwangjin-light-LD5360",
+      "name": "스마트보안등 LD5360",
+      "coordinate": {
+        "lat": 37.54295621,
+        "lng": 127.0652736
+      }
+    },
+    {
+      "id": "gwangjin-light-LD5362",
+      "name": "스마트보안등 LD5362",
+      "coordinate": {
+        "lat": 37.54495221,
+        "lng": 127.0663916
+      }
+    },
+    {
+      "id": "gwangjin-light-LD5363",
+      "name": "스마트보안등 LD5363",
+      "coordinate": {
+        "lat": 37.54291921,
+        "lng": 127.0659086
+      }
+    },
+    {
+      "id": "gwangjin-light-LD5364",
+      "name": "스마트보안등 LD5364",
+      "coordinate": {
+        "lat": 37.53856521,
+        "lng": 127.0649206
+      }
+    },
+    {
+      "id": "gwangjin-light-LD5365",
+      "name": "스마트보안등 LD5365",
+      "coordinate": {
+        "lat": 37.53768521,
+        "lng": 127.0641366
+      }
+    },
+    {
+      "id": "gwangjin-light-LD5366",
+      "name": "스마트보안등 LD5366",
+      "coordinate": {
+        "lat": 37.54386521,
+        "lng": 127.0695016
+      }
+    },
+    {
+      "id": "gwangjin-light-LD5367",
+      "name": "스마트보안등 LD5367",
+      "coordinate": {
+        "lat": 37.53772921,
+        "lng": 127.0648506
+      }
+    },
+    {
+      "id": "gwangjin-light-LD5368",
+      "name": "스마트보안등 LD5368",
+      "coordinate": {
+        "lat": 37.54540121,
+        "lng": 127.0663516
+      }
+    },
+    {
+      "id": "gwangjin-light-LD5369",
+      "name": "스마트보안등 LD5369",
+      "coordinate": {
+        "lat": 37.53818821,
+        "lng": 127.0646496
+      }
+    },
+    {
+      "id": "gwangjin-light-LD5370",
+      "name": "스마트보안등 LD5370",
+      "coordinate": {
+        "lat": 37.53878521,
+        "lng": 127.0638976
+      }
+    },
+    {
+      "id": "gwangjin-light-LD5371",
+      "name": "스마트보안등 LD5371",
+      "coordinate": {
+        "lat": 37.53946021,
+        "lng": 127.0636726
+      }
+    },
+    {
+      "id": "gwangjin-light-LD5372",
+      "name": "스마트보안등 LD5372",
+      "coordinate": {
+        "lat": 37.54462721,
+        "lng": 127.0665846
+      }
+    },
+    {
+      "id": "gwangjin-light-LD5373",
+      "name": "스마트보안등 LD5373",
+      "coordinate": {
+        "lat": 37.54504721,
+        "lng": 127.0665376
+      }
+    },
+    {
+      "id": "gwangjin-light-LD5375",
+      "name": "스마트보안등 LD5375",
+      "coordinate": {
+        "lat": 37.53761621,
+        "lng": 127.0653646
+      }
+    },
+    {
+      "id": "gwangjin-light-LD5376",
+      "name": "스마트보안등 LD5376",
+      "coordinate": {
+        "lat": 37.54541014,
+        "lng": 127.0666543
+      }
+    },
+    {
+      "id": "gwangjin-light-LD5377",
+      "name": "스마트보안등 LD5377",
+      "coordinate": {
+        "lat": 37.54356604,
+        "lng": 127.0671915
+      }
+    },
+    {
+      "id": "gwangjin-light-LD5382",
+      "name": "스마트보안등 LD5382",
+      "coordinate": {
+        "lat": 37.53954421,
+        "lng": 127.0641716
+      }
+    },
+    {
+      "id": "gwangjin-light-LD5383",
+      "name": "스마트보안등 LD5383",
+      "coordinate": {
+        "lat": 37.54446134,
+        "lng": 127.0677872
+      }
+    },
+    {
+      "id": "gwangjin-light-LD5384",
+      "name": "스마트보안등 LD5384",
+      "coordinate": {
+        "lat": 37.54289821,
+        "lng": 127.0684136
+      }
+    },
+    {
+      "id": "gwangjin-light-LD5389",
+      "name": "스마트보안등 LD5389",
+      "coordinate": {
+        "lat": 37.54304721,
+        "lng": 127.0686406
+      }
+    },
+    {
+      "id": "gwangjin-light-LD5390",
+      "name": "스마트보안등 LD5390",
+      "coordinate": {
+        "lat": 37.54349706,
+        "lng": 127.06900033
+      }
+    },
+    {
+      "id": "gwangjin-light-LD5392",
+      "name": "스마트보안등 LD5392",
+      "coordinate": {
+        "lat": 37.54387621,
+        "lng": 127.0657796
+      }
+    },
+    {
+      "id": "gwangjin-light-LD5395",
+      "name": "스마트보안등 LD5395",
+      "coordinate": {
+        "lat": 37.53754021,
+        "lng": 127.0644476
+      }
+    },
+    {
+      "id": "gwangjin-light-LD5397",
+      "name": "스마트보안등 LD5397",
+      "coordinate": {
+        "lat": 37.53746321,
+        "lng": 127.0653436
+      }
+    },
+    {
+      "id": "gwangjin-light-LD5399",
+      "name": "스마트보안등 LD5399",
+      "coordinate": {
+        "lat": 37.54410604,
+        "lng": 127.06593
+      }
+    },
+    {
+      "id": "gwangjin-light-LD5402",
+      "name": "스마트보안등 LD5402",
+      "coordinate": {
+        "lat": 37.54412904,
+        "lng": 127.0667716
+      }
+    },
+    {
+      "id": "gwangjin-light-LD5916",
+      "name": "스마트보안등 LD5916",
+      "coordinate": {
+        "lat": 37.53893021,
+        "lng": 127.0630766
+      }
+    },
+    {
+      "id": "gwangjin-light-LD5955",
+      "name": "스마트보안등 LD5955",
+      "coordinate": {
+        "lat": 37.53990321,
+        "lng": 127.0635096
+      }
+    },
+    {
+      "id": "gwangjin-light-LD5993",
+      "name": "스마트보안등 LD5993",
+      "coordinate": {
+        "lat": 37.53910321,
+        "lng": 127.0629566
+      }
+    },
+    {
+      "id": "gwangjin-light-LD6042",
+      "name": "스마트보안등 LD6042",
+      "coordinate": {
+        "lat": 37.54314921,
+        "lng": 127.0657816
+      }
+    },
+    {
+      "id": "gwangjin-light-LD6252",
+      "name": "스마트보안등 LD6252",
+      "coordinate": {
+        "lat": 37.54382924,
+        "lng": 127.0677334
+      }
+    },
+    {
+      "id": "gwangjin-light-LD6469",
+      "name": "스마트보안등 LD6469",
+      "coordinate": {
+        "lat": 37.54445294,
+        "lng": 127.0664202
+      }
+    },
+    {
+      "id": "gwangjin-light-LD6575",
+      "name": "스마트보안등 LD6575",
+      "coordinate": {
+        "lat": 37.53730021,
+        "lng": 127.0656036
+      }
+    },
+    {
+      "id": "gwangjin-light-LD6850",
+      "name": "스마트보안등 LD6850",
+      "coordinate": {
+        "lat": 37.53960454,
+        "lng": 127.063359
+      }
+    },
+    {
+      "id": "gwangjin-light-LD6853",
+      "name": "스마트보안등 LD6853",
+      "coordinate": {
+        "lat": 37.53888621,
+        "lng": 127.0628986
+      }
+    },
+    {
+      "id": "gwangjin-light-LD6857",
+      "name": "스마트보안등 LD6857",
+      "coordinate": {
+        "lat": 37.54315494,
+        "lng": 127.06525292
+      }
+    },
+    {
+      "id": "gwangjin-light-LD6858",
+      "name": "스마트보안등 LD6858",
+      "coordinate": {
+        "lat": 37.54399714,
+        "lng": 127.0677262
+      }
+    },
+    {
+      "id": "gwangjin-light-LD6861",
+      "name": "스마트보안등 LD6861",
+      "coordinate": {
+        "lat": 37.54422254,
+        "lng": 127.0688729
+      }
+    },
+    {
+      "id": "gwangjin-light-LD6907",
+      "name": "스마트보안등 LD6907",
+      "coordinate": {
+        "lat": 37.54437921,
+        "lng": 127.0828526
+      }
+    },
+    {
+      "id": "gwangjin-light-LD6917",
+      "name": "스마트보안등 LD6917",
+      "coordinate": {
+        "lat": 37.54967221,
+        "lng": 127.0693576
+      }
+    },
+    {
+      "id": "gwangjin-light-LD6927",
+      "name": "스마트보안등 LD6927",
+      "coordinate": {
+        "lat": 37.55027721,
+        "lng": 127.0695176
+      }
+    },
+    {
+      "id": "gwangjin-light-LD6932",
+      "name": "스마트보안등 LD6932",
+      "coordinate": {
+        "lat": 37.55045621,
+        "lng": 127.0693706
+      }
+    },
+    {
+      "id": "gwangjin-light-LD7247",
+      "name": "스마트보안등 LD7247",
+      "coordinate": {
+        "lat": 37.54639621,
+        "lng": 127.0698936
+      }
+    },
+    {
+      "id": "gwangjin-light-LD7267",
+      "name": "스마트보안등 LD7267",
+      "coordinate": {
+        "lat": 37.54413521,
+        "lng": 127.0826026
+      }
+    },
+    {
+      "id": "gwangjin-light-LD7268",
+      "name": "스마트보안등 LD7268",
+      "coordinate": {
+        "lat": 37.54628821,
+        "lng": 127.0691386
+      }
+    },
+    {
+      "id": "gwangjin-light-LD7269",
+      "name": "스마트보안등 LD7269",
+      "coordinate": {
+        "lat": 37.54630221,
+        "lng": 127.0688276
+      }
+    },
+    {
+      "id": "gwangjin-light-LD7373",
+      "name": "스마트보안등 LD7373",
+      "coordinate": {
+        "lat": 37.54847721,
+        "lng": 127.0729776
+      }
+    },
+    {
+      "id": "gwangjin-light-LD7394",
+      "name": "스마트보안등 LD7394",
+      "coordinate": {
+        "lat": 37.55003321,
+        "lng": 127.0693746
+      }
+    },
+    {
+      "id": "gwangjin-light-LD7404",
+      "name": "스마트보안등 LD7404",
+      "coordinate": {
+        "lat": 37.54712421,
+        "lng": 127.0688026
+      }
+    },
+    {
+      "id": "gwangjin-light-LD7414",
+      "name": "스마트보안등 LD7414",
+      "coordinate": {
+        "lat": 37.54649321,
+        "lng": 127.0689016
+      }
+    },
+    {
+      "id": "gwangjin-light-LD7415",
+      "name": "스마트보안등 LD7415",
+      "coordinate": {
+        "lat": 37.54637621,
+        "lng": 127.0692356
+      }
+    },
+    {
+      "id": "gwangjin-light-LD7419",
+      "name": "스마트보안등 LD7419",
+      "coordinate": {
+        "lat": 37.54708021,
+        "lng": 127.0679806
+      }
+    },
+    {
+      "id": "gwangjin-light-LD7427",
+      "name": "스마트보안등 LD7427",
+      "coordinate": {
+        "lat": 37.54969321,
+        "lng": 127.0696066
+      }
+    },
+    {
+      "id": "gwangjin-light-LD7467",
+      "name": "스마트보안등 LD7467",
+      "coordinate": {
+        "lat": 37.54341721,
+        "lng": 127.0833826
+      }
+    },
+    {
+      "id": "gwangjin-light-LD7468",
+      "name": "스마트보안등 LD7468",
+      "coordinate": {
+        "lat": 37.54686921,
+        "lng": 127.0706416
+      }
+    },
+    {
+      "id": "gwangjin-light-LD7469",
+      "name": "스마트보안등 LD7469",
+      "coordinate": {
+        "lat": 37.54766921,
+        "lng": 127.0683706
+      }
+    },
+    {
+      "id": "gwangjin-light-LD7471",
+      "name": "스마트보안등 LD7471",
+      "coordinate": {
+        "lat": 37.54760221,
+        "lng": 127.0688056
+      }
+    },
+    {
+      "id": "gwangjin-light-LD7472",
+      "name": "스마트보안등 LD7472",
+      "coordinate": {
+        "lat": 37.54743221,
+        "lng": 127.0701076
+      }
+    },
+    {
+      "id": "gwangjin-light-LD7474",
+      "name": "스마트보안등 LD7474",
+      "coordinate": {
+        "lat": 37.54690604,
+        "lng": 127.0704919
+      }
+    },
+    {
+      "id": "gwangjin-light-LD7477",
+      "name": "스마트보안등 LD7477",
+      "coordinate": {
+        "lat": 37.54698221,
+        "lng": 127.0681366
+      }
+    },
+    {
+      "id": "gwangjin-light-LD7482",
+      "name": "스마트보안등 LD7482",
+      "coordinate": {
+        "lat": 37.54565421,
+        "lng": 127.0695556
+      }
+    },
+    {
+      "id": "gwangjin-light-LD7484",
+      "name": "스마트보안등 LD7484",
+      "coordinate": {
+        "lat": 37.54725421,
+        "lng": 127.0702646
+      }
+    },
+    {
+      "id": "gwangjin-light-LD7490",
+      "name": "스마트보안등 LD7490",
+      "coordinate": {
+        "lat": 37.54698321,
+        "lng": 127.0700546
+      }
+    },
+    {
+      "id": "gwangjin-light-LD7492",
+      "name": "스마트보안등 LD7492",
+      "coordinate": {
+        "lat": 37.54697521,
+        "lng": 127.0684526
+      }
+    },
+    {
+      "id": "gwangjin-light-LD7498",
+      "name": "스마트보안등 LD7498",
+      "coordinate": {
+        "lat": 37.54719421,
+        "lng": 127.0685766
+      }
+    },
+    {
+      "id": "gwangjin-light-LD7545",
+      "name": "스마트보안등 LD7545",
+      "coordinate": {
+        "lat": 37.54651421,
+        "lng": 127.0687886
+      }
+    },
+    {
+      "id": "gwangjin-light-LD7810",
+      "name": "스마트보안등 LD7810",
+      "coordinate": {
+        "lat": 37.54234021,
+        "lng": 127.0815906
+      }
+    },
+    {
+      "id": "gwangjin-light-LD7920",
+      "name": "스마트보안등 LD7920",
+      "coordinate": {
+        "lat": 37.54320321,
+        "lng": 127.0817076
+      }
+    },
+    {
+      "id": "gwangjin-light-LD7934",
+      "name": "스마트보안등 LD7934",
+      "coordinate": {
+        "lat": 37.54348421,
+        "lng": 127.0818616
+      }
+    },
+    {
+      "id": "gwangjin-light-LD7947",
+      "name": "스마트보안등 LD7947",
+      "coordinate": {
+        "lat": 37.54385721,
+        "lng": 127.0820566
+      }
+    },
+    {
+      "id": "gwangjin-light-LD8155",
+      "name": "스마트보안등 LD8155",
+      "coordinate": {
+        "lat": 37.53868121,
+        "lng": 127.0651006
+      }
+    },
+    {
+      "id": "gwangjin-light-LD8168",
+      "name": "스마트보안등 LD8168",
+      "coordinate": {
+        "lat": 37.53815821,
+        "lng": 127.0656346
+      }
+    },
+    {
+      "id": "gwangjin-light-LD8171",
+      "name": "스마트보안등 LD8171",
+      "coordinate": {
+        "lat": 37.53905821,
+        "lng": 127.0627986
+      }
+    },
+    {
+      "id": "gwangjin-light-LD8177",
+      "name": "스마트보안등 LD8177",
+      "coordinate": {
+        "lat": 37.53867621,
+        "lng": 127.0653206
+      }
+    },
+    {
+      "id": "gwangjin-light-LD8332",
+      "name": "스마트보안등 LD8332",
+      "coordinate": {
+        "lat": 37.54363921,
+        "lng": 127.0656466
+      }
+    },
+    {
+      "id": "gwangjin-light-LD8333",
+      "name": "스마트보안등 LD8333",
+      "coordinate": {
+        "lat": 37.53812574,
+        "lng": 127.0652941
+      }
+    },
+    {
+      "id": "gwangjin-light-LD8334",
+      "name": "스마트보안등 LD8334",
+      "coordinate": {
+        "lat": 37.53717621,
+        "lng": 127.0650396
+      }
+    },
+    {
+      "id": "gwangjin-light-LD9496",
+      "name": "스마트보안등 LD9496",
+      "coordinate": {
+        "lat": 37.54728121,
+        "lng": 127.0696846
+      }
+    },
+    {
+      "id": "gwangjin-light-LD9499",
+      "name": "스마트보안등 LD9499",
+      "coordinate": {
+        "lat": 37.54770721,
+        "lng": 127.0689126
+      }
+    },
+    {
+      "id": "gwangjin-light-LD9508",
+      "name": "스마트보안등 LD9508",
+      "coordinate": {
+        "lat": 37.54950121,
+        "lng": 127.0701006
+      }
+    },
+    {
+      "id": "gwangjin-light-LD9509",
+      "name": "스마트보안등 LD9509",
+      "coordinate": {
+        "lat": 37.54964721,
+        "lng": 127.0704106
+      }
+    },
+    {
+      "id": "gwangjin-light-LD9516",
+      "name": "스마트보안등 LD9516",
+      "coordinate": {
+        "lat": 37.54700121,
+        "lng": 127.0691766
+      }
+    },
+    {
+      "id": "gwangjin-light-LD9517",
+      "name": "스마트보안등 LD9517",
+      "coordinate": {
+        "lat": 37.54728921,
+        "lng": 127.0693506
+      }
+    },
+    {
+      "id": "gwangjin-light-LD9568",
+      "name": "스마트보안등 LD9568",
+      "coordinate": {
+        "lat": 37.54937821,
+        "lng": 127.0701776
+      }
+    },
+    {
+      "id": "gwangjin-light-LD9569",
+      "name": "스마트보안등 LD9569",
+      "coordinate": {
+        "lat": 37.54736121,
+        "lng": 127.0691556
+      }
+    },
+    {
+      "id": "gwangjin-light-LD9790",
+      "name": "스마트보안등 LD9790",
+      "coordinate": {
+        "lat": 37.54328421,
+        "lng": 127.0836836
+      }
+    },
+    {
+      "id": "gwangjin-light-LD9795",
+      "name": "스마트보안등 LD9795",
+      "coordinate": {
+        "lat": 37.54925221,
+        "lng": 127.0704016
+      }
+    },
+    {
+      "id": "gwangjin-light-LD9796",
+      "name": "스마트보안등 LD9796",
+      "coordinate": {
+        "lat": 37.55061721,
+        "lng": 127.0703036
+      }
+    },
+    {
+      "id": "gwangjin-light-LD9816",
+      "name": "스마트보안등 LD9816",
+      "coordinate": {
+        "lat": 37.55052821,
+        "lng": 127.0705876
+      }
+    },
+    {
+      "id": "gwangjin-light-LD9823",
+      "name": "스마트보안등 LD9823",
+      "coordinate": {
+        "lat": 37.55073721,
+        "lng": 127.0717866
+      }
+    },
+    {
+      "id": "gwangjin-light-LD9848",
+      "name": "스마트보안등 LD9848",
+      "coordinate": {
+        "lat": 37.54427121,
+        "lng": 127.0824836
+      }
+    },
+    {
+      "id": "gwangjin-light-LE0050",
+      "name": "스마트보안등 LE0050",
+      "coordinate": {
+        "lat": 37.53927321,
+        "lng": 127.0631706
+      }
+    },
+    {
+      "id": "gwangjin-light-LE0051",
+      "name": "스마트보안등 LE0051",
+      "coordinate": {
+        "lat": 37.54282321,
+        "lng": 127.0683776
+      }
+    },
+    {
+      "id": "gwangjin-light-LE0055",
+      "name": "스마트보안등 LE0055",
+      "coordinate": {
+        "lat": 37.53852721,
+        "lng": 127.0638196
+      }
+    },
+    {
+      "id": "gwangjin-light-LE0061",
+      "name": "스마트보안등 LE0061",
+      "coordinate": {
+        "lat": 37.53883121,
+        "lng": 127.0643436
+      }
+    },
+    {
+      "id": "gwangjin-light-LE0062",
+      "name": "스마트보안등 LE0062",
+      "coordinate": {
+        "lat": 37.53809314,
+        "lng": 127.0651459
+      }
+    },
+    {
+      "id": "gwangjin-light-LE0063",
+      "name": "스마트보안등 LE0063",
+      "coordinate": {
+        "lat": 37.54439321,
+        "lng": 127.0691456
+      }
+    },
+    {
+      "id": "gwangjin-light-LE0064",
+      "name": "스마트보안등 LE0064",
+      "coordinate": {
+        "lat": 37.54389921,
+        "lng": 127.0689866
+      }
+    },
+    {
+      "id": "gwangjin-light-LE0065",
+      "name": "스마트보안등 LE0065",
+      "coordinate": {
+        "lat": 37.53868614,
+        "lng": 127.0635982
+      }
+    },
+    {
+      "id": "gwangjin-light-LE0067",
+      "name": "스마트보안등 LE0067",
+      "coordinate": {
+        "lat": 37.53935621,
+        "lng": 127.0640636
+      }
+    },
+    {
+      "id": "gwangjin-light-LE0069",
+      "name": "스마트보안등 LE0069",
+      "coordinate": {
+        "lat": 37.53852221,
+        "lng": 127.0634146
+      }
+    },
+    {
+      "id": "gwangjin-light-LE0071",
+      "name": "스마트보안등 LE0071",
+      "coordinate": {
+        "lat": 37.54525021,
+        "lng": 127.0671986
+      }
+    },
+    {
+      "id": "gwangjin-light-LE0072",
+      "name": "스마트보안등 LE0072",
+      "coordinate": {
+        "lat": 37.54453821,
+        "lng": 127.0665356
+      }
+    },
+    {
+      "id": "gwangjin-light-LE0073",
+      "name": "스마트보안등 LE0073",
+      "coordinate": {
+        "lat": 37.54522921,
+        "lng": 127.0669356
+      }
+    },
+    {
+      "id": "gwangjin-light-LE0075",
+      "name": "스마트보안등 LE0075",
+      "coordinate": {
+        "lat": 37.54415021,
+        "lng": 127.0690136
+      }
+    },
+    {
+      "id": "gwangjin-light-LE0076",
+      "name": "스마트보안등 LE0076",
+      "coordinate": {
+        "lat": 37.53858823,
+        "lng": 127.06410959
+      }
+    },
+    {
+      "id": "gwangjin-light-LE0077",
+      "name": "스마트보안등 LE0077",
+      "coordinate": {
+        "lat": 37.53883321,
+        "lng": 127.0639786
+      }
+    },
+    {
+      "id": "gwangjin-light-LE0078",
+      "name": "스마트보안등 LE0078",
+      "coordinate": {
+        "lat": 37.53917744,
+        "lng": 127.0640535
+      }
+    },
+    {
+      "id": "gwangjin-light-LE0079",
+      "name": "스마트보안등 LE0079",
+      "coordinate": {
+        "lat": 37.53922821,
+        "lng": 127.0638326
+      }
+    },
+    {
+      "id": "gwangjin-light-LE0081",
+      "name": "스마트보안등 LE0081",
+      "coordinate": {
+        "lat": 37.53865121,
+        "lng": 127.0632526
+      }
+    },
+    {
+      "id": "gwangjin-light-LE0082",
+      "name": "스마트보안등 LE0082",
+      "coordinate": {
+        "lat": 37.54431921,
+        "lng": 127.0660236
+      }
+    },
+    {
+      "id": "gwangjin-light-LE0083",
+      "name": "스마트보안등 LE0083",
+      "coordinate": {
+        "lat": 37.54363721,
+        "lng": 127.0655066
+      }
+    },
+    {
+      "id": "gwangjin-light-LE0084",
+      "name": "스마트보안등 LE0084",
+      "coordinate": {
+        "lat": 37.54422421,
+        "lng": 127.0654506
+      }
+    },
+    {
+      "id": "gwangjin-light-LE0085",
+      "name": "스마트보안등 LE0085",
+      "coordinate": {
+        "lat": 37.54477721,
+        "lng": 127.0662856
+      }
+    },
+    {
+      "id": "gwangjin-light-LE0086",
+      "name": "스마트보안등 LE0086",
+      "coordinate": {
+        "lat": 37.53782921,
+        "lng": 127.0644996
+      }
+    },
+    {
+      "id": "gwangjin-light-LE0087",
+      "name": "스마트보안등 LE0087",
+      "coordinate": {
+        "lat": 37.54398304,
+        "lng": 127.06921
+      }
+    },
+    {
+      "id": "gwangjin-light-LE0088",
+      "name": "스마트보안등 LE0088",
+      "coordinate": {
+        "lat": 37.54424721,
+        "lng": 127.0663506
+      }
+    },
+    {
+      "id": "gwangjin-light-LE0089",
+      "name": "스마트보안등 LE0089",
+      "coordinate": {
+        "lat": 37.53820421,
+        "lng": 127.0638376
+      }
+    },
+    {
+      "id": "gwangjin-light-LE0090",
+      "name": "스마트보안등 LE0090",
+      "coordinate": {
+        "lat": 37.53861921,
+        "lng": 127.0639566
+      }
+    },
+    {
+      "id": "gwangjin-light-LE0092",
+      "name": "스마트보안등 LE0092",
+      "coordinate": {
+        "lat": 37.53841221,
+        "lng": 127.0646716
+      }
+    },
+    {
+      "id": "gwangjin-light-LE0093",
+      "name": "스마트보안등 LE0093",
+      "coordinate": {
+        "lat": 37.53890321,
+        "lng": 127.0646206
+      }
+    },
+    {
+      "id": "gwangjin-light-LE0094",
+      "name": "스마트보안등 LE0094",
+      "coordinate": {
+        "lat": 37.54515721,
+        "lng": 127.0671456
+      }
+    },
+    {
+      "id": "gwangjin-light-LE0095",
+      "name": "스마트보안등 LE0095",
+      "coordinate": {
+        "lat": 37.54489714,
+        "lng": 127.0670435
+      }
+    },
+    {
+      "id": "gwangjin-light-LE0096",
+      "name": "스마트보안등 LE0096",
+      "coordinate": {
+        "lat": 37.53829421,
+        "lng": 127.0634636
+      }
+    },
+    {
+      "id": "gwangjin-light-LE0097",
+      "name": "스마트보안등 LE0097",
+      "coordinate": {
+        "lat": 37.54368321,
+        "lng": 127.0652756
+      }
+    },
+    {
+      "id": "gwangjin-light-LE0099",
+      "name": "스마트보안등 LE0099",
+      "coordinate": {
+        "lat": 37.54410521,
+        "lng": 127.0694516
+      }
+    },
+    {
+      "id": "gwangjin-light-LE0100",
+      "name": "스마트보안등 LE0100",
+      "coordinate": {
+        "lat": 37.54390288,
+        "lng": 127.06536351
+      }
+    },
+    {
+      "id": "gwangjin-light-LE0101",
+      "name": "스마트보안등 LE0101",
+      "coordinate": {
+        "lat": 37.54326721,
+        "lng": 127.0691866
+      }
+    },
+    {
+      "id": "gwangjin-light-LE0102",
+      "name": "스마트보안등 LE0102",
+      "coordinate": {
+        "lat": 37.54387921,
+        "lng": 127.0661826
+      }
+    },
+    {
+      "id": "gwangjin-light-LE0103",
+      "name": "스마트보안등 LE0103",
+      "coordinate": {
+        "lat": 37.54340788,
+        "lng": 127.06925708
+      }
+    },
+    {
+      "id": "gwangjin-light-LE0104",
+      "name": "스마트보안등 LE0104",
+      "coordinate": {
+        "lat": 37.54346521,
+        "lng": 127.0659606
+      }
+    },
+    {
+      "id": "gwangjin-light-LE0105",
+      "name": "스마트보안등 LE0105",
+      "coordinate": {
+        "lat": 37.54256421,
+        "lng": 127.0685016
+      }
+    },
+    {
+      "id": "gwangjin-light-LE0106",
+      "name": "스마트보안등 LE0106",
+      "coordinate": {
+        "lat": 37.54450304,
+        "lng": 127.0675922
+      }
+    },
+    {
+      "id": "gwangjin-light-LE0108",
+      "name": "스마트보안등 LE0108",
+      "coordinate": {
+        "lat": 37.54338521,
+        "lng": 127.0688286
+      }
+    },
+    {
+      "id": "gwangjin-light-LE0109",
+      "name": "스마트보안등 LE0109",
+      "coordinate": {
+        "lat": 37.53908721,
+        "lng": 127.0645866
+      }
+    },
+    {
+      "id": "gwangjin-light-LE0110",
+      "name": "스마트보안등 LE0110",
+      "coordinate": {
+        "lat": 37.53842421,
+        "lng": 127.0641626
+      }
+    },
+    {
+      "id": "gwangjin-light-LE0111",
+      "name": "스마트보안등 LE0111",
+      "coordinate": {
+        "lat": 37.53796621,
+        "lng": 127.0647016
+      }
+    },
+    {
+      "id": "gwangjin-light-LE0113",
+      "name": "스마트보안등 LE0113",
+      "coordinate": {
+        "lat": 37.53896121,
+        "lng": 127.0642196
+      }
+    },
+    {
+      "id": "gwangjin-light-LE0114",
+      "name": "스마트보안등 LE0114",
+      "coordinate": {
+        "lat": 37.54454221,
+        "lng": 127.0668266
+      }
+    },
+    {
+      "id": "gwangjin-light-LE0115",
+      "name": "스마트보안등 LE0115",
+      "coordinate": {
+        "lat": 37.54326334,
+        "lng": 127.06542151
+      }
+    },
+    {
+      "id": "gwangjin-light-LE0116",
+      "name": "스마트보안등 LE0116",
+      "coordinate": {
+        "lat": 37.54531421,
+        "lng": 127.0666936
+      }
+    },
+    {
+      "id": "gwangjin-light-LE0117",
+      "name": "스마트보안등 LE0117",
+      "coordinate": {
+        "lat": 37.54521221,
+        "lng": 127.0660936
+      }
+    },
+    {
+      "id": "gwangjin-light-LE0118",
+      "name": "스마트보안등 LE0118",
+      "coordinate": {
+        "lat": 37.53778421,
+        "lng": 127.0642406
+      }
+    },
+    {
+      "id": "gwangjin-light-LE0119",
+      "name": "스마트보안등 LE0119",
+      "coordinate": {
+        "lat": 37.53825221,
+        "lng": 127.0655676
+      }
+    },
+    {
+      "id": "gwangjin-light-LE0120",
+      "name": "스마트보안등 LE0120",
+      "coordinate": {
+        "lat": 37.53830321,
+        "lng": 127.0648586
+      }
+    },
+    {
+      "id": "gwangjin-light-LE0121",
+      "name": "스마트보안등 LE0121",
+      "coordinate": {
+        "lat": 37.53906221,
+        "lng": 127.0639996
+      }
+    },
+    {
+      "id": "gwangjin-light-LE0122",
+      "name": "스마트보안등 LE0122",
+      "coordinate": {
+        "lat": 37.54359754,
+        "lng": 127.0662431
+      }
+    },
+    {
+      "id": "gwangjin-light-LE0123",
+      "name": "스마트보안등 LE0123",
+      "coordinate": {
+        "lat": 37.54672721,
+        "lng": 127.0673786
+      }
+    },
+    {
+      "id": "gwangjin-light-LE0124",
+      "name": "스마트보안등 LE0124",
+      "coordinate": {
+        "lat": 37.53749072,
+        "lng": 127.06500879
+      }
+    },
+    {
+      "id": "gwangjin-light-LE0125",
+      "name": "스마트보안등 LE0125",
+      "coordinate": {
+        "lat": 37.54632221,
+        "lng": 127.0671616
+      }
+    },
+    {
+      "id": "gwangjin-light-LE0126",
+      "name": "스마트보안등 LE0126",
+      "coordinate": {
+        "lat": 37.54423621,
+        "lng": 127.0665066
+      }
+    },
+    {
+      "id": "gwangjin-light-LE0127",
+      "name": "스마트보안등 LE0127",
+      "coordinate": {
+        "lat": 37.54517721,
+        "lng": 127.0663406
+      }
+    },
+    {
+      "id": "gwangjin-light-LE0133",
+      "name": "스마트보안등 LE0133",
+      "coordinate": {
+        "lat": 37.53853124,
+        "lng": 127.0654055
+      }
+    },
+    {
+      "id": "gwangjin-light-LE0135",
+      "name": "스마트보안등 LE0135",
+      "coordinate": {
+        "lat": 37.54267224,
+        "lng": 127.0681849
+      }
+    },
+    {
+      "id": "gwangjin-light-LE0139",
+      "name": "스마트보안등 LE0139",
+      "coordinate": {
+        "lat": 37.54336074,
+        "lng": 127.0661548
+      }
+    },
+    {
+      "id": "gwangjin-light-LE0142",
+      "name": "스마트보안등 LE0142",
+      "coordinate": {
+        "lat": 37.54474914,
+        "lng": 127.0669652
+      }
+    },
+    {
+      "id": "gwangjin-light-LE0144",
+      "name": "스마트보안등 LE0144",
+      "coordinate": {
+        "lat": 37.53843521,
+        "lng": 127.0651486
+      }
+    },
+    {
+      "id": "gwangjin-light-LE0149",
+      "name": "스마트보안등 LE0149",
+      "coordinate": {
+        "lat": 37.53988221,
+        "lng": 127.0638276
+      }
+    },
+    {
+      "id": "gwangjin-light-LE0150",
+      "name": "스마트보안등 LE0150",
+      "coordinate": {
+        "lat": 37.53956621,
+        "lng": 127.0643866
+      }
+    },
+    {
+      "id": "gwangjin-light-LE1030",
+      "name": "스마트보안등 LE1030",
+      "coordinate": {
+        "lat": 37.53942121,
+        "lng": 127.0630716
+      }
+    },
+    {
+      "id": "gwangjin-light-LE1229",
+      "name": "스마트보안등 LE1229",
+      "coordinate": {
+        "lat": 37.54519634,
+        "lng": 127.0665013
+      }
+    },
+    {
+      "id": "gwangjin-light-LE1291",
+      "name": "스마트보안등 LE1291",
+      "coordinate": {
+        "lat": 37.54264524,
+        "lng": 127.0683209
+      }
+    },
+    {
+      "id": "gwangjin-light-LE1601",
+      "name": "스마트보안등 LE1601",
+      "coordinate": {
+        "lat": 37.53958021,
+        "lng": 127.0630356
+      }
+    },
+    {
+      "id": "gwangjin-light-LE1603",
+      "name": "스마트보안등 LE1603",
+      "coordinate": {
+        "lat": 37.53968321,
+        "lng": 127.0634096
+      }
+    },
+    {
+      "id": "gwangjin-light-LE1608",
+      "name": "스마트보안등 LE1608",
+      "coordinate": {
+        "lat": 37.54293521,
+        "lng": 127.0656806
+      }
+    },
+    {
+      "id": "gwangjin-light-LE1609",
+      "name": "스마트보안등 LE1609",
+      "coordinate": {
+        "lat": 37.54483474,
+        "lng": 127.068173
+      }
+    },
+    {
+      "id": "gwangjin-light-LE1611",
+      "name": "스마트보안등 LE1611",
+      "coordinate": {
+        "lat": 37.53925621,
+        "lng": 127.0626206
+      }
+    },
+    {
+      "id": "gwangjin-light-LE1653",
+      "name": "스마트보안등 LE1653",
+      "coordinate": {
+        "lat": 37.54376321,
+        "lng": 127.0823296
+      }
+    },
+    {
+      "id": "gwangjin-light-LE1656",
+      "name": "스마트보안등 LE1656",
+      "coordinate": {
+        "lat": 37.54555021,
+        "lng": 127.0691556
+      }
+    },
+    {
+      "id": "gwangjin-light-LE1657",
+      "name": "스마트보안등 LE1657",
+      "coordinate": {
+        "lat": 37.54360321,
+        "lng": 127.0833966
+      }
+    },
+    {
+      "id": "gwangjin-light-LE1677",
+      "name": "스마트보안등 LE1677",
+      "coordinate": {
+        "lat": 37.54426421,
+        "lng": 127.0828156
+      }
+    },
+    {
+      "id": "gwangjin-light-LE1679",
+      "name": "스마트보안등 LE1679",
+      "coordinate": {
+        "lat": 37.54305721,
+        "lng": 127.0819356
+      }
+    },
+    {
+      "id": "gwangjin-light-LE1999",
+      "name": "스마트보안등 LE1999",
+      "coordinate": {
+        "lat": 37.54567521,
+        "lng": 127.0689936
+      }
+    },
+    {
+      "id": "gwangjin-light-LE2001",
+      "name": "스마트보안등 LE2001",
+      "coordinate": {
+        "lat": 37.54282921,
+        "lng": 127.0816916
+      }
+    },
+    {
+      "id": "gwangjin-light-LE2003",
+      "name": "스마트보안등 LE2003",
+      "coordinate": {
+        "lat": 37.54674221,
+        "lng": 127.0688916
+      }
+    },
+    {
+      "id": "gwangjin-light-LE2007",
+      "name": "스마트보안등 LE2007",
+      "coordinate": {
+        "lat": 37.54619221,
+        "lng": 127.0694316
+      }
+    },
+    {
+      "id": "gwangjin-light-LE2008",
+      "name": "스마트보안등 LE2008",
+      "coordinate": {
+        "lat": 37.54388921,
+        "lng": 127.0824766
+      }
+    },
+    {
+      "id": "gwangjin-light-LE2015",
+      "name": "스마트보안등 LE2015",
+      "coordinate": {
+        "lat": 37.54374721,
+        "lng": 127.0834606
+      }
+    },
+    {
+      "id": "gwangjin-light-LE2018",
+      "name": "스마트보안등 LE2018",
+      "coordinate": {
+        "lat": 37.54330421,
+        "lng": 127.0817506
+      }
+    },
+    {
+      "id": "gwangjin-light-LE2020",
+      "name": "스마트보안등 LE2020",
+      "coordinate": {
+        "lat": 37.54588521,
+        "lng": 127.0692556
+      }
+    },
+    {
+      "id": "gwangjin-light-LE2023",
+      "name": "스마트보안등 LE2023",
+      "coordinate": {
+        "lat": 37.54685721,
+        "lng": 127.0708426
+      }
+    },
+    {
+      "id": "gwangjin-light-LE2036",
+      "name": "스마트보안등 LE2036",
+      "coordinate": {
+        "lat": 37.54670521,
+        "lng": 127.0690236
+      }
+    },
+    {
+      "id": "gwangjin-light-LE2115",
+      "name": "스마트보안등 LE2115",
+      "coordinate": {
+        "lat": 37.54598421,
+        "lng": 127.0692746
+      }
+    },
+    {
+      "id": "gwangjin-light-LE2157",
+      "name": "스마트보안등 LE2157",
+      "coordinate": {
+        "lat": 37.54990221,
+        "lng": 127.0696886
+      }
+    },
+    {
+      "id": "gwangjin-light-LE2198",
+      "name": "스마트보안등 LE2198",
+      "coordinate": {
+        "lat": 37.54693221,
+        "lng": 127.0702006
+      }
+    },
+    {
+      "id": "gwangjin-light-LE2217",
+      "name": "스마트보안등 LE2217",
+      "coordinate": {
+        "lat": 37.54289921,
+        "lng": 127.0830216
+      }
+    },
+    {
+      "id": "gwangjin-light-LE2219",
+      "name": "스마트보안등 LE2219",
+      "coordinate": {
+        "lat": 37.54767521,
+        "lng": 127.0682466
+      }
+    },
+    {
+      "id": "gwangjin-light-LE2223",
+      "name": "스마트보안등 LE2223",
+      "coordinate": {
+        "lat": 37.54682021,
+        "lng": 127.0684976
+      }
+    },
+    {
+      "id": "gwangjin-light-LE2225",
+      "name": "스마트보안등 LE2225",
+      "coordinate": {
+        "lat": 37.54668321,
+        "lng": 127.0701476
+      }
+    },
+    {
+      "id": "gwangjin-light-LE2226",
+      "name": "스마트보안등 LE2226",
+      "coordinate": {
+        "lat": 37.54624221,
+        "lng": 127.0696996
+      }
+    },
+    {
+      "id": "gwangjin-light-LE2229",
+      "name": "스마트보안등 LE2229",
+      "coordinate": {
+        "lat": 37.54610021,
+        "lng": 127.0695246
+      }
+    },
+    {
+      "id": "gwangjin-light-LE2233",
+      "name": "스마트보안등 LE2233",
+      "coordinate": {
+        "lat": 37.54684221,
+        "lng": 127.0670356
+      }
+    },
+    {
+      "id": "gwangjin-light-LE2303",
+      "name": "스마트보안등 LE2303",
+      "coordinate": {
+        "lat": 37.54972221,
+        "lng": 127.0692316
+      }
+    },
+    {
+      "id": "gwangjin-light-LE2564",
+      "name": "스마트보안등 LE2564",
+      "coordinate": {
+        "lat": 37.54320921,
+        "lng": 127.0820436
+      }
+    },
+    {
+      "id": "gwangjin-light-LE2665",
+      "name": "스마트보안등 LE2665",
+      "coordinate": {
+        "lat": 37.54402321,
+        "lng": 127.0821496
+      }
+    },
+    {
+      "id": "gwangjin-light-LE2672",
+      "name": "스마트보안등 LE2672",
+      "coordinate": {
+        "lat": 37.54287721,
+        "lng": 127.0816016
+      }
+    },
+    {
+      "id": "gwangjin-light-LE2676",
+      "name": "스마트보안등 LE2676",
+      "coordinate": {
+        "lat": 37.54712621,
+        "lng": 127.0705536
+      }
+    },
+    {
+      "id": "gwangjin-light-LE2681",
+      "name": "스마트보안등 LE2681",
+      "coordinate": {
+        "lat": 37.54265221,
+        "lng": 127.0815786
+      }
+    },
+    {
+      "id": "gwangjin-light-LE2893",
+      "name": "스마트보안등 LE2893",
+      "coordinate": {
+        "lat": 37.53880721,
+        "lng": 127.0648396
+      }
+    },
+    {
+      "id": "gwangjin-light-LE2917",
+      "name": "스마트보안등 LE2917",
+      "coordinate": {
+        "lat": 37.53726421,
+        "lng": 127.0653526
+      }
+    },
+    {
+      "id": "gwangjin-light-LE2923",
+      "name": "스마트보안등 LE2923",
+      "coordinate": {
+        "lat": 37.53908621,
+        "lng": 127.0655096
+      }
+    },
+    {
+      "id": "gwangjin-light-LE2925",
+      "name": "스마트보안등 LE2925",
+      "coordinate": {
+        "lat": 37.53839021,
+        "lng": 127.0657396
+      }
+    },
+    {
+      "id": "gwangjin-light-LE2927",
+      "name": "스마트보안등 LE2927",
+      "coordinate": {
+        "lat": 37.53897145,
+        "lng": 127.06550209
+      }
+    },
+    {
+      "id": "gwangjin-light-LE4245",
+      "name": "스마트보안등 LE4245",
+      "coordinate": {
+        "lat": 37.54760821,
+        "lng": 127.0692816
+      }
+    },
+    {
+      "id": "gwangjin-light-LE4249",
+      "name": "스마트보안등 LE4249",
+      "coordinate": {
+        "lat": 37.54685921,
+        "lng": 127.0691036
+      }
+    },
+    {
+      "id": "gwangjin-light-LE4257",
+      "name": "스마트보안등 LE4257",
+      "coordinate": {
+        "lat": 37.54959521,
+        "lng": 127.0707166
+      }
+    },
+    {
+      "id": "gwangjin-light-LE4258",
+      "name": "스마트보안등 LE4258",
+      "coordinate": {
+        "lat": 37.54954121,
+        "lng": 127.0699306
+      }
+    },
+    {
+      "id": "gwangjin-light-LE4260",
+      "name": "스마트보안등 LE4260",
+      "coordinate": {
+        "lat": 37.54787021,
+        "lng": 127.0689706
+      }
+    },
+    {
+      "id": "gwangjin-light-LE4261",
+      "name": "스마트보안등 LE4261",
+      "coordinate": {
+        "lat": 37.54936221,
+        "lng": 127.0699036
+      }
+    },
+    {
+      "id": "gwangjin-light-LE4262",
+      "name": "스마트보안등 LE4262",
+      "coordinate": {
+        "lat": 37.55001321,
+        "lng": 127.0697116
+      }
+    },
+    {
+      "id": "gwangjin-light-LE4263",
+      "name": "스마트보안등 LE4263",
+      "coordinate": {
+        "lat": 37.54914121,
+        "lng": 127.0699296
+      }
+    },
+    {
+      "id": "gwangjin-light-LE4265",
+      "name": "스마트보안등 LE4265",
+      "coordinate": {
+        "lat": 37.54714521,
+        "lng": 127.0695676
+      }
+    },
+    {
+      "id": "gwangjin-light-LE4266",
+      "name": "스마트보안등 LE4266",
+      "coordinate": {
+        "lat": 37.54748621,
+        "lng": 127.0689166
+      }
+    },
+    {
+      "id": "gwangjin-light-LE4486",
+      "name": "스마트보안등 LE4486",
+      "coordinate": {
+        "lat": 37.55059821,
+        "lng": 127.0714816
+      }
+    },
+    {
+      "id": "gwangjin-light-LE4544",
+      "name": "스마트보안등 LE4544",
+      "coordinate": {
+        "lat": 37.54616294,
+        "lng": 127.0684529
+      }
+    },
+    {
+      "id": "gwangjin-light-LE4553",
+      "name": "스마트보안등 LE4553",
+      "coordinate": {
+        "lat": 37.55054721,
+        "lng": 127.0712286
+      }
+    },
+    {
+      "id": "gwangjin-light-LE4557",
+      "name": "스마트보안등 LE4557",
+      "coordinate": {
+        "lat": 37.55082021,
+        "lng": 127.0716496
+      }
+    },
+    {
+      "id": "gwangjin-light-LE4562",
+      "name": "스마트보안등 LE4562",
+      "coordinate": {
+        "lat": 37.55037621,
+        "lng": 127.0702316
+      }
+    },
+    {
+      "id": "gwangjin-light-LE4577",
+      "name": "스마트보안등 LE4577",
+      "coordinate": {
+        "lat": 37.54318621,
+        "lng": 127.0814446
+      }
+    },
+    {
+      "id": "gwangjin-light-LE4593",
+      "name": "스마트보안등 LE4593",
+      "coordinate": {
+        "lat": 37.54458221,
+        "lng": 127.0826456
+      }
+    },
+    {
+      "id": "gwangjin-light-LE4600",
+      "name": "스마트보안등 LE4600",
+      "coordinate": {
+        "lat": 37.54462621,
+        "lng": 127.0826626
+      }
+    },
+    {
+      "id": "gwangjin-light-LE8991",
+      "name": "스마트보안등 LE8991",
+      "coordinate": {
+        "lat": 37.54394421,
+        "lng": 127.0709356
+      }
+    },
+    {
+      "id": "gwangjin-light-LE8993",
+      "name": "스마트보안등 LE8993",
+      "coordinate": {
+        "lat": 37.54365621,
+        "lng": 127.0712076
+      }
+    },
+    {
+      "id": "gwangjin-light-LE9005",
+      "name": "스마트보안등 LE9005",
+      "coordinate": {
+        "lat": 37.54356721,
+        "lng": 127.0712966
+      }
+    },
+    {
+      "id": "gwangjin-light-LF3000",
+      "name": "스마트보안등 LF3000",
+      "coordinate": {
+        "lat": 37.54430721,
+        "lng": 127.0718096
+      }
+    },
+    {
+      "id": "gwangjin-light-LF3006",
+      "name": "스마트보안등 LF3006",
+      "coordinate": {
+        "lat": 37.54378021,
+        "lng": 127.0714616
+      }
+    },
+    {
+      "id": "gwangjin-light-LF3009",
+      "name": "스마트보안등 LF3009",
+      "coordinate": {
+        "lat": 37.54403721,
+        "lng": 127.0715226
+      }
+    },
+    {
+      "id": "gwangjin-light-LF3130",
+      "name": "스마트보안등 LF3130",
+      "coordinate": {
+        "lat": 37.54684721,
+        "lng": 127.0709966
+      }
+    },
+    {
+      "id": "gwangjin-light-LF3269",
+      "name": "스마트보안등 LF3269",
+      "coordinate": {
+        "lat": 37.54462321,
+        "lng": 127.0699326
+      }
+    },
+    {
+      "id": "gwangjin-light-LF3270",
+      "name": "스마트보안등 LF3270",
+      "coordinate": {
+        "lat": 37.54575534,
+        "lng": 127.0717949
+      }
+    },
+    {
+      "id": "gwangjin-light-LF3271",
+      "name": "스마트보안등 LF3271",
+      "coordinate": {
+        "lat": 37.54627221,
+        "lng": 127.0715986
+      }
+    },
+    {
+      "id": "gwangjin-light-LF3273",
+      "name": "스마트보안등 LF3273",
+      "coordinate": {
+        "lat": 37.54453021,
+        "lng": 127.0703896
+      }
+    },
+    {
+      "id": "gwangjin-light-LF3275",
+      "name": "스마트보안등 LF3275",
+      "coordinate": {
+        "lat": 37.54498321,
+        "lng": 127.0711636
+      }
+    },
+    {
+      "id": "gwangjin-light-LF3283",
+      "name": "스마트보안등 LF3283",
+      "coordinate": {
+        "lat": 37.54523321,
+        "lng": 127.0711046
+      }
+    },
+    {
+      "id": "gwangjin-light-LF3284",
+      "name": "스마트보안등 LF3284",
+      "coordinate": {
+        "lat": 37.54560054,
+        "lng": 127.071286
+      }
+    },
+    {
+      "id": "gwangjin-light-LF3285",
+      "name": "스마트보안등 LF3285",
+      "coordinate": {
+        "lat": 37.54559321,
+        "lng": 127.0720056
+      }
+    },
+    {
+      "id": "gwangjin-light-LF3286",
+      "name": "스마트보안등 LF3286",
+      "coordinate": {
+        "lat": 37.54558421,
+        "lng": 127.0713536
+      }
+    },
+    {
+      "id": "gwangjin-light-LF3288",
+      "name": "스마트보안등 LF3288",
+      "coordinate": {
+        "lat": 37.54480621,
+        "lng": 127.0708636
+      }
+    },
+    {
+      "id": "gwangjin-light-LF3296",
+      "name": "스마트보안등 LF3296",
+      "coordinate": {
+        "lat": 37.54583721,
+        "lng": 127.0718646
+      }
+    },
+    {
+      "id": "gwangjin-light-LF3298",
+      "name": "스마트보안등 LF3298",
+      "coordinate": {
+        "lat": 37.54626021,
+        "lng": 127.0720346
+      }
+    },
+    {
+      "id": "gwangjin-light-LF6078",
+      "name": "스마트보안등 LF6078",
+      "coordinate": {
+        "lat": 37.54285521,
+        "lng": 127.0690826
+      }
+    },
+    {
+      "id": "gwangjin-light-LF6942",
+      "name": "스마트보안등 LF6942",
+      "coordinate": {
+        "lat": 37.54223921,
+        "lng": 127.0697466
+      }
+    },
+    {
+      "id": "gwangjin-light-LF6945",
+      "name": "스마트보안등 LF6945",
+      "coordinate": {
+        "lat": 37.54168121,
+        "lng": 127.0695266
+      }
+    },
+    {
+      "id": "gwangjin-light-LF7698",
+      "name": "스마트보안등 LF7698",
+      "coordinate": {
+        "lat": 37.53858921,
+        "lng": 127.0790986
+      }
+    },
+    {
+      "id": "gwangjin-light-LF7945",
+      "name": "스마트보안등 LF7945",
+      "coordinate": {
+        "lat": 37.54024221,
+        "lng": 127.0811916
+      }
+    },
+    {
+      "id": "gwangjin-light-LF7961",
+      "name": "스마트보안등 LF7961",
+      "coordinate": {
+        "lat": 37.54192621,
+        "lng": 127.0711866
+      }
+    },
+    {
+      "id": "gwangjin-light-LF7968",
+      "name": "스마트보안등 LF7968",
+      "coordinate": {
+        "lat": 37.53805221,
+        "lng": 127.0802476
+      }
+    },
+    {
+      "id": "gwangjin-light-LF7976",
+      "name": "스마트보안등 LF7976",
+      "coordinate": {
+        "lat": 37.54187221,
+        "lng": 127.0707376
+      }
+    },
+    {
+      "id": "gwangjin-light-LF7977",
+      "name": "스마트보안등 LF7977",
+      "coordinate": {
+        "lat": 37.54129421,
+        "lng": 127.0702416
+      }
+    },
+    {
+      "id": "gwangjin-light-LF7979",
+      "name": "스마트보안등 LF7979",
+      "coordinate": {
+        "lat": 37.54187421,
+        "lng": 127.0710546
+      }
+    },
+    {
+      "id": "gwangjin-light-LF8040",
+      "name": "스마트보안등 LF8040",
+      "coordinate": {
+        "lat": 37.53940721,
+        "lng": 127.0757756
+      }
+    },
+    {
+      "id": "gwangjin-light-LF8048",
+      "name": "스마트보안등 LF8048",
+      "coordinate": {
+        "lat": 37.53931521,
+        "lng": 127.0767726
+      }
+    },
+    {
+      "id": "gwangjin-light-LF8049",
+      "name": "스마트보안등 LF8049",
+      "coordinate": {
+        "lat": 37.53906521,
+        "lng": 127.0765816
+      }
+    },
+    {
+      "id": "gwangjin-light-LF8050",
+      "name": "스마트보안등 LF8050",
+      "coordinate": {
+        "lat": 37.53935821,
+        "lng": 127.0764336
+      }
+    },
+    {
+      "id": "gwangjin-light-LF8100",
+      "name": "스마트보안등 LF8100",
+      "coordinate": {
+        "lat": 37.54486521,
+        "lng": 127.0696136
+      }
+    },
+    {
+      "id": "gwangjin-light-LF8101",
+      "name": "스마트보안등 LF8101",
+      "coordinate": {
+        "lat": 37.54526921,
+        "lng": 127.0699006
+      }
+    },
+    {
+      "id": "gwangjin-light-LF8109",
+      "name": "스마트보안등 LF8109",
+      "coordinate": {
+        "lat": 37.54472721,
+        "lng": 127.0698316
+      }
+    },
+    {
+      "id": "gwangjin-light-LF8134",
+      "name": "스마트보안등 LF8134",
+      "coordinate": {
+        "lat": 37.54544121,
+        "lng": 127.0709926
+      }
+    },
+    {
+      "id": "gwangjin-light-LF8273",
+      "name": "스마트보안등 LF8273",
+      "coordinate": {
+        "lat": 37.54590721,
+        "lng": 127.0717066
+      }
+    },
+    {
+      "id": "gwangjin-light-LF8274",
+      "name": "스마트보안등 LF8274",
+      "coordinate": {
+        "lat": 37.54599421,
+        "lng": 127.0717136
+      }
+    },
+    {
+      "id": "gwangjin-light-LF8275",
+      "name": "스마트보안등 LF8275",
+      "coordinate": {
+        "lat": 37.54437121,
+        "lng": 127.0701206
+      }
+    },
+    {
+      "id": "gwangjin-light-LF8276",
+      "name": "스마트보안등 LF8276",
+      "coordinate": {
+        "lat": 37.54689021,
+        "lng": 127.0720786
+      }
+    },
+    {
+      "id": "gwangjin-light-LF8277",
+      "name": "스마트보안등 LF8277",
+      "coordinate": {
+        "lat": 37.54482921,
+        "lng": 127.0705026
+      }
+    },
+    {
+      "id": "gwangjin-light-LF8284",
+      "name": "스마트보안등 LF8284",
+      "coordinate": {
+        "lat": 37.54589721,
+        "lng": 127.0713306
+      }
+    },
+    {
+      "id": "gwangjin-light-LF8285",
+      "name": "스마트보안등 LF8285",
+      "coordinate": {
+        "lat": 37.54658221,
+        "lng": 127.0722256
+      }
+    },
+    {
+      "id": "gwangjin-light-LF8286",
+      "name": "스마트보안등 LF8286",
+      "coordinate": {
+        "lat": 37.54628621,
+        "lng": 127.0716906
+      }
+    },
+    {
+      "id": "gwangjin-light-LF8287",
+      "name": "스마트보안등 LF8287",
+      "coordinate": {
+        "lat": 37.54467721,
+        "lng": 127.0706366
+      }
+    },
+    {
+      "id": "gwangjin-light-LF8288",
+      "name": "스마트보안등 LF8288",
+      "coordinate": {
+        "lat": 37.54541721,
+        "lng": 127.0708496
+      }
+    },
+    {
+      "id": "gwangjin-light-LF8289",
+      "name": "스마트보안등 LF8289",
+      "coordinate": {
+        "lat": 37.54421221,
+        "lng": 127.0698586
+      }
+    },
+    {
+      "id": "gwangjin-light-LF8296",
+      "name": "스마트보안등 LF8296",
+      "coordinate": {
+        "lat": 37.54562421,
+        "lng": 127.0717806
+      }
+    },
+    {
+      "id": "gwangjin-light-LF8297",
+      "name": "스마트보안등 LF8297",
+      "coordinate": {
+        "lat": 37.54540017,
+        "lng": 127.07176892
+      }
+    },
+    {
+      "id": "gwangjin-light-LF8298",
+      "name": "스마트보안등 LF8298",
+      "coordinate": {
+        "lat": 37.54654421,
+        "lng": 127.0725276
+      }
+    },
+    {
+      "id": "gwangjin-light-LF8299",
+      "name": "스마트보안등 LF8299",
+      "coordinate": {
+        "lat": 37.54562021,
+        "lng": 127.0706896
+      }
+    },
+    {
+      "id": "gwangjin-light-LF8300",
+      "name": "스마트보안등 LF8300",
+      "coordinate": {
+        "lat": 37.54606421,
+        "lng": 127.0721196
+      }
+    },
+    {
+      "id": "gwangjin-light-LG1254",
+      "name": "스마트보안등 LG1254",
+      "coordinate": {
+        "lat": 37.53885921,
+        "lng": 127.0804446
+      }
+    },
+    {
+      "id": "gwangjin-light-LG1677",
+      "name": "스마트보안등 LG1677",
+      "coordinate": {
+        "lat": 37.54200021,
+        "lng": 127.0696236
+      }
+    },
+    {
+      "id": "gwangjin-light-LG1731",
+      "name": "스마트보안등 LG1731",
+      "coordinate": {
+        "lat": 37.54177321,
+        "lng": 127.0693056
+      }
+    },
+    {
+      "id": "gwangjin-light-LG1763",
+      "name": "스마트보안등 LG1763",
+      "coordinate": {
+        "lat": 37.53829121,
+        "lng": 127.0796156
+      }
+    },
+    {
+      "id": "gwangjin-light-LG2141",
+      "name": "스마트보안등 LG2141",
+      "coordinate": {
+        "lat": 37.54565821,
+        "lng": 127.0700516
+      }
+    },
+    {
+      "id": "gwangjin-light-LG2397",
+      "name": "스마트보안등 LG2397",
+      "coordinate": {
+        "lat": 37.54009321,
+        "lng": 127.0818116
+      }
+    },
+    {
+      "id": "gwangjin-light-LG2432",
+      "name": "스마트보안등 LG2432",
+      "coordinate": {
+        "lat": 37.54543721,
+        "lng": 127.0697476
+      }
+    },
+    {
+      "id": "gwangjin-light-LG2447",
+      "name": "스마트보안등 LG2447",
+      "coordinate": {
+        "lat": 37.54580021,
+        "lng": 127.0693606
+      }
+    },
+    {
+      "id": "gwangjin-light-LG2681",
+      "name": "스마트보안등 LG2681",
+      "coordinate": {
+        "lat": 37.53807721,
+        "lng": 127.0794226
+      }
+    },
+    {
+      "id": "gwangjin-light-LG2977",
+      "name": "스마트보안등 LG2977",
+      "coordinate": {
+        "lat": 37.54249121,
+        "lng": 127.0712526
+      }
+    },
+    {
+      "id": "gwangjin-light-LG3044",
+      "name": "스마트보안등 LG3044",
+      "coordinate": {
+        "lat": 37.53917021,
+        "lng": 127.0766916
+      }
+    },
+    {
+      "id": "gwangjin-light-LG3047",
+      "name": "스마트보안등 LG3047",
+      "coordinate": {
+        "lat": 37.53882121,
+        "lng": 127.0777166
+      }
+    },
+    {
+      "id": "gwangjin-light-LG3049",
+      "name": "스마트보안등 LG3049",
+      "coordinate": {
+        "lat": 37.54018021,
+        "lng": 127.0814516
+      }
+    },
+    {
+      "id": "gwangjin-light-LG3107",
+      "name": "스마트보안등 LG3107",
+      "coordinate": {
+        "lat": 37.54400721,
+        "lng": 127.0704876
+      }
+    },
+    {
+      "id": "gwangjin-light-LG3760",
+      "name": "스마트보안등 LG3760",
+      "coordinate": {
+        "lat": 37.53998721,
+        "lng": 127.0822446
+      }
+    },
+    {
+      "id": "gwangjin-light-LG3762",
+      "name": "스마트보안등 LG3762",
+      "coordinate": {
+        "lat": 37.53895821,
+        "lng": 127.0802246
+      }
+    },
+    {
+      "id": "gwangjin-light-LG3773",
+      "name": "스마트보안등 LG3773",
+      "coordinate": {
+        "lat": 37.53878521,
+        "lng": 127.0807186
+      }
+    },
+    {
+      "id": "gwangjin-light-LG3775",
+      "name": "스마트보안등 LG3775",
+      "coordinate": {
+        "lat": 37.53865321,
+        "lng": 127.0810356
+      }
+    },
+    {
+      "id": "gwangjin-light-LG3776",
+      "name": "스마트보안등 LG3776",
+      "coordinate": {
+        "lat": 37.54526821,
+        "lng": 127.0700436
+      }
+    },
+    {
+      "id": "gwangjin-light-LG3778",
+      "name": "스마트보안등 LG3778",
+      "coordinate": {
+        "lat": 37.54507221,
+        "lng": 127.0702206
+      }
+    },
+    {
+      "id": "gwangjin-light-LG3781",
+      "name": "스마트보안등 LG3781",
+      "coordinate": {
+        "lat": 37.53852721,
+        "lng": 127.0805076
+      }
+    },
+    {
+      "id": "gwangjin-light-LG3782",
+      "name": "스마트보안등 LG3782",
+      "coordinate": {
+        "lat": 37.53839621,
+        "lng": 127.0808896
+      }
+    },
+    {
+      "id": "gwangjin-light-LG3785",
+      "name": "스마트보안등 LG3785",
+      "coordinate": {
+        "lat": 37.53861721,
+        "lng": 127.0806356
+      }
+    },
+    {
+      "id": "gwangjin-light-LG3808",
+      "name": "스마트보안등 LG3808",
+      "coordinate": {
+        "lat": 37.53874321,
+        "lng": 127.0794656
+      }
+    },
+    {
+      "id": "gwangjin-light-LG3810",
+      "name": "스마트보안등 LG3810",
+      "coordinate": {
+        "lat": 37.53891121,
+        "lng": 127.0792026
+      }
+    },
+    {
+      "id": "gwangjin-light-LG3813",
+      "name": "스마트보안등 LG3813",
+      "coordinate": {
+        "lat": 37.53892621,
+        "lng": 127.0775366
+      }
+    },
+    {
+      "id": "gwangjin-light-LG3814",
+      "name": "스마트보안등 LG3814",
+      "coordinate": {
+        "lat": 37.53878321,
+        "lng": 127.0792056
+      }
+    },
+    {
+      "id": "gwangjin-light-LG3815",
+      "name": "스마트보안등 LG3815",
+      "coordinate": {
+        "lat": 37.53823921,
+        "lng": 127.0784056
+      }
+    },
+    {
+      "id": "gwangjin-light-LG3827",
+      "name": "스마트보안등 LG3827",
+      "coordinate": {
+        "lat": 37.54229921,
+        "lng": 127.0710896
+      }
+    },
+    {
+      "id": "gwangjin-light-LG3828",
+      "name": "스마트보안등 LG3828",
+      "coordinate": {
+        "lat": 37.54199821,
+        "lng": 127.0709536
+      }
+    },
+    {
+      "id": "gwangjin-light-LG3832",
+      "name": "스마트보안등 LG3832",
+      "coordinate": {
+        "lat": 37.54163121,
+        "lng": 127.0709516
+      }
+    },
+    {
+      "id": "gwangjin-light-LG3841",
+      "name": "스마트보안등 LG3841",
+      "coordinate": {
+        "lat": 37.54278821,
+        "lng": 127.0695966
+      }
+    },
+    {
+      "id": "gwangjin-light-LG3842",
+      "name": "스마트보안등 LG3842",
+      "coordinate": {
+        "lat": 37.54299421,
+        "lng": 127.0701486
+      }
+    },
+    {
+      "id": "gwangjin-light-LG3843",
+      "name": "스마트보안등 LG3843",
+      "coordinate": {
+        "lat": 37.54223421,
+        "lng": 127.0703836
+      }
+    },
+    {
+      "id": "gwangjin-light-LG3845",
+      "name": "스마트보안등 LG3845",
+      "coordinate": {
+        "lat": 37.54272621,
+        "lng": 127.0707046
+      }
+    },
+    {
+      "id": "gwangjin-light-LG3846",
+      "name": "스마트보안등 LG3846",
+      "coordinate": {
+        "lat": 37.54285421,
+        "lng": 127.0698206
+      }
+    },
+    {
+      "id": "gwangjin-light-LG3847",
+      "name": "스마트보안등 LG3847",
+      "coordinate": {
+        "lat": 37.54510821,
+        "lng": 127.0720926
+      }
+    },
+    {
+      "id": "gwangjin-light-LG3975",
+      "name": "스마트보안등 LG3975",
+      "coordinate": {
+        "lat": 37.54382421,
+        "lng": 127.0696096
+      }
+    },
+    {
+      "id": "gwangjin-light-LG3977",
+      "name": "스마트보안등 LG3977",
+      "coordinate": {
+        "lat": 37.54263321,
+        "lng": 127.0689666
+      }
+    },
+    {
+      "id": "gwangjin-light-LG3980",
+      "name": "스마트보안등 LG3980",
+      "coordinate": {
+        "lat": 37.54241321,
+        "lng": 127.0688466
+      }
+    },
+    {
+      "id": "gwangjin-light-LG4746",
+      "name": "스마트보안등 LG4746",
+      "coordinate": {
+        "lat": 37.54553984,
+        "lng": 127.0686732
+      }
+    },
+    {
+      "id": "gwangjin-light-LG4753",
+      "name": "스마트보안등 LG4753",
+      "coordinate": {
+        "lat": 37.54418121,
+        "lng": 127.0703126
+      }
+    },
+    {
+      "id": "gwangjin-light-LG4756",
+      "name": "스마트보안등 LG4756",
+      "coordinate": {
+        "lat": 37.54267921,
+        "lng": 127.0699796
+      }
+    },
+    {
+      "id": "gwangjin-light-LG8758",
+      "name": "스마트보안등 LG8758",
+      "coordinate": {
+        "lat": 37.53820721,
+        "lng": 127.0799816
+      }
+    },
+    {
+      "id": "gwangjin-light-LG8759",
+      "name": "스마트보안등 LG8759",
+      "coordinate": {
+        "lat": 37.53897221,
+        "lng": 127.0803496
+      }
+    },
+    {
+      "id": "gwangjin-light-LG8760",
+      "name": "스마트보안등 LG8760",
+      "coordinate": {
+        "lat": 37.53907021,
+        "lng": 127.0804776
+      }
+    },
+    {
+      "id": "gwangjin-light-LG8762",
+      "name": "스마트보안등 LG8762",
+      "coordinate": {
+        "lat": 37.53829221,
+        "lng": 127.0793806
+      }
+    },
+    {
+      "id": "gwangjin-light-LG8763",
+      "name": "스마트보안등 LG8763",
+      "coordinate": {
+        "lat": 37.53978021,
+        "lng": 127.0823136
+      }
+    },
+    {
+      "id": "gwangjin-light-LG8773",
+      "name": "스마트보안등 LG8773",
+      "coordinate": {
+        "lat": 37.54506321,
+        "lng": 127.0696756
+      }
+    },
+    {
+      "id": "gwangjin-light-LG8776",
+      "name": "스마트보안등 LG8776",
+      "coordinate": {
+        "lat": 37.54536821,
+        "lng": 127.0702286
+      }
+    },
+    {
+      "id": "gwangjin-light-LG8777",
+      "name": "스마트보안등 LG8777",
+      "coordinate": {
+        "lat": 37.54497521,
+        "lng": 127.0695216
+      }
+    },
+    {
+      "id": "gwangjin-light-LG8778",
+      "name": "스마트보안등 LG8778",
+      "coordinate": {
+        "lat": 37.53839321,
+        "lng": 127.0804236
+      }
+    },
+    {
+      "id": "gwangjin-light-LG8780",
+      "name": "스마트보안등 LG8780",
+      "coordinate": {
+        "lat": 37.53916321,
+        "lng": 127.0817256
+      }
+    },
+    {
+      "id": "gwangjin-light-LG8781",
+      "name": "스마트보안등 LG8781",
+      "coordinate": {
+        "lat": 37.53851121,
+        "lng": 127.0809696
+      }
+    },
+    {
+      "id": "gwangjin-light-LG8807",
+      "name": "스마트보안등 LG8807",
+      "coordinate": {
+        "lat": 37.53886221,
+        "lng": 127.0781056
+      }
+    },
+    {
+      "id": "gwangjin-light-LG8812",
+      "name": "스마트보안등 LG8812",
+      "coordinate": {
+        "lat": 37.53894221,
+        "lng": 127.0777246
+      }
+    },
+    {
+      "id": "gwangjin-light-LG8813",
+      "name": "스마트보안등 LG8813",
+      "coordinate": {
+        "lat": 37.53876921,
+        "lng": 127.0781016
+      }
+    },
+    {
+      "id": "gwangjin-light-LG8814",
+      "name": "스마트보안등 LG8814",
+      "coordinate": {
+        "lat": 37.53825921,
+        "lng": 127.0789786
+      }
+    },
+    {
+      "id": "gwangjin-light-LG8815",
+      "name": "스마트보안등 LG8815",
+      "coordinate": {
+        "lat": 37.53813521,
+        "lng": 127.0788056
+      }
+    },
+    {
+      "id": "gwangjin-light-LG8829",
+      "name": "스마트보안등 LG8829",
+      "coordinate": {
+        "lat": 37.54151821,
+        "lng": 127.0700396
+      }
+    },
+    {
+      "id": "gwangjin-light-LG8830",
+      "name": "스마트보안등 LG8830",
+      "coordinate": {
+        "lat": 37.54265221,
+        "lng": 127.0712496
+      }
+    },
+    {
+      "id": "gwangjin-light-LG8834",
+      "name": "스마트보안등 LG8834",
+      "coordinate": {
+        "lat": 37.54174021,
+        "lng": 127.0701716
+      }
+    },
+    {
+      "id": "gwangjin-light-LG8837",
+      "name": "스마트보안등 LG8837",
+      "coordinate": {
+        "lat": 37.54491421,
+        "lng": 127.0720056
+      }
+    },
+    {
+      "id": "gwangjin-light-LG8839",
+      "name": "스마트보안등 LG8839",
+      "coordinate": {
+        "lat": 37.54166521,
+        "lng": 127.0703996
+      }
+    },
+    {
+      "id": "gwangjin-light-LG8840",
+      "name": "스마트보안등 LG8840",
+      "coordinate": {
+        "lat": 37.54241721,
+        "lng": 127.0707456
+      }
+    },
+    {
+      "id": "gwangjin-light-LG8842",
+      "name": "스마트보안등 LG8842",
+      "coordinate": {
+        "lat": 37.54486121,
+        "lng": 127.0723066
+      }
+    },
+    {
+      "id": "gwangjin-light-LG8843",
+      "name": "스마트보안등 LG8843",
+      "coordinate": {
+        "lat": 37.54295121,
+        "lng": 127.0707226
+      }
+    },
+    {
+      "id": "gwangjin-light-LG8844",
+      "name": "스마트보안등 LG8844",
+      "coordinate": {
+        "lat": 37.54332721,
+        "lng": 127.0705916
+      }
+    },
+    {
+      "id": "gwangjin-light-LG8845",
+      "name": "스마트보안등 LG8845",
+      "coordinate": {
+        "lat": 37.54349521,
+        "lng": 127.0704036
+      }
+    },
+    {
+      "id": "gwangjin-light-LG8846",
+      "name": "스마트보안등 LG8846",
+      "coordinate": {
+        "lat": 37.54480821,
+        "lng": 127.0713436
+      }
+    },
+    {
+      "id": "gwangjin-light-LG8972",
+      "name": "스마트보안등 LG8972",
+      "coordinate": {
+        "lat": 37.54189121,
+        "lng": 127.0683066
+      }
+    },
+    {
+      "id": "gwangjin-light-LG8976",
+      "name": "스마트보안등 LG8976",
+      "coordinate": {
+        "lat": 37.53758721,
+        "lng": 127.0810366
+      }
+    },
+    {
+      "id": "gwangjin-light-LG8981",
+      "name": "스마트보안등 LG8981",
+      "coordinate": {
+        "lat": 37.54263221,
+        "lng": 127.0693716
+      }
+    },
+    {
+      "id": "gwangjin-light-LG9745",
+      "name": "스마트보안등 LG9745",
+      "coordinate": {
+        "lat": 37.53803621,
+        "lng": 127.0650636
+      }
+    },
+    {
+      "id": "gwangjin-light-LI1270",
+      "name": "스마트보안등 LI1270",
+      "coordinate": {
+        "lat": 37.54536614,
+        "lng": 127.07470757
+      }
+    },
+    {
+      "id": "gwangjin-light-LI1478",
+      "name": "스마트보안등 LI1478",
+      "coordinate": {
+        "lat": 37.54552821,
+        "lng": 127.0743876
+      }
+    },
+    {
+      "id": "gwangjin-light-LI1491",
+      "name": "스마트보안등 LI1491",
+      "coordinate": {
+        "lat": 37.54503621,
+        "lng": 127.0737806
+      }
+    },
+    {
+      "id": "gwangjin-light-LI1664",
+      "name": "스마트보안등 LI1664",
+      "coordinate": {
+        "lat": 37.54630621,
+        "lng": 127.0752556
+      }
+    },
+    {
+      "id": "gwangjin-light-LI1936",
+      "name": "스마트보안등 LI1936",
+      "coordinate": {
+        "lat": 37.54517321,
+        "lng": 127.0762866
+      }
+    },
+    {
+      "id": "gwangjin-light-LI1940",
+      "name": "스마트보안등 LI1940",
+      "coordinate": {
+        "lat": 37.54494821,
+        "lng": 127.0759006
+      }
+    },
+    {
+      "id": "gwangjin-light-LI1946",
+      "name": "스마트보안등 LI1946",
+      "coordinate": {
+        "lat": 37.54507621,
+        "lng": 127.0751776
+      }
+    },
+    {
+      "id": "gwangjin-light-LI1947",
+      "name": "스마트보안등 LI1947",
+      "coordinate": {
+        "lat": 37.54519421,
+        "lng": 127.0755686
+      }
+    },
+    {
+      "id": "gwangjin-light-LI1999",
+      "name": "스마트보안등 LI1999",
+      "coordinate": {
+        "lat": 37.54504721,
+        "lng": 127.0758636
+      }
+    },
+    {
+      "id": "gwangjin-light-LI2031",
+      "name": "스마트보안등 LI2031",
+      "coordinate": {
+        "lat": 37.54519043,
+        "lng": 127.07421544
+      }
+    },
+    {
+      "id": "gwangjin-light-LI2414",
+      "name": "스마트보안등 LI2414",
+      "coordinate": {
+        "lat": 37.54536221,
+        "lng": 127.0748896
+      }
+    },
+    {
+      "id": "gwangjin-light-LI2424",
+      "name": "스마트보안등 LI2424",
+      "coordinate": {
+        "lat": 37.54551984,
+        "lng": 127.0747842
+      }
+    },
+    {
+      "id": "gwangjin-light-LI2458",
+      "name": "스마트보안등 LI2458",
+      "coordinate": {
+        "lat": 37.54562421,
+        "lng": 127.0759576
+      }
+    },
+    {
+      "id": "gwangjin-light-LI3171",
+      "name": "스마트보안등 LI3171",
+      "coordinate": {
+        "lat": 37.54537421,
+        "lng": 127.0761836
+      }
+    },
+    {
+      "id": "gwangjin-light-LI3310",
+      "name": "스마트보안등 LI3310",
+      "coordinate": {
+        "lat": 37.54620421,
+        "lng": 127.0750996
+      }
+    },
+    {
+      "id": "gwangjin-light-LI3312",
+      "name": "스마트보안등 LI3312",
+      "coordinate": {
+        "lat": 37.54496621,
+        "lng": 127.0740236
+      }
+    },
+    {
+      "id": "gwangjin-light-LI3334",
+      "name": "스마트보안등 LI3334",
+      "coordinate": {
+        "lat": 37.54494121,
+        "lng": 127.0748566
+      }
+    },
+    {
+      "id": "gwangjin-light-LI3719",
+      "name": "스마트보안등 LI3719",
+      "coordinate": {
+        "lat": 37.54559624,
+        "lng": 127.0757811
+      }
+    },
+    {
+      "id": "gwangjin-light-LI4824",
+      "name": "스마트보안등 LI4824",
+      "coordinate": {
+        "lat": 37.54489521,
+        "lng": 127.0743806
+      }
+    },
+    {
+      "id": "gwangjin-light-LI4827",
+      "name": "스마트보안등 LI4827",
+      "coordinate": {
+        "lat": 37.54477221,
+        "lng": 127.0759806
+      }
+    },
+    {
+      "id": "gwangjin-light-LI4883",
+      "name": "스마트보안등 LI4883",
+      "coordinate": {
+        "lat": 37.54481392,
+        "lng": 127.07497536
+      }
+    },
+    {
+      "id": "gwangjin-light-LI5412",
+      "name": "스마트보안등 LI5412",
+      "coordinate": {
+        "lat": 37.54501021,
+        "lng": 127.0734006
+      }
+    },
+    {
+      "id": "gwangjin-light-LI5413",
+      "name": "스마트보안등 LI5413",
+      "coordinate": {
+        "lat": 37.54560421,
+        "lng": 127.0737686
+      }
+    },
+    {
+      "id": "gwangjin-light-LI6459",
+      "name": "스마트보안등 LI6459",
+      "coordinate": {
+        "lat": 37.54593821,
+        "lng": 127.0742236
+      }
+    },
+    {
+      "id": "gwangjin-light-LI6461",
+      "name": "스마트보안등 LI6461",
+      "coordinate": {
+        "lat": 37.54502421,
+        "lng": 127.0749896
+      }
+    },
+    {
+      "id": "gwangjin-light-LI6677",
+      "name": "스마트보안등 LI6677",
+      "coordinate": {
+        "lat": 37.54672121,
+        "lng": 127.0746386
+      }
+    },
+    {
+      "id": "gwangjin-light-LI6679",
+      "name": "스마트보안등 LI6679",
+      "coordinate": {
+        "lat": 37.54483721,
+        "lng": 127.0747676
+      }
+    },
+    {
+      "id": "gwangjin-light-LI6910",
+      "name": "스마트보안등 LI6910",
+      "coordinate": {
+        "lat": 37.54580521,
+        "lng": 127.0749306
+      }
+    },
+    {
+      "id": "gwangjin-light-LI6934",
+      "name": "스마트보안등 LI6934",
+      "coordinate": {
+        "lat": 37.54480721,
+        "lng": 127.0762016
+      }
+    },
+    {
+      "id": "gwangjin-light-LI6937",
+      "name": "스마트보안등 LI6937",
+      "coordinate": {
+        "lat": 37.54532621,
+        "lng": 127.0737376
+      }
+    },
+    {
+      "id": "gwangjin-light-LI7421",
+      "name": "스마트보안등 LI7421",
+      "coordinate": {
+        "lat": 37.54519621,
+        "lng": 127.0747126
+      }
+    },
+    {
+      "id": "gwangjin-light-LI7425",
+      "name": "스마트보안등 LI7425",
+      "coordinate": {
+        "lat": 37.54510484,
+        "lng": 127.076129
+      }
+    },
+    {
+      "id": "gwangjin-light-LI7427",
+      "name": "스마트보안등 LI7427",
+      "coordinate": {
+        "lat": 37.54525221,
+        "lng": 127.0757866
+      }
+    },
+    {
+      "id": "gwangjin-light-LI8261",
+      "name": "스마트보안등 LI8261",
+      "coordinate": {
+        "lat": 37.54519321,
+        "lng": 127.0740186
+      }
+    },
+    {
+      "id": "gwangjin-light-LI8294",
+      "name": "스마트보안등 LI8294",
+      "coordinate": {
+        "lat": 37.54655321,
+        "lng": 127.0745476
+      }
+    },
+    {
+      "id": "gwangjin-light-LI8660",
+      "name": "스마트보안등 LI8660",
+      "coordinate": {
+        "lat": 37.54554321,
+        "lng": 127.0736406
+      }
+    },
+    {
+      "id": "gwangjin-light-LI8697",
+      "name": "스마트보안등 LI8697",
+      "coordinate": {
+        "lat": 37.54568621,
+        "lng": 127.0761136
+      }
+    },
+    {
+      "id": "gwangjin-light-LI8699",
+      "name": "스마트보안등 LI8699",
+      "coordinate": {
+        "lat": 37.54547464,
+        "lng": 127.0744097
+      }
+    },
+    {
+      "id": "gwangjin-light-LI9263",
+      "name": "스마트보안등 LI9263",
+      "coordinate": {
+        "lat": 37.54495021,
+        "lng": 127.0752626
+      }
+    },
+    {
+      "id": "gwangjin-light-LI9766",
+      "name": "스마트보안등 LI9766",
+      "coordinate": {
+        "lat": 37.54609521,
+        "lng": 127.0750466
+      }
+    },
+    {
+      "id": "gwangjin-light-LI9768",
+      "name": "스마트보안등 LI9768",
+      "coordinate": {
+        "lat": 37.54529421,
+        "lng": 127.0751206
+      }
+    },
+    {
+      "id": "gwangjin-light-LI9896",
+      "name": "스마트보안등 LI9896",
+      "coordinate": {
+        "lat": 37.54522621,
+        "lng": 127.0753686
+      }
+    },
+    {
+      "id": "gwangjin-light-LI9904",
+      "name": "스마트보안등 LI9904",
+      "coordinate": {
+        "lat": 37.54595964,
+        "lng": 127.0750471
+      }
+    },
+    {
+      "id": "gwangjin-light-LI9907",
+      "name": "스마트보안등 LI9907",
+      "coordinate": {
+        "lat": 37.54556021,
+        "lng": 127.0740826
+      }
+    },
+    {
+      "id": "gwangjin-light-LI9918",
+      "name": "스마트보안등 LI9918",
+      "coordinate": {
+        "lat": 37.54649421,
+        "lng": 127.0747876
+      }
+    },
+    {
+      "id": "gwangjin-light-LJ0134",
+      "name": "스마트보안등 LJ0134",
+      "coordinate": {
+        "lat": 37.54584721,
+        "lng": 127.0754166
+      }
+    },
+    {
+      "id": "gwangjin-light-LJ0322",
+      "name": "스마트보안등 LJ0322",
+      "coordinate": {
+        "lat": 37.54555721,
+        "lng": 127.0756306
+      }
+    },
+    {
+      "id": "gwangjin-light-LJ0346",
+      "name": "스마트보안등 LJ0346",
+      "coordinate": {
+        "lat": 37.54582421,
+        "lng": 127.0758266
+      }
+    },
+    {
+      "id": "gwangjin-light-LJ0405",
+      "name": "스마트보안등 LJ0405",
+      "coordinate": {
+        "lat": 37.54483221,
+        "lng": 127.0734146
+      }
+    },
+    {
+      "id": "gwangjin-light-LJ0590",
+      "name": "스마트보안등 LJ0590",
+      "coordinate": {
+        "lat": 37.54544421,
+        "lng": 127.0737656
+      }
+    },
+    {
+      "id": "gwangjin-light-LJ2153",
+      "name": "스마트보안등 LJ2153",
+      "coordinate": {
+        "lat": 37.53756521,
+        "lng": 127.0660576
+      }
+    },
+    {
+      "id": "gwangjin-light-LJ2163",
+      "name": "스마트보안등 LJ2163",
+      "coordinate": {
+        "lat": 37.54237821,
+        "lng": 127.0683986
+      }
+    },
+    {
+      "id": "gwangjin-light-LJ2166",
+      "name": "스마트보안등 LJ2166",
+      "coordinate": {
+        "lat": 37.54217624,
+        "lng": 127.068707
+      }
+    },
+    {
+      "id": "gwangjin-light-LJ2168",
+      "name": "스마트보안등 LJ2168",
+      "coordinate": {
+        "lat": 37.54207821,
+        "lng": 127.0685576
+      }
+    },
+    {
+      "id": "gwangjin-light-LJ2169",
+      "name": "스마트보안등 LJ2169",
+      "coordinate": {
+        "lat": 37.53878621,
+        "lng": 127.0658796
+      }
+    },
+    {
+      "id": "gwangjin-light-LJ2170",
+      "name": "스마트보안등 LJ2170",
+      "coordinate": {
+        "lat": 37.54340914,
+        "lng": 127.0654917
+      }
+    },
+    {
+      "id": "gwangjin-light-LJ2171",
+      "name": "스마트보안등 LJ2171",
+      "coordinate": {
+        "lat": 37.53736521,
+        "lng": 127.0660536
+      }
+    },
+    {
+      "id": "gwangjin-light-LJ2172",
+      "name": "스마트보안등 LJ2172",
+      "coordinate": {
+        "lat": 37.54217321,
+        "lng": 127.0680356
+      }
+    },
+    {
+      "id": "gwangjin-light-LJ2175",
+      "name": "스마트보안등 LJ2175",
+      "coordinate": {
+        "lat": 37.54553114,
+        "lng": 127.0666973
+      }
+    },
+    {
+      "id": "gwangjin-light-LJ2176",
+      "name": "스마트보안등 LJ2176",
+      "coordinate": {
+        "lat": 37.54555064,
+        "lng": 127.0674156
+      }
+    },
+    {
+      "id": "gwangjin-light-LJ2177",
+      "name": "스마트보안등 LJ2177",
+      "coordinate": {
+        "lat": 37.54317204,
+        "lng": 127.066035
+      }
+    },
+    {
+      "id": "gwangjin-light-LJ2178",
+      "name": "스마트보안등 LJ2178",
+      "coordinate": {
+        "lat": 37.54560021,
+        "lng": 127.0663726
+      }
+    },
+    {
+      "id": "gwangjin-light-LJ2182",
+      "name": "스마트보안등 LJ2182",
+      "coordinate": {
+        "lat": 37.54258721,
+        "lng": 127.0654316
+      }
+    },
+    {
+      "id": "gwangjin-light-LJ2183",
+      "name": "스마트보안등 LJ2183",
+      "coordinate": {
+        "lat": 37.5425423,
+        "lng": 127.06575938
+      }
+    },
+    {
+      "id": "gwangjin-light-LJ2186",
+      "name": "스마트보안등 LJ2186",
+      "coordinate": {
+        "lat": 37.54352394,
+        "lng": 127.0656258
+      }
+    },
+    {
+      "id": "gwangjin-light-LJ2187",
+      "name": "스마트보안등 LJ2187",
+      "coordinate": {
+        "lat": 37.53867021,
+        "lng": 127.0663766
+      }
+    },
+    {
+      "id": "gwangjin-light-LJ2188",
+      "name": "스마트보안등 LJ2188",
+      "coordinate": {
+        "lat": 37.53859021,
+        "lng": 127.0662056
+      }
+    },
+    {
+      "id": "gwangjin-light-LJ2191",
+      "name": "스마트보안등 LJ2191",
+      "coordinate": {
+        "lat": 37.53865621,
+        "lng": 127.0655346
+      }
+    },
+    {
+      "id": "gwangjin-light-LJ2195",
+      "name": "스마트보안등 LJ2195",
+      "coordinate": {
+        "lat": 37.53811321,
+        "lng": 127.0657346
+      }
+    },
+    {
+      "id": "gwangjin-light-LJ2197",
+      "name": "스마트보안등 LJ2197",
+      "coordinate": {
+        "lat": 37.54636321,
+        "lng": 127.0678576
+      }
+    },
+    {
+      "id": "gwangjin-light-LJ2198",
+      "name": "스마트보안등 LJ2198",
+      "coordinate": {
+        "lat": 37.53871221,
+        "lng": 127.0660086
+      }
+    },
+    {
+      "id": "gwangjin-light-LJ2200",
+      "name": "스마트보안등 LJ2200",
+      "coordinate": {
+        "lat": 37.53883421,
+        "lng": 127.0665146
+      }
+    },
+    {
+      "id": "gwangjin-light-LJ2205",
+      "name": "스마트보안등 LJ2205",
+      "coordinate": {
+        "lat": 37.54297221,
+        "lng": 127.0693886
+      }
+    },
+    {
+      "id": "gwangjin-light-LJ2206",
+      "name": "스마트보안등 LJ2206",
+      "coordinate": {
+        "lat": 37.53895021,
+        "lng": 127.0626976
+      }
+    },
+    {
+      "id": "gwangjin-light-LJ2207",
+      "name": "스마트보안등 LJ2207",
+      "coordinate": {
+        "lat": 37.54239694,
+        "lng": 127.0681883
+      }
+    },
+    {
+      "id": "gwangjin-light-LJ2209",
+      "name": "스마트보안등 LJ2209",
+      "coordinate": {
+        "lat": 37.53909321,
+        "lng": 127.0650516
+      }
+    },
+    {
+      "id": "gwangjin-light-LJ2210",
+      "name": "스마트보안등 LJ2210",
+      "coordinate": {
+        "lat": 37.53918421,
+        "lng": 127.0651616
+      }
+    },
+    {
+      "id": "gwangjin-light-LJ2211",
+      "name": "스마트보안등 LJ2211",
+      "coordinate": {
+        "lat": 37.53895921,
+        "lng": 127.0651186
+      }
+    },
+    {
+      "id": "gwangjin-light-LJ2212",
+      "name": "스마트보안등 LJ2212",
+      "coordinate": {
+        "lat": 37.54201721,
+        "lng": 127.0680346
+      }
+    },
+    {
+      "id": "gwangjin-light-LJ2213",
+      "name": "스마트보안등 LJ2213",
+      "coordinate": {
+        "lat": 37.53938074,
+        "lng": 127.0652662
+      }
+    },
+    {
+      "id": "gwangjin-light-LJ2218",
+      "name": "스마트보안등 LJ2218",
+      "coordinate": {
+        "lat": 37.54623804,
+        "lng": 127.0677566
+      }
+    },
+    {
+      "id": "gwangjin-light-LJ2219",
+      "name": "스마트보안등 LJ2219",
+      "coordinate": {
+        "lat": 37.54375024,
+        "lng": 127.0657603
+      }
+    },
+    {
+      "id": "gwangjin-light-LJ2220",
+      "name": "스마트보안등 LJ2220",
+      "coordinate": {
+        "lat": 37.54189321,
+        "lng": 127.0682386
+      }
+    },
+    {
+      "id": "gwangjin-light-LJ2222",
+      "name": "스마트보안등 LJ2222",
+      "coordinate": {
+        "lat": 37.53793884,
+        "lng": 127.0657708
+      }
+    },
+    {
+      "id": "gwangjin-light-LJ2225",
+      "name": "스마트보안등 LJ2225",
+      "coordinate": {
+        "lat": 37.53874321,
+        "lng": 127.0656026
+      }
+    },
+    {
+      "id": "gwangjin-light-LJ7145",
+      "name": "스마트보안등 LJ7145",
+      "coordinate": {
+        "lat": 37.53870721,
+        "lng": 127.0657466
+      }
+    },
+    {
+      "id": "gwangjin-light-LJ7146",
+      "name": "스마트보안등 LJ7146",
+      "coordinate": {
+        "lat": 37.53783454,
+        "lng": 127.0661957
+      }
+    },
+    {
+      "id": "gwangjin-light-LJ7148",
+      "name": "스마트보안등 LJ7148",
+      "coordinate": {
+        "lat": 37.53867821,
+        "lng": 127.0667446
+      }
+    },
+    {
+      "id": "gwangjin-light-LJ7154",
+      "name": "스마트보안등 LJ7154",
+      "coordinate": {
+        "lat": 37.54559521,
+        "lng": 127.0668586
+      }
+    },
+    {
+      "id": "gwangjin-light-LJ7155",
+      "name": "스마트보안등 LJ7155",
+      "coordinate": {
+        "lat": 37.54571414,
+        "lng": 127.0668626
+      }
+    },
+    {
+      "id": "gwangjin-light-LJ7159",
+      "name": "스마트보안등 LJ7159",
+      "coordinate": {
+        "lat": 37.54217715,
+        "lng": 127.0687099
+      }
+    },
+    {
+      "id": "gwangjin-light-LJ7160",
+      "name": "스마트보안등 LJ7160",
+      "coordinate": {
+        "lat": 37.53762821,
+        "lng": 127.0658946
+      }
+    },
+    {
+      "id": "gwangjin-light-LJ7161",
+      "name": "스마트보안등 LJ7161",
+      "coordinate": {
+        "lat": 37.54582121,
+        "lng": 127.0672086
+      }
+    },
+    {
+      "id": "gwangjin-light-LJ7164",
+      "name": "스마트보안등 LJ7164",
+      "coordinate": {
+        "lat": 37.53803021,
+        "lng": 127.0641786
+      }
+    },
+    {
+      "id": "gwangjin-light-LJ7165",
+      "name": "스마트보안등 LJ7165",
+      "coordinate": {
+        "lat": 37.54488254,
+        "lng": 127.0675243
+      }
+    },
+    {
+      "id": "gwangjin-light-LJ7168",
+      "name": "스마트보안등 LJ7168",
+      "coordinate": {
+        "lat": 37.54570821,
+        "lng": 127.0666236
+      }
+    },
+    {
+      "id": "gwangjin-light-LJ7173",
+      "name": "스마트보안등 LJ7173",
+      "coordinate": {
+        "lat": 37.54271321,
+        "lng": 127.0657916
+      }
+    },
+    {
+      "id": "gwangjin-light-LJ7174",
+      "name": "스마트보안등 LJ7174",
+      "coordinate": {
+        "lat": 37.54234024,
+        "lng": 127.0662909
+      }
+    },
+    {
+      "id": "gwangjin-light-LJ7175",
+      "name": "스마트보안등 LJ7175",
+      "coordinate": {
+        "lat": 37.53828221,
+        "lng": 127.0665226
+      }
+    },
+    {
+      "id": "gwangjin-light-LJ7176",
+      "name": "스마트보안등 LJ7176",
+      "coordinate": {
+        "lat": 37.54637821,
+        "lng": 127.0672866
+      }
+    },
+    {
+      "id": "gwangjin-light-LJ7177",
+      "name": "스마트보안등 LJ7177",
+      "coordinate": {
+        "lat": 37.53830421,
+        "lng": 127.0662676
+      }
+    },
+    {
+      "id": "gwangjin-light-LJ7178",
+      "name": "스마트보안등 LJ7178",
+      "coordinate": {
+        "lat": 37.54454394,
+        "lng": 127.0684579
+      }
+    },
+    {
+      "id": "gwangjin-light-LJ7179",
+      "name": "스마트보안등 LJ7179",
+      "coordinate": {
+        "lat": 37.54302654,
+        "lng": 127.0663465
+      }
+    },
+    {
+      "id": "gwangjin-light-LJ7181",
+      "name": "스마트보안등 LJ7181",
+      "coordinate": {
+        "lat": 37.53737921,
+        "lng": 127.0666356
+      }
+    },
+    {
+      "id": "gwangjin-light-LJ7183",
+      "name": "스마트보안등 LJ7183",
+      "coordinate": {
+        "lat": 37.53800964,
+        "lng": 127.0655621
+      }
+    },
+    {
+      "id": "gwangjin-light-LJ7186",
+      "name": "스마트보안등 LJ7186",
+      "coordinate": {
+        "lat": 37.53891321,
+        "lng": 127.0657916
+      }
+    },
+    {
+      "id": "gwangjin-light-LJ7190",
+      "name": "스마트보안등 LJ7190",
+      "coordinate": {
+        "lat": 37.54397664,
+        "lng": 127.0658381
+      }
+    },
+    {
+      "id": "gwangjin-light-LJ7191",
+      "name": "스마트보안등 LJ7191",
+      "coordinate": {
+        "lat": 37.54650321,
+        "lng": 127.0677306
+      }
+    },
+    {
+      "id": "gwangjin-light-LJ7193",
+      "name": "스마트보안등 LJ7193",
+      "coordinate": {
+        "lat": 37.53855321,
+        "lng": 127.0654686
+      }
+    },
+    {
+      "id": "gwangjin-light-LJ7195",
+      "name": "스마트보안등 LJ7195",
+      "coordinate": {
+        "lat": 37.53792121,
+        "lng": 127.0662996
+      }
+    },
+    {
+      "id": "gwangjin-light-LJ7196",
+      "name": "스마트보안등 LJ7196",
+      "coordinate": {
+        "lat": 37.53849621,
+        "lng": 127.0662566
+      }
+    },
+    {
+      "id": "gwangjin-light-LJ7197",
+      "name": "스마트보안등 LJ7197",
+      "coordinate": {
+        "lat": 37.53807621,
+        "lng": 127.0664066
+      }
+    },
+    {
+      "id": "gwangjin-light-LJ7198",
+      "name": "스마트보안등 LJ7198",
+      "coordinate": {
+        "lat": 37.53935021,
+        "lng": 127.0649606
+      }
+    },
+    {
+      "id": "gwangjin-light-LJ7200",
+      "name": "스마트보안등 LJ7200",
+      "coordinate": {
+        "lat": 37.54197621,
+        "lng": 127.0686136
+      }
+    },
+    {
+      "id": "gwangjin-light-LJ7202",
+      "name": "스마트보안등 LJ7202",
+      "coordinate": {
+        "lat": 37.53962454,
+        "lng": 127.0646571
+      }
+    },
+    {
+      "id": "gwangjin-light-LJ7203",
+      "name": "스마트보안등 LJ7203",
+      "coordinate": {
+        "lat": 37.54193221,
+        "lng": 127.0679346
+      }
+    },
+    {
+      "id": "gwangjin-light-LJ7204",
+      "name": "스마트보안등 LJ7204",
+      "coordinate": {
+        "lat": 37.54217321,
+        "lng": 127.0682956
+      }
+    },
+    {
+      "id": "gwangjin-light-LJ7209",
+      "name": "스마트보안등 LJ7209",
+      "coordinate": {
+        "lat": 37.54183304,
+        "lng": 127.0678688
+      }
+    },
+    {
+      "id": "gwangjin-light-LJ7210",
+      "name": "스마트보안등 LJ7210",
+      "coordinate": {
+        "lat": 37.54264984,
+        "lng": 127.0659341
+      }
+    },
+    {
+      "id": "gwangjin-light-LJ7211",
+      "name": "스마트보안등 LJ7211",
+      "coordinate": {
+        "lat": 37.54628384,
+        "lng": 127.0679382
+      }
+    },
+    {
+      "id": "gwangjin-light-LJ7219",
+      "name": "스마트보안등 LJ7219",
+      "coordinate": {
+        "lat": 37.54185121,
+        "lng": 127.0665886
+      }
+    }
+  ]
+}

@@ -1,0 +1,2379 @@
+{
+  "sourceDatasetId": "gwangjin-cctv-installations",
+  "sourcePageUrl": "https://www.gwangjin.go.kr/portal/main/contents.do?menuNo=200896",
+  "sourceFileUrl": "https://www.gwangjin.go.kr/portal/cmmn/file/fileDown.do?atchFileId=3fd879a5aa70bb48e900ecfd02fc3b202ed6aa5f017fddeebb323c77575ef895&fileSn=2",
+  "sourceSheetName": "광진구 CCTV 설치 현황",
+  "sourceRowCount": 1327,
+  "selectedRowCount": 214,
+  "pageRevisionDate": "2025-09-25",
+  "generatedAt": "2026-09-05T08:25:03.590Z",
+  "filter": {
+    "acceptedPurposes": [
+      "생활방범",
+      "공원방범",
+      "어린이보호",
+      "다목적"
+    ],
+    "center": {
+      "lat": 37.542,
+      "lng": 127.073
+    },
+    "radiusMeters": 1000
+  },
+  "facilities": [
+    {
+      "id": "00a87b7fef349bae",
+      "name": "다목적 CCTV · 다목적-036",
+      "address": "군자로 70 두산위브 앞",
+      "purpose": "다목적",
+      "coordinate": {
+        "lat": 37.5488090396448,
+        "lng": 127.070781266905
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "02e11b43226f8e61",
+      "name": "생활방범 CCTV · 생활방범-613",
+      "address": "아차산로21길 62",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.544548,
+        "lng": 127.066225
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "03ea113b122c4582",
+      "name": "생활방범 CCTV · 생활방범-360",
+      "address": "자양번영로 81 (자양동)",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.5369218963564,
+        "lng": 127.076723520152
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "055310257bb05bf6",
+      "name": "생활방범 CCTV · 생활방범-693",
+      "address": "광나루로13길 16",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.54900474,
+        "lng": 127.0686083
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "0574c10185754b25",
+      "name": "공원방범 CCTV · 공원-219",
+      "address": "뚝섬로 481",
+      "purpose": "공원방범",
+      "coordinate": {
+        "lat": 37.536619,
+        "lng": 127.064464
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "05d8eef3ca9898c0",
+      "name": "어린이보호 CCTV · 어린이-202",
+      "address": "아차산로21길 15 (화양동)",
+      "purpose": "어린이보호",
+      "coordinate": {
+        "lat": 37.5434796746314,
+        "lng": 127.065636278278
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "067b059f3755aa28",
+      "name": "생활방범 CCTV · 생활방범-612",
+      "address": "뚝섬로33길 34",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.536428,
+        "lng": 127.069929
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "06ddd1af2f17abd6",
+      "name": "생활방범 CCTV · 생활방범-695",
+      "address": "능동로19길 10",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.54705353,
+        "lng": 127.07328
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "08dc44d5f1fd0f9d",
+      "name": "생활방범 CCTV · 생활방범-212",
+      "address": "동일로12길 20 (자양동)",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.5394537405475,
+        "lng": 127.063322765756
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "09ab2028649b1bb1",
+      "name": "생활방범 CCTV · 생활방범-139",
+      "address": "자양로15길84",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.534871,
+        "lng": 127.0789
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "0a5de1c71b286f01",
+      "name": "생활방범 CCTV · 생활방범-345",
+      "address": "군자로 38 (화양동)",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.5464328982587,
+        "lng": 127.070281899413
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "0e12f2057773a2e3",
+      "name": "어린이보호 CCTV · 어린이-199",
+      "address": "광나루로 448 (화양동)",
+      "purpose": "어린이보호",
+      "coordinate": {
+        "lat": 37.5453738947008,
+        "lng": 127.079157828102
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "0e9040bb5bde72e5",
+      "name": "생활방범 CCTV · 생활방범-556",
+      "address": "뚝섬로27길3",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.5363969183654,
+        "lng": 127.066029723008
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "0f5c3a9b98010a88",
+      "name": "생활방범 CCTV · 생활방범-616",
+      "address": "군자로 114",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.54922824,
+        "lng": 127.0751861
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "1777aafad0dd485a",
+      "name": "생활방범 CCTV · 생활방범-581",
+      "address": "광나루로19길 31",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.54905,
+        "lng": 127.0733
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "1789c966122a336b",
+      "name": "생활방범 CCTV · 생활방범-358",
+      "address": "자양번영로8길 7 (자양동)",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.534349493782,
+        "lng": 127.076629956192
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "19a4d392a0f1c203",
+      "name": "공원방범 CCTV · 공원-059",
+      "address": "-",
+      "purpose": "공원방범",
+      "coordinate": {
+        "lat": 37.5358665630018,
+        "lng": 127.067785517257
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "1be69e64494caf2b",
+      "name": "생활방범 CCTV · 생활방범-724",
+      "address": "아차산로 327-12",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.5381611743708,
+        "lng": 127.079434839653
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "1ea972dc0e9ee6fc",
+      "name": "생활방범 CCTV · 생활방범-426",
+      "address": "뚝섬로27길 43 (자양동)",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.5376878765497,
+        "lng": 127.066215176471
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "205140d4a7678d4f",
+      "name": "생활방범 CCTV · 생활방범-594",
+      "address": "동일로 26길 9",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.545392,
+        "lng": 127.066689
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "214870389ba07df2",
+      "name": "생활방범 CCTV · 생활방범-043",
+      "address": "광나루로30가길 9 (구의동)",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.5442154105116,
+        "lng": 127.082459222272
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "22e78249493e943d",
+      "name": "생활방범 CCTV · 생활방범-216",
+      "address": "동일로18나길 24 (자양동)",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.5385837261976,
+        "lng": 127.065313591271
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "232b4e752b8f622f",
+      "name": "생활방범 CCTV · 생활방범-444",
+      "address": "아차산로25길 76 (화양동)",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.54462904,
+        "lng": 127.0681544
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "2438f4e8de06ee9d",
+      "name": "공원방범 CCTV · 공원-031",
+      "address": "아차산로31길 14 (화양동)",
+      "purpose": "공원방범",
+      "coordinate": {
+        "lat": 37.5414631363744,
+        "lng": 127.069830331158
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "255914be76d4abdc",
+      "name": "어린이보호 CCTV · 어린이-087",
+      "address": "자양로23길 7 (자양동)",
+      "purpose": "어린이보호",
+      "coordinate": {
+        "lat": 37.5413117147583,
+        "lng": 127.083168295863
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "2837fc239a53286f",
+      "name": "공원방범 CCTV · 공원-200",
+      "address": "군자로 3길 15",
+      "purpose": "공원방범",
+      "coordinate": {
+        "lat": 37.5442841667185,
+        "lng": 127.070444625927
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "2a1662de8ce203f7",
+      "name": "공원방범 CCTV · 공원-015",
+      "address": "뚝섬로34길 25-19 (자양동)",
+      "purpose": "공원방범",
+      "coordinate": {
+        "lat": 37.5336052389476,
+        "lng": 127.070019965032
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "2d34aab1a42f0c84",
+      "name": "생활방범 CCTV · 생활방범-672",
+      "address": "뚝섬로31가길 12",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.536127,
+        "lng": 127.067335
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "2e6487980b750806",
+      "name": "생활방범 CCTV · 생활방범-502",
+      "address": "동일로22길 89 (화양동)",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.5411238541279,
+        "lng": 127.06918452167
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "303fd37172b156ec",
+      "name": "생활방범 CCTV · 생활방범-617",
+      "address": "아차산로39길 38-7",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.5393643435026,
+        "lng": 127.075242367697
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "306128505308d1b7",
+      "name": "어린이보호 CCTV · 어린이-132",
+      "address": "능동로 42 신양초교 후문입구",
+      "purpose": "어린이보호",
+      "coordinate": {
+        "lat": 37.5347356971135,
+        "lng": 127.070093568755
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "31a64718a97ba35d",
+      "name": "생활방범 CCTV · 생활방범-495",
+      "address": "동일로 30길 28 (화양동)",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.5475192029928,
+        "lng": 127.068791840022
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "324b693185d0b0d4",
+      "name": "어린이보호 CCTV · 어린이-090",
+      "address": "아차산로44길 36 (자양동)",
+      "purpose": "어린이보호",
+      "coordinate": {
+        "lat": 37.5364518544109,
+        "lng": 127.078934678327
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "3253606c75cbc91d",
+      "name": "생활방범 CCTV · 생활방범-178",
+      "address": "아차산로38길 5-16 (자양동)",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.5381207623091,
+        "lng": 127.075370220778
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "33d3fa6014ee3ee3",
+      "name": "생활방범 CCTV · 생활방범-562",
+      "address": "아차산로 23길 45",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.54400535,
+        "lng": 127.0668723
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "34b2cdd24b6ea385",
+      "name": "생활방범 CCTV · 생활방범-321",
+      "address": "긴고랑로46길 11 (화양동)",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.5454818270288,
+        "lng": 127.074135097953
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "34d2c22ed20a352e",
+      "name": "어린이보호 CCTV · 어린이-028",
+      "address": "자양로23가길 16 (구의동)",
+      "purpose": "어린이보호",
+      "coordinate": {
+        "lat": 37.5419991143074,
+        "lng": 127.081639895468
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "35c845c04cade378",
+      "name": "생활방범 CCTV · 생활방범-698",
+      "address": "아차산로 306",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.53800059,
+        "lng": 127.0770389
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "35d51afb36e2fc19",
+      "name": "생활방범 CCTV · 생활방범-494",
+      "address": "아차산로25길 20-9 (화양동)",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.5420853729757,
+        "lng": 127.067406459596
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "35fbcd10a86f8b61",
+      "name": "생활방범 CCTV · 생활방범-684",
+      "address": "동일로32길 14-6",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.5491004808719,
+        "lng": 127.068920885793
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "3611d7d6483f642e",
+      "name": "생활방범 CCTV · 생활방범-384",
+      "address": "광나루로24길 53 (화양동)",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.5450053625891,
+        "lng": 127.077995711872
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "36fd348c6b039676",
+      "name": "생활방범 CCTV · 생활방범-563",
+      "address": "아차산로 21길 109",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.54663895,
+        "lng": 127.0673908
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "37c085f26dacdd85",
+      "name": "생활방범 CCTV · 생활방범-152",
+      "address": "자양로19길 54 (자양동)",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.5381610704263,
+        "lng": 127.080440873089
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "386739acd1b5bbb7",
+      "name": "공원방범 CCTV · 공원-016",
+      "address": "아차산로32길 17 (자양동)",
+      "purpose": "공원방범",
+      "coordinate": {
+        "lat": 37.5392063473026,
+        "lng": 127.068237769212
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "39e774604b8cc8c9",
+      "name": "생활방범 CCTV · 생활방범-312",
+      "address": "아차산로23길 68 (화양동)",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.5450984859965,
+        "lng": 127.067489089995
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "3a8593fb233e0e00",
+      "name": "생활방범 CCTV · 생활방범-690",
+      "address": "자양로 130",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.5394982452134,
+        "lng": 127.083400040597
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "3aaf29e8f3ff4803",
+      "name": "생활방범 CCTV · 생활방범-650",
+      "address": "군자로6길 51",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.54581075,
+        "lng": 127.07230563
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "3dafc42d5642d3a2",
+      "name": "생활방범 CCTV · 생활방범-206",
+      "address": "동일로10길 5 (자양동)",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.53886629,
+        "lng": 127.0626079
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "3e186e4307b41966",
+      "name": "생활방범 CCTV · 생활방범-171",
+      "address": "자양번영로11길 4-9 (자양동)",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.5374888214033,
+        "lng": 127.076620185995
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "42e6b1d66f13da7e",
+      "name": "생활방범 CCTV · 생활방범-174",
+      "address": "자양번영로11길 37-14 (자양동)",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.5368827825789,
+        "lng": 127.074423245555
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "437c3b290842ec94",
+      "name": "어린이보호 CCTV · 어린이-203",
+      "address": "아차산로 191 (화양동)",
+      "purpose": "어린이보호",
+      "coordinate": {
+        "lat": 37.5424751743742,
+        "lng": 127.065074049087
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "43a049156b2a6c00",
+      "name": "생활방범 CCTV · 생활방범-699",
+      "address": "자양로23나길 7",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.5422225,
+        "lng": 127.0826359
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "43ae2e6d52e2456f",
+      "name": "생활방범 CCTV · 생활방범-341",
+      "address": "자양로15길 108 (자양동)",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.5343069768426,
+        "lng": 127.077947366651
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "43ddb0377f305ca9",
+      "name": "생활방범 CCTV · 생활방범-554",
+      "address": "자양번영로 7길 3",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.5356339434254,
+        "lng": 127.076345008878
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "473a3f410596eb52",
+      "name": "공원방범 CCTV · 공원-084",
+      "address": "-",
+      "purpose": "공원방범",
+      "coordinate": {
+        "lat": 37.5370142864406,
+        "lng": 127.068984014399
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "4885f1c02a932317",
+      "name": "생활방범 CCTV · 생활방범-317",
+      "address": "아차산로 241 (화양동)",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.5406322667665,
+        "lng": 127.070480262323
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "489b2889e30c8c05",
+      "name": "생활방범 CCTV · 생활방범-673",
+      "address": "자양로15길 72",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.5350574252968,
+        "lng": 127.079736426984
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "4ac3d9938141e63b",
+      "name": "어린이보호 CCTV · 어린이-209",
+      "address": "아차산로 44가길 5",
+      "purpose": "어린이보호",
+      "coordinate": {
+        "lat": 37.536327243356,
+        "lng": 127.079723765634
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "4b675048de74aa07",
+      "name": "생활방범 CCTV · 생활방범-200",
+      "address": "아차산로22길 27 (자양동)",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.5406239240458,
+        "lng": 127.064054192294
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "4b8538b3605fa295",
+      "name": "생활방범 CCTV · 생활방범-210",
+      "address": "뚝섬로30길 15 (자양동)",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.5352654881866,
+        "lng": 127.066465256144
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "4f2e016b7f4f9109",
+      "name": "생활방범 CCTV · 생활방범-189",
+      "address": "뚝섬로 491 (자양동)",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.5365473884213,
+        "lng": 127.065122094409
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "5222ec8e1605ae44",
+      "name": "생활방범 CCTV · 생활방범-434",
+      "address": "군자로2길 4 (화양동)",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.544285750036,
+        "lng": 127.071695288139
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "55a9296e61565fa9",
+      "name": "생활방범 CCTV · 생활방범-411",
+      "address": "아차산로39길 11 (자양동)",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.5385424198212,
+        "lng": 127.077206158502
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "561d28f583a1d6cb",
+      "name": "다목적 CCTV · 다목적-026",
+      "address": "능동로 42 (자양동)",
+      "purpose": "다목적",
+      "coordinate": {
+        "lat": 37.5351519904078,
+        "lng": 127.068604329699
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "594f43b0f68579eb",
+      "name": "생활방범 CCTV · 생활방범-207",
+      "address": "능동로9길 23",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.537755,
+        "lng": 127.067979
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "59b9b364dacc9617",
+      "name": "생활방범 CCTV · 생활방범-583",
+      "address": "군자로 43",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.54714,
+        "lng": 127.07027
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "5c0e0a0a2d96b1bb",
+      "name": "어린이보호 CCTV · 어린이-201",
+      "address": "능동로 145 (화양동)",
+      "purpose": "어린이보호",
+      "coordinate": {
+        "lat": 37.5437027,
+        "lng": 127.0722219
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "5cc9d3fc68b9ce09",
+      "name": "생활방범 CCTV · 생활방범-172",
+      "address": "자양번영로11길 29 (자양동)",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.5373325765658,
+        "lng": 127.075077209011
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "5d32db5ad65a6ff2",
+      "name": "공원방범 CCTV · 공원-092",
+      "address": "-",
+      "purpose": "공원방범",
+      "coordinate": {
+        "lat": 37.5352,
+        "lng": 127.068229
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "5d80ae5602fb5670",
+      "name": "생활방범 CCTV · 생활방범-586",
+      "address": "능동로 13길 39",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.54341,
+        "lng": 127.0704
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "6043422a6f41dc5c",
+      "name": "생활방범 CCTV · 생활방범-643",
+      "address": "동일로22길 117-20",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.54127961,
+        "lng": 127.07084159
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "60ee534e01d05524",
+      "name": "공원방범 CCTV · 공원-123",
+      "address": "-",
+      "purpose": "공원방범",
+      "coordinate": {
+        "lat": 37.5363109523781,
+        "lng": 127.08001899331
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "61c03faa9fe591ea",
+      "name": "생활방범 CCTV · 생활방범-443",
+      "address": "아차산로33길 16-8 (화양동)",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.5409833185576,
+        "lng": 127.070345417397
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "62c03269b15b5466",
+      "name": "어린이보호 CCTV · 어린이-124",
+      "address": "뚝섬로 585 (자양동)",
+      "purpose": "어린이보호",
+      "coordinate": {
+        "lat": 37.5335382100672,
+        "lng": 127.074844924707
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "649cd42ba79fb6d2",
+      "name": "공원방범 CCTV · 공원-027",
+      "address": "동일로28길 16 (화양동)",
+      "purpose": "공원방범",
+      "coordinate": {
+        "lat": 37.5465405384149,
+        "lng": 127.067696521015
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "6557d7d8ea83f27c",
+      "name": "생활방범 CCTV · 생활방범-213",
+      "address": "동일로10길 25 (자양동)",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.538289764137,
+        "lng": 127.063341458408
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "659097472ccc06e1",
+      "name": "공원방범 CCTV · 공원-199",
+      "address": "아차산로 25길 27",
+      "purpose": "공원방범",
+      "coordinate": {
+        "lat": 37.5425993900417,
+        "lng": 127.067015856239
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "67220e4e3670505b",
+      "name": "생활방범 CCTV · 생활방범-181",
+      "address": "능동로8길 28 (자양동)",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.53611088,
+        "lng": 127.0707386
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "675b6983a677e542",
+      "name": "생활방범 CCTV · 생활방범-580",
+      "address": "광나루로 19길51",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.54984,
+        "lng": 127.07265
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "68f0c40892a32183",
+      "name": "공원방범 CCTV · 공원-218",
+      "address": "뚝섬로 481",
+      "purpose": "공원방범",
+      "coordinate": {
+        "lat": 37.536665,
+        "lng": 127.064219
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "69a2eca750c9836c",
+      "name": "생활방범 CCTV · 생활방범-195",
+      "address": "아차산로30길 18",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.539954,
+        "lng": 127.067448
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "6a6c67de613b7442",
+      "name": "생활방범 CCTV · 생활방범-546",
+      "address": "자양로 117",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.5389680577255,
+        "lng": 127.082347705373
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "6ac01abc6a823961",
+      "name": "생활방범 CCTV · 생활방범-214",
+      "address": "동일로18가길 13 (자양동)",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.5390042914522,
+        "lng": 127.064579748203
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "6b2f77efc181670d",
+      "name": "생활방범 CCTV · 생활방범-692",
+      "address": "뚝섬로 515",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.53564578,
+        "lng": 127.0675551
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "6b8d4af6a54b3247",
+      "name": "생활방범 CCTV · 생활방범-451",
+      "address": "자양번영로9길 16-4 (자양동)",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.5364713260234,
+        "lng": 127.07563637489
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "6babcda69f83ec16",
+      "name": "생활방범 CCTV · 생활방범-694",
+      "address": "능동로 160",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.5448732,
+        "lng": 127.0731336
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "6bca5b3c976daa46",
+      "name": "어린이보호 CCTV · 어린이-122",
+      "address": "능동로 42 (자양동)",
+      "purpose": "어린이보호",
+      "coordinate": {
+        "lat": 37.5344529809944,
+        "lng": 127.068280436224
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "6c419ab27716df7a",
+      "name": "공원방범 CCTV · 공원-017",
+      "address": "아차산로32길 17 (자양동)",
+      "purpose": "공원방범",
+      "coordinate": {
+        "lat": 37.5390148577096,
+        "lng": 127.068551935378
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "6d6cb494f10470de",
+      "name": "생활방범 CCTV · 생활방범-108",
+      "address": "능동로27길 9 (군자동)",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.5502904026991,
+        "lng": 127.070660280967
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "6e5548998b5029be",
+      "name": "공원방범 CCTV · 공원-102",
+      "address": "동일로28길 16",
+      "purpose": "공원방범",
+      "coordinate": {
+        "lat": 37.5463572488646,
+        "lng": 127.068112015235
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "7050e2058ef43c51",
+      "name": "생활방범 CCTV · 생활방범-432",
+      "address": "능동로15길 11 (화양동)",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.5451436941153,
+        "lng": 127.072118258927
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "72aadbfaa5f040cd",
+      "name": "공원방범 CCTV · 공원-029",
+      "address": "-",
+      "purpose": "공원방범",
+      "coordinate": {
+        "lat": 37.5463505944691,
+        "lng": 127.071837813085
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "72ab2550ab3d0506",
+      "name": "생활방범 CCTV · 생활방범-175",
+      "address": "자양번영로9길 6-7 (자양동)",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.5367410729622,
+        "lng": 127.075993637672
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "734a814632de98a9",
+      "name": "생활방범 CCTV · 생활방범-730",
+      "address": "군자로9길 14",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.549273,
+        "lng": 127.069911
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "74b13b56b668a19b",
+      "name": "생활방범 CCTV · 생활방범-588",
+      "address": "아차산로39길 36",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.5390386571399,
+        "lng": 127.07568773072
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "751819d997e8da82",
+      "name": "생활방범 CCTV · 생활방범-315",
+      "address": "동일로22길 28 (화양동)",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.5422003505862,
+        "lng": 127.065926208159
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "757829441d65720c",
+      "name": "생활방범 CCTV · 생활방범-310",
+      "address": "아차산로21길 47 (화양동)",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.54429231,
+        "lng": 127.0653445
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "77239e9b85bd6538",
+      "name": "생활방범 CCTV · 생활방범-396",
+      "address": "자양로23길 65 (구의동)",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.5431711279877,
+        "lng": 127.08364638735
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "77da9db185d9a99b",
+      "name": "생활방범 CCTV · 생활방범-558",
+      "address": "아차산로192",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.54137606,
+        "lng": 127.064502
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "7a42c6994007be51",
+      "name": "생활방범 CCTV · 생활방범-578",
+      "address": "군자로10길22",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.54895,
+        "lng": 127.07189
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "7c39f7e0a68d1c1c",
+      "name": "생활방범 CCTV · 생활방범-490",
+      "address": "동일로10가길23 (자양동)",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.5386649443727,
+        "lng": 127.063921588483
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "7ee20d2b3e784130",
+      "name": "생활방범 CCTV · 생활방범-198",
+      "address": "동일로18길 44 (자양동)",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.5393001932079,
+        "lng": 127.065275625271
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "7f60f3ef385d191c",
+      "name": "공원방범 CCTV · 공원-030",
+      "address": "군자로3길 15 (화양동)",
+      "purpose": "공원방범",
+      "coordinate": {
+        "lat": 37.5445483293668,
+        "lng": 127.070602013222
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "7f9dad0f4fcbb00d",
+      "name": "생활방범 CCTV · 생활방범-320",
+      "address": "군자로5길 18-12 (화양동)",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.5455484023902,
+        "lng": 127.069547577756
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "7fb4b51e6796f161",
+      "name": "생활방범 CCTV · 생활방범-564",
+      "address": "광나루로 14길 26",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.54691267,
+        "lng": 127.0683673
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "821ba4479b347554",
+      "name": "공원방범 CCTV · 공원-201",
+      "address": "광나루로 389",
+      "purpose": "공원방범",
+      "coordinate": {
+        "lat": 37.5476779370387,
+        "lng": 127.073257604109
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "832896ef46c36d06",
+      "name": "어린이보호 CCTV · 어린이-217",
+      "address": "광나루로15길 23",
+      "purpose": "어린이보호",
+      "coordinate": {
+        "lat": 37.54916839,
+        "lng": 127.0695445
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "854487f0c28e965b",
+      "name": "생활방범 CCTV · 생활방범-135",
+      "address": "아차산로46길 23 (자양동)",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.536029475889,
+        "lng": 127.080845917206
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "861c986bc4d4cc55",
+      "name": "생활방범 CCTV · 생활방범-330",
+      "address": "아차산로31길 14 (화양동)",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.5416126052424,
+        "lng": 127.069529591197
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "879c6bf72356f6d8",
+      "name": "생활방범 CCTV · 생활방범-414",
+      "address": "아차산로41길 16 (자양동)",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.5384713128525,
+        "lng": 127.079019143998
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "897889a638043f58",
+      "name": "생활방범 CCTV · 생활방범-565",
+      "address": "능동로 16길 14",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.5448992017272,
+        "lng": 127.07375728256
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "89c816aebb796fdc",
+      "name": "생활방범 CCTV · 생활방범-582",
+      "address": "광나루로 16길 18",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.5468954647253,
+        "lng": 127.069196853912
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "8a129fe90d93afcb",
+      "name": "생활방범 CCTV · 생활방범-326",
+      "address": "광나루로24길 12 (화양동)",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.5456407855032,
+        "lng": 127.07608321718
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "8a207cf49e829fcd",
+      "name": "생활방범 CCTV · 생활방범-610",
+      "address": "아차산로44가길 16",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.535732,
+        "lng": 127.079754
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "8a21d6709d347111",
+      "name": "공원방범 CCTV · 공원-019",
+      "address": "자양4동 553-22",
+      "purpose": "공원방범",
+      "coordinate": {
+        "lat": 37.5349774592187,
+        "lng": 127.067861735856
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "8aac6e661e6e479e",
+      "name": "생활방범 CCTV · 생활방범-420",
+      "address": "뚝섬로34길 13 (자양동)",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.5340512236724,
+        "lng": 127.06975868434
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "8abaf9176d926573",
+      "name": "어린이보호 CCTV · 어린이-193",
+      "address": "군자로 18 (화양동)",
+      "purpose": "어린이보호",
+      "coordinate": {
+        "lat": 37.544961483502,
+        "lng": 127.071197205338
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "8b0a036b33c93b84",
+      "name": "다목적 CCTV · 다목적-019",
+      "address": "광나루로 18길 21 (화양동)",
+      "purpose": "다목적",
+      "coordinate": {
+        "lat": 37.5466830241873,
+        "lng": 127.072040228934
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "8b29fa41b226f264",
+      "name": "생활방범 CCTV · 생활방범-560",
+      "address": "동일로26길 47",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.544717,
+        "lng": 127.068615
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "8b43e13aee56a0dc",
+      "name": "어린이보호 CCTV · 어린이-029",
+      "address": "자양로23길 21 (구의동)",
+      "purpose": "어린이보호",
+      "coordinate": {
+        "lat": 37.5415650476903,
+        "lng": 127.08242536086
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "8bfa780304106bb4",
+      "name": "생활방범 CCTV · 생활방범-645",
+      "address": "능동로103",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.54017155,
+        "lng": 127.07055484
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "8c020aa06bda31c3",
+      "name": "생활방범 CCTV · 생활방범-618",
+      "address": "아차산로39가길 8",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.5392374,
+        "lng": 127.0767517
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "8c40b72f5618fef3",
+      "name": "생활방범 CCTV · 생활방범-711",
+      "address": "뚝섬로26길 5",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.53615653,
+        "lng": 127.0645488
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "8cd3a6dec527aea0",
+      "name": "생활방범 CCTV · 생활방범-327",
+      "address": "광나루로22길 7",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.5462640656664,
+        "lng": 127.075228312162
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "8cdf9b5ace8a688a",
+      "name": "생활방범 CCTV · 생활방범-197",
+      "address": "아차산로30길 39 (자양동)",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.5388934374799,
+        "lng": 127.066879528164
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "8cfb8f3e3ec77590",
+      "name": "생활방범 CCTV · 생활방범-448",
+      "address": "아차산로45길 31 (자양동)",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.5381622891846,
+        "lng": 127.079962633001
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "8e3337c37e38bd7d",
+      "name": "공원방범 CCTV · 공원-184",
+      "address": "광나루로 447",
+      "purpose": "공원방범",
+      "coordinate": {
+        "lat": 37.5456422347765,
+        "lng": 127.07965258387
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "8f749ffe4f51cbe8",
+      "name": "어린이보호 CCTV · 어린이-128",
+      "address": "뚝섬로 561 (자양동)",
+      "purpose": "어린이보호",
+      "coordinate": {
+        "lat": 37.5344577307823,
+        "lng": 127.071726556206
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "90618e4bce3d9390",
+      "name": "생활방범 CCTV · 생활방범-176",
+      "address": "자양번영로7길 12-7 (자양동)",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.5362012087564,
+        "lng": 127.075856132263
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "910a36a25f529932",
+      "name": "생활방범 CCTV · 생활방범-721",
+      "address": "아차산로41가길 10",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.5384959231147,
+        "lng": 127.078024367531
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "918799d12382d5a7",
+      "name": "어린이보호 CCTV · 어린이-192",
+      "address": "아차산로21길 47 (화양동)",
+      "purpose": "어린이보호",
+      "coordinate": {
+        "lat": 37.5439318732198,
+        "lng": 127.065897145528
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "91cceec146805e66",
+      "name": "어린이보호 CCTV · 어린이-080",
+      "address": "군자로 70 화양슈퍼 코너",
+      "purpose": "어린이보호",
+      "coordinate": {
+        "lat": 37.54979879,
+        "lng": 127.0709338
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "91d199e16b81bc09",
+      "name": "생활방범 CCTV · 생활방범-383",
+      "address": "아차산로27길 45-6 (화양동)",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.5435928177752,
+        "lng": 127.068241367587
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "920a4c1c9325aceb",
+      "name": "생활방범 CCTV · 생활방범-313",
+      "address": "아차산로25길 27 (화양동)",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.54291539,
+        "lng": 127.0671616
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "9232464e100f36e5",
+      "name": "생활방범 CCTV · 생활방범-637",
+      "address": "자양동 783-2",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.53583538,
+        "lng": 127.0743948
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "923e43db42415bc1",
+      "name": "어린이보호 CCTV · 어린이-120",
+      "address": "뚝섬로40길 12 (자양동)",
+      "purpose": "어린이보호",
+      "coordinate": {
+        "lat": 37.533536160995,
+        "lng": 127.072988106429
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "94321527a88d7934",
+      "name": "생활방범 CCTV · 생활방범-324",
+      "address": "아차산로25길 48 (화양동)",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.5433820744259,
+        "lng": 127.067503260675
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "94cdb1b9ea3246bc",
+      "name": "공원방범 CCTV · 공원-103",
+      "address": "아차산로 31길 14",
+      "purpose": "공원방범",
+      "coordinate": {
+        "lat": 37.5414919140248,
+        "lng": 127.069540705944
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "94d7dd8b8c1e343b",
+      "name": "다목적 CCTV · 다목적-039",
+      "address": "아차산로 200 (자양동)",
+      "purpose": "다목적",
+      "coordinate": {
+        "lat": 37.5408406638459,
+        "lng": 127.066096696726
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "95b6b332ddd15b98",
+      "name": "생활방범 CCTV · 생활방범-109",
+      "address": "광나루로17길 14 (군자동)",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.5482793588264,
+        "lng": 127.072682671922
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "95d7559070843cb1",
+      "name": "생활방범 CCTV · 생활방범-381",
+      "address": "능동로 49 (자양동)",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.5345843829211,
+        "lng": 127.068425509427
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "979f1b4a82294cf4",
+      "name": "공원방범 CCTV · 공원-013",
+      "address": "아차산로40길 46 (자양동)",
+      "purpose": "공원방범",
+      "coordinate": {
+        "lat": 37.5357286283287,
+        "lng": 127.077642191898
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "9ad5ec5784a0bca3",
+      "name": "생활방범 CCTV · 생활방범-183",
+      "address": "뚝섬로36길 15 (자양동)",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.5336379124452,
+        "lng": 127.071381208304
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "9baca27e02c30c73",
+      "name": "어린이보호 CCTV · 어린이-195",
+      "address": "광나루로30길 49 (화양동)",
+      "purpose": "어린이보호",
+      "coordinate": {
+        "lat": 37.54319453,
+        "lng": 127.0813509
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "9cb60a4e3726fd2c",
+      "name": "생활방범 CCTV · 생활방범-208",
+      "address": "뚝섬로32길 17 (자양동)",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.5346579206345,
+        "lng": 127.067152633923
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "9cbdb622fc398ca5",
+      "name": "생활방범 CCTV · 생활방범-696",
+      "address": "광나루로 424",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.5461282197714,
+        "lng": 127.076286930659
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "9ce7b9a7dcff125b",
+      "name": "공원방범 CCTV · 공원-118",
+      "address": "-",
+      "purpose": "공원방범",
+      "coordinate": {
+        "lat": 37.54508295,
+        "lng": 127.0762768
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "9da1e6c492644760",
+      "name": "어린이보호 CCTV · 어린이-144",
+      "address": "아차산로 326 (자양동)",
+      "purpose": "어린이보호",
+      "coordinate": {
+        "lat": 37.53756912,
+        "lng": 127.0792
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "9f024e997121f7ed",
+      "name": "생활방범 CCTV · 생활방범-433",
+      "address": "능동로13길 39 (화양동)",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.54419601,
+        "lng": 127.069759
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "9f43d43d7f4f0be8",
+      "name": "생활방범 CCTV · 생활방범-675",
+      "address": "군자로2길 4",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.5444844214641,
+        "lng": 127.071518639256
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "a005f942871579c6",
+      "name": "생활방범 CCTV · 생활방범-217",
+      "address": "뚝섬로23가길 11 (자양동)",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.5379047037762,
+        "lng": 127.065465908973
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "a096843654fbfc50",
+      "name": "생활방범 CCTV · 생활방범-173",
+      "address": "아차산로 288 (자양동)",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.5384589123679,
+        "lng": 127.075004581515
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "a1ba1fe15fda8176",
+      "name": "공원방범 CCTV · 공원-100",
+      "address": "아차산로40길 46",
+      "purpose": "공원방범",
+      "coordinate": {
+        "lat": 37.5357200795239,
+        "lng": 127.077888673622
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "a1faee0b0e2640ae",
+      "name": "공원방범 CCTV · 공원-106",
+      "address": "광나루로 389",
+      "purpose": "공원방범",
+      "coordinate": {
+        "lat": 37.5476108146229,
+        "lng": 127.07370031498
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "a3d5f1d093c1a545",
+      "name": "생활방범 CCTV · 생활방범-646",
+      "address": "아차산로27길 20",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.542617,
+        "lng": 127.06802815
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "a4293292ae89b523",
+      "name": "어린이보호 CCTV · 어린이-211",
+      "address": "자양로23길 79",
+      "purpose": "어린이보호",
+      "coordinate": {
+        "lat": 37.5437674647984,
+        "lng": 127.083830688352
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "a56d4658e94d5188",
+      "name": "생활방범 CCTV · 생활방범-407",
+      "address": "광나루로13길 30 (군자동)",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.549464776722,
+        "lng": 127.068801025151
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "aa6fff8bc201356f",
+      "name": "생활방범 CCTV · 생활방범-410",
+      "address": "아차산로44길 26 (자양동)",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.5364988853113,
+        "lng": 127.079721703147
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "aded7d2b2e66d8b4",
+      "name": "다목적 CCTV · 다목적-009",
+      "address": "광나루로30나길 17 (구의동)",
+      "purpose": "다목적",
+      "coordinate": {
+        "lat": 37.5435412090377,
+        "lng": 127.082653191088
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "adfbb1b7f0c9f242",
+      "name": "어린이보호 CCTV · 어린이-197",
+      "address": "능동로13길 15 (화양동)",
+      "purpose": "어린이보호",
+      "coordinate": {
+        "lat": 37.5428330790474,
+        "lng": 127.070999935723
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "aee2d2f4ad9c3fa7",
+      "name": "생활방범 CCTV · 생활방범-409",
+      "address": "아차산로40길 28 (자양동)",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.5363745868696,
+        "lng": 127.078172347682
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "af0f380b36c387b7",
+      "name": "생활방범 CCTV · 생활방범-314",
+      "address": "동일로24길 56 (화양동)",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.5431233283398,
+        "lng": 127.068275827075
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "af964e6d5dba82fe",
+      "name": "생활방범 CCTV · 생활방범-584",
+      "address": "능동로 17길 6",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.54619,
+        "lng": 127.07297
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "afbdf75b7f96784b",
+      "name": "생활방범 CCTV · 생활방범-640",
+      "address": "광나루로30길 80",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.54314984,
+        "lng": 127.080371
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "b01508d2b69855cd",
+      "name": "생활방범 CCTV · 생활방범-425",
+      "address": "능동로5길 7 (자양동)",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.5370146621108,
+        "lng": 127.068071624373
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "b4839df76a3b6016",
+      "name": "생활방범 CCTV · 생활방범-322",
+      "address": "능동로13길 88 (화양동)",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.5454229007514,
+        "lng": 127.068680035395
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "b53e64a0904005fa",
+      "name": "생활방범 CCTV · 생활방범-536",
+      "address": "자양로25길 14-1",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.54175688,
+        "lng": 127.0830124
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "b55b53cc534971fc",
+      "name": "공원방범 CCTV · 공원-129",
+      "address": "-",
+      "purpose": "공원방범",
+      "coordinate": {
+        "lat": 37.53845715,
+        "lng": 127.0814493
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "b5b3ff88cbf694a3",
+      "name": "생활방범 CCTV · 생활방범-188",
+      "address": "동일로10길 42 (자양동)",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.5375988448429,
+        "lng": 127.064062361531
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "b5b9de71da8230bd",
+      "name": "생활방범 CCTV · 생활방범-561",
+      "address": "동일로28길54",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.5460319541049,
+        "lng": 127.06949995586
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "b9fb977229ef5e23",
+      "name": "생활방범 CCTV · 생활방범-356",
+      "address": "광나루로17길 14-14 (군자동)",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.5488073173895,
+        "lng": 127.072699531898
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "bb136ac81ac9fb12",
+      "name": "생활방범 CCTV · 생활방범-328",
+      "address": "광나루로20가길 21 (화양동)",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.5450841186425,
+        "lng": 127.075383186783
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "bb8aa3635560f6ca",
+      "name": "어린이보호 CCTV · 어린이-198",
+      "address": "군자로 27 (화양동)",
+      "purpose": "어린이보호",
+      "coordinate": {
+        "lat": 37.5455992768907,
+        "lng": 127.070651731837
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "bcf41790b17414ef",
+      "name": "공원방범 CCTV · 공원-220",
+      "address": "뚝섬로 481",
+      "purpose": "공원방범",
+      "coordinate": {
+        "lat": 37.536962,
+        "lng": 127.064372
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "bf494d1b2d938124",
+      "name": "생활방범 CCTV · 생활방범-319",
+      "address": "군자로3길 25-16 (화양동)",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.5436922256047,
+        "lng": 127.070687357907
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "c290ddd9317e6b20",
+      "name": "생활방범 CCTV · 생활방범-379",
+      "address": "동일로4길 74 (자양동)",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.5356424844132,
+        "lng": 127.064988730485
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "c39995654d402424",
+      "name": "생활방범 CCTV · 생활방범-151",
+      "address": "자양로19길 48-4 (자양동)",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.5384124147186,
+        "lng": 127.080978081907
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "c471bcd56a5b8d6c",
+      "name": "생활방범 CCTV · 생활방범-150",
+      "address": "자양로21길 14 (자양동)",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.5398184629998,
+        "lng": 127.082247601458
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "c8006f22957e88d6",
+      "name": "생활방범 CCTV · 생활방범-644",
+      "address": "아차산로27길 60",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.5440693,
+        "lng": 127.06899413
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "ca28a6d28fd0f8e9",
+      "name": "생활방범 CCTV · 생활방범-631",
+      "address": "뚝섬로 561",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.53405481,
+        "lng": 127.0725319
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "ca6c118f3b372475",
+      "name": "생활방범 CCTV · 생활방범-349",
+      "address": "자양번영로13길 32 (자양동)",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.5378509179003,
+        "lng": 127.075163385672
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "caa9e5e012e3d60f",
+      "name": "어린이보호 CCTV · 어린이-138",
+      "address": "뚝섬로23길 44 (자양동)",
+      "purpose": "어린이보호",
+      "coordinate": {
+        "lat": 37.5370788271808,
+        "lng": 127.065893198055
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "cbfa8a133f6b2ac7",
+      "name": "생활방범 CCTV · 생활방범-209",
+      "address": "능동로5길 7",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.536515,
+        "lng": 127.067459
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "ccaf22de04050180",
+      "name": "생활방범 CCTV · 생활방범-325",
+      "address": "동일로22길 71 (화양동)",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.541386534408,
+        "lng": 127.06829574017
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "cd1665a1270b4864",
+      "name": "생활방범 CCTV · 생활방범-323",
+      "address": "동일로28길 38 (화양동)",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.5462561066357,
+        "lng": 127.068854989413
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "ce9480190b4eba8b",
+      "name": "생활방범 CCTV · 생활방범-648",
+      "address": "아차산로23길 23-5",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.54327579,
+        "lng": 127.06614472
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "cef6a056954db9aa",
+      "name": "생활방범 CCTV · 생활방범-557",
+      "address": "아차산로24길 17",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.54025349,
+        "lng": 127.0648593
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "cefcd5e32c16794b",
+      "name": "생활방범 CCTV · 생활방범-329",
+      "address": "광나루로26길 24 (화양동)",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.5453714768742,
+        "lng": 127.077258452795
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "cfc1fb2db5c417e4",
+      "name": "어린이보호 CCTV · 어린이-140",
+      "address": "능동로5길 17 (자양동)",
+      "purpose": "어린이보호",
+      "coordinate": {
+        "lat": 37.5367028884347,
+        "lng": 127.066810635978
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "d0297f04819621a0",
+      "name": "공원방범 CCTV · 공원-114",
+      "address": "동일로28길 16",
+      "purpose": "공원방범",
+      "coordinate": {
+        "lat": 37.546453222311,
+        "lng": 127.067782321934
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "d18e6f13560253a9",
+      "name": "생활방범 CCTV · 생활방범-422",
+      "address": "뚝섬로37길 28 (자양동)",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.5354043433008,
+        "lng": 127.075558961065
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "d2079be0f43b581a",
+      "name": "생활방범 CCTV · 생활방범-134",
+      "address": "자양로21길 35 (자양동)",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.5394613617129,
+        "lng": 127.081291832487
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "d3061320ae71b2ce",
+      "name": "생활방범 CCTV · 생활방범-587",
+      "address": "광나루로 14길 31",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.54642,
+        "lng": 127.06813
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "d36f6315269298e8",
+      "name": "생활방범 CCTV · 생활방범-686",
+      "address": "아차산로 241",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.54029476,
+        "lng": 127.0702113
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "d4548bedf9d3b670",
+      "name": "다목적 CCTV · 다목적-034",
+      "address": "능동로6길 16 학교 정문 앞",
+      "purpose": "다목적",
+      "coordinate": {
+        "lat": 37.5342671001906,
+        "lng": 127.068951288228
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "d49b0cd79340ec0e",
+      "name": "생활방범 CCTV · 생활방범-406",
+      "address": "동일로34길 19 (군자동)",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.5498659650083,
+        "lng": 127.069656176279
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "d4e92b0fb0d274bb",
+      "name": "공원방범 CCTV · 공원-018",
+      "address": "자양1동 859-1",
+      "purpose": "공원방범",
+      "coordinate": {
+        "lat": 37.5385745922411,
+        "lng": 127.081733655704
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "d6d8d4ffd79d9d92",
+      "name": "다목적 CCTV · 다목적-032",
+      "address": "뚝섬로 561",
+      "purpose": "다목적",
+      "coordinate": {
+        "lat": 37.53618554,
+        "lng": 127.0735616
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "d76234ed0d19e81d",
+      "name": "어린이보호 CCTV · 어린이-089",
+      "address": "아차산로 344 (자양동)",
+      "purpose": "어린이보호",
+      "coordinate": {
+        "lat": 37.537094791241,
+        "lng": 127.0807511097
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "d79272bd0c6a7428",
+      "name": "생활방범 CCTV · 생활방범-647",
+      "address": "광나루로22가길 12",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.54597091,
+        "lng": 127.07553647
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "d7ee5623e0084505",
+      "name": "생활방범 CCTV · 생활방범-453",
+      "address": "뚝섬로27길 19 (자양동)",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.5368768026845,
+        "lng": 127.065873935866
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "dae22fe58abdd2ad",
+      "name": "생활방범 CCTV · 생활방범-311",
+      "address": "동일로28길 16 (화양동)",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.5461790454761,
+        "lng": 127.067904359878
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "dafb39b6b8b11dc7",
+      "name": "생활방범 CCTV · 생활방범-355",
+      "address": "아차산로21길 97(화양동)",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.5460619489158,
+        "lng": 127.067100103615
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "e075db23da3dc900",
+      "name": "생활방범 CCTV · 생활방범-350",
+      "address": "동일로20길 106 (자양동)",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.5392272375055,
+        "lng": 127.069367615227
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "e31b48af889ee6da",
+      "name": "생활방범 CCTV · 생활방범-196",
+      "address": "아차산로32길 21 (자양동)",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.5389453892668,
+        "lng": 127.068101691454
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "ef606424cae6a56d",
+      "name": "어린이보호 CCTV · 어린이-027",
+      "address": "광나루로30다길 3 (구의동)",
+      "purpose": "어린이보호",
+      "coordinate": {
+        "lat": 37.5433591127113,
+        "lng": 127.081486444431
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "f39f8c958379029a",
+      "name": "생활방범 CCTV · 생활방범-649",
+      "address": "군자로6길 20",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.54593948,
+        "lng": 127.07174844
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "f431a2a93032972c",
+      "name": "어린이보호 CCTV · 어린이-126",
+      "address": "뚝섬로35길 16-20 (자양동)",
+      "purpose": "어린이보호",
+      "coordinate": {
+        "lat": 37.5352886146762,
+        "lng": 127.071337373133
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "f515045443213401",
+      "name": "생활방범 CCTV · 생활방범-424",
+      "address": "뚝섬로25길 23 (자양동)",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.537062176667,
+        "lng": 127.064597390254
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "f5f80639a21960de",
+      "name": "생활방범 CCTV · 생활방범-585",
+      "address": "군자로 5길 29",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.5448887201148,
+        "lng": 127.069511490727
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "fa0bb8cb1570b4af",
+      "name": "생활방범 CCTV · 생활방범-691",
+      "address": "뚝섬로23가길 35",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.53866957,
+        "lng": 127.0659059
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "fb08ff0aede3524e",
+      "name": "생활방범 CCTV · 생활방범-215",
+      "address": "동일로10나길 18 (자양동)",
+      "purpose": "생활방범",
+      "coordinate": {
+        "lat": 37.5382159517951,
+        "lng": 127.064334334261
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "feceaa29edbbd650",
+      "name": "공원방범 CCTV · 공원-028",
+      "address": "아차산로25길 27 (화양동)",
+      "purpose": "공원방범",
+      "coordinate": {
+        "lat": 37.5428310535135,
+        "lng": 127.066790400402
+      },
+      "referenceDate": "2025-09-25"
+    },
+    {
+      "id": "feddba7dbce6ceca",
+      "name": "공원방범 CCTV · 공원-158",
+      "address": "아차산로25길 27",
+      "purpose": "공원방범",
+      "coordinate": {
+        "lat": 37.5426762412757,
+        "lng": 127.067067569234
+      },
+      "referenceDate": "2025-09-25"
+    }
+  ]
+}
