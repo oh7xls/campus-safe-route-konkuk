@@ -1,0 +1,2302 @@
+[
+  {
+    "id": "pedestrian-light-1",
+    "type": "보행등",
+    "name": "광진구 노유동 8-60도",
+    "lat": 37.5398537,
+    "lng": 127.070368,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-2",
+    "type": "보행등",
+    "name": "광진구 화양동 3-66대",
+    "lat": 37.540062,
+    "lng": 127.0705549,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-3",
+    "type": "보행등",
+    "name": "광진구 노유동 1-6도",
+    "lat": 37.5397883,
+    "lng": 127.0703962,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-4",
+    "type": "보행등",
+    "name": "광진구 화양동 8-60도",
+    "lat": 37.5401068,
+    "lng": 127.0705973,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-5",
+    "type": "보행등",
+    "name": "광진구 화양동 48-10도",
+    "lat": 37.5409205,
+    "lng": 127.0679384,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-6",
+    "type": "보행등",
+    "name": "광진구 화양동 3-32대",
+    "lat": 37.5400888,
+    "lng": 127.0709379,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-7",
+    "type": "보행등",
+    "name": "광진구 화양동 3-34대",
+    "lat": 37.5399994,
+    "lng": 127.0709459,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-8",
+    "type": "보행등",
+    "name": "광진구 노유동 8-6도",
+    "lat": 37.5407484,
+    "lng": 127.0677474,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-9",
+    "type": "보행등",
+    "name": "광진구 자양동 227-337 도",
+    "lat": 37.5395902,
+    "lng": 127.0707127,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-10",
+    "type": "보행등",
+    "name": "광진구 자양동 227-13도",
+    "lat": 37.539629,
+    "lng": 127.0708743,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-11",
+    "type": "보행등",
+    "name": "광진구 화양동 2-20대",
+    "lat": 37.5418862,
+    "lng": 127.07144,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-12",
+    "type": "보행등",
+    "name": "광진구 화양동 4-14도",
+    "lat": 37.5417187,
+    "lng": 127.0717076,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-13",
+    "type": "보행등",
+    "name": "광진구 화양동 2-22대",
+    "lat": 37.5417884,
+    "lng": 127.0717395,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-14",
+    "type": "보행등",
+    "name": "광진구 화양동 36-20대",
+    "lat": 37.5413857,
+    "lng": 127.0665662,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-15",
+    "type": "보행등",
+    "name": "광진구 노유동 8-6도",
+    "lat": 37.5411844,
+    "lng": 127.0664623,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-16",
+    "type": "보행등",
+    "name": "광진구 화양동 2-11대",
+    "lat": 37.5419288,
+    "lng": 127.0718891,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-17",
+    "type": "보행등",
+    "name": "광진구 화양동 94-6대",
+    "lat": 37.5431249,
+    "lng": 127.0720225,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-18",
+    "type": "보행등",
+    "name": "광진구 화양동 4-18도",
+    "lat": 37.5429861,
+    "lng": 127.0722406,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-19",
+    "type": "보행등",
+    "name": "광진구 자양동 393-1",
+    "lat": 37.5386012,
+    "lng": 127.0741709,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-20",
+    "type": "보행등",
+    "name": "광진구 화양동 50-7도",
+    "lat": 37.542158,
+    "lng": 127.0643471,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-21",
+    "type": "보행등",
+    "name": "광진구 자양동 227-7대",
+    "lat": 37.5379248,
+    "lng": 127.0740107,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-22",
+    "type": "보행등",
+    "name": "광진구 자양동 227-7대",
+    "lat": 37.5377836,
+    "lng": 127.0738882,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-23",
+    "type": "보행등",
+    "name": "광진구 노유동 41-19도",
+    "lat": 37.541954,
+    "lng": 127.0641271,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-24",
+    "type": "보행등",
+    "name": "광진구 자양동 393-1",
+    "lat": 37.538498,
+    "lng": 127.0744592,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-25",
+    "type": "보행등",
+    "name": "광진구 화양동 50-7도",
+    "lat": 37.5422456,
+    "lng": 127.0642409,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-26",
+    "type": "보행등",
+    "name": "광진구 자양동 393-1",
+    "lat": 37.5385389,
+    "lng": 127.0745206,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-27",
+    "type": "보행등",
+    "name": "광진구 자양동 393-1",
+    "lat": 37.5388096,
+    "lng": 127.0747113,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-28",
+    "type": "보행등",
+    "name": "광진구 자양동 227-7대",
+    "lat": 37.537676,
+    "lng": 127.07395,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-29",
+    "type": "보행등",
+    "name": "광진구 노유동 41-19도",
+    "lat": 37.5419765,
+    "lng": 127.0639775,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-30",
+    "type": "보행등",
+    "name": "광진구 자양동 783-2도",
+    "lat": 37.5376251,
+    "lng": 127.0741763,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-31",
+    "type": "보행등",
+    "name": "광진구 자양동 227-341 도",
+    "lat": 37.5371396,
+    "lng": 127.0737925,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-32",
+    "type": "보행등",
+    "name": "광진구 자양동 2-43도",
+    "lat": 37.5354626,
+    "lng": 127.068385,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-33",
+    "type": "보행등",
+    "name": "광진구 자양동 783-1대",
+    "lat": 37.5370444,
+    "lng": 127.0740043,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-34",
+    "type": "보행등",
+    "name": "광진구 노유동 24-10 도",
+    "lat": 37.5402639,
+    "lng": 127.0630762,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-35",
+    "type": "보행등",
+    "name": "광진구 화양동 24-33 도",
+    "lat": 37.5442203,
+    "lng": 127.0653412,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-36",
+    "type": "보행등",
+    "name": "광진구 자양동 6-21도",
+    "lat": 37.5356154,
+    "lng": 127.0673819,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-37",
+    "type": "보행등",
+    "name": "광진구 자양동 2-38대",
+    "lat": 37.5354168,
+    "lng": 127.0682175,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-38",
+    "type": "보행등",
+    "name": "광진구 자양동 2-53대",
+    "lat": 37.5353584,
+    "lng": 127.068721,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-39",
+    "type": "보행등",
+    "name": "광진구 자양동 510-6 도",
+    "lat": 37.5352751,
+    "lng": 127.0687806,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-40",
+    "type": "보행등",
+    "name": "광진구 자양동 508-9도",
+    "lat": 37.5354799,
+    "lng": 127.0673276,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-41",
+    "type": "보행등",
+    "name": "광진구 자양동 2-7도",
+    "lat": 37.5352732,
+    "lng": 127.068158,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-42",
+    "type": "보행등",
+    "name": "광진구 자양동 11-3대",
+    "lat": 37.5360385,
+    "lng": 127.0656595,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-43",
+    "type": "보행등",
+    "name": "광진구 자양동 550-2도",
+    "lat": 37.5351199,
+    "lng": 127.0687174,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-44",
+    "type": "보행등",
+    "name": "광진구 자양동 3-9대",
+    "lat": 37.5351222,
+    "lng": 127.0682427,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-45",
+    "type": "보행등",
+    "name": "광진구 노유동 11-15대",
+    "lat": 37.5359496,
+    "lng": 127.0655425,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-46",
+    "type": "보행등",
+    "name": "광진구 화양동 374-4대",
+    "lat": 37.5449421,
+    "lng": 127.0728812,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-47",
+    "type": "보행등",
+    "name": "광진구 자양동 3-1대",
+    "lat": 37.5350191,
+    "lng": 127.0685672,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-48",
+    "type": "보행등",
+    "name": "광진구 화양동 374-2대",
+    "lat": 37.5449182,
+    "lng": 127.07315,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-49",
+    "type": "보행등",
+    "name": "광진구 노유동 251-123도",
+    "lat": 37.5393105,
+    "lng": 127.0625557,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-50",
+    "type": "보행등",
+    "name": "광진구 자양동 227-344대",
+    "lat": 37.5348664,
+    "lng": 127.0700798,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-51",
+    "type": "보행등",
+    "name": "광진구 자양동 227-344대",
+    "lat": 37.5348465,
+    "lng": 127.0701552,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-52",
+    "type": "보행등",
+    "name": "광진구 자양동 227-344대",
+    "lat": 37.5348465,
+    "lng": 127.0701552,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-53",
+    "type": "보행등",
+    "name": "광진구 자양동 227-344대",
+    "lat": 37.5348147,
+    "lng": 127.0702755,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-54",
+    "type": "보행등",
+    "name": "광진구 자양동 553-532도",
+    "lat": 37.5347849,
+    "lng": 127.0703667,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-55",
+    "type": "보행등",
+    "name": "광진구 화양동 21-53 도",
+    "lat": 37.5453343,
+    "lng": 127.0659599,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-56",
+    "type": "보행등",
+    "name": "광진구 자양동 227-344대",
+    "lat": 37.5347291,
+    "lng": 127.0700271,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-57",
+    "type": "보행등",
+    "name": "광진구 자양동 227-344대",
+    "lat": 37.5347108,
+    "lng": 127.0700934,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-58",
+    "type": "보행등",
+    "name": "광진구 노유동 43-13도",
+    "lat": 37.536503,
+    "lng": 127.0640305,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-59",
+    "type": "보행등",
+    "name": "광진구 자양동 227-7대",
+    "lat": 37.5346628,
+    "lng": 127.0702425,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-60",
+    "type": "보행등",
+    "name": "광진구 노유동 43-25대",
+    "lat": 37.5365801,
+    "lng": 127.0638858,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-61",
+    "type": "보행등",
+    "name": "광진구 자양동 553-500도",
+    "lat": 37.5346501,
+    "lng": 127.0703126,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-62",
+    "type": "보행등",
+    "name": "광진구 노유동 43-13도",
+    "lat": 37.5365518,
+    "lng": 127.0637811,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-63",
+    "type": "보행등",
+    "name": "광진구 노유동 43-13도",
+    "lat": 37.5364374,
+    "lng": 127.0636239,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-64",
+    "type": "보행등",
+    "name": "광진구 화양동 164-2도",
+    "lat": 37.5457185,
+    "lng": 127.0732405,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-65",
+    "type": "보행등",
+    "name": "광진구 자양동 227-7대",
+    "lat": 37.5344404,
+    "lng": 127.0716022,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-66",
+    "type": "보행등",
+    "name": "광진구 자양동 553-500도",
+    "lat": 37.5344279,
+    "lng": 127.0716559,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-67",
+    "type": "보행등",
+    "name": "광진구 자양동 553-500도",
+    "lat": 37.5344279,
+    "lng": 127.0716559,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-68",
+    "type": "보행등",
+    "name": "광진구 자양동 227-7대",
+    "lat": 37.5344274,
+    "lng": 127.0717842,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-69",
+    "type": "보행등",
+    "name": "광진구 자양동 227-7대",
+    "lat": 37.5343262,
+    "lng": 127.0714684,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-70",
+    "type": "보행등",
+    "name": "광진구 화양동 39-5도",
+    "lat": 37.5457039,
+    "lng": 127.073519,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-71",
+    "type": "보행등",
+    "name": "광진구 자양동 227-7대",
+    "lat": 37.5343684,
+    "lng": 127.0718807,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-72",
+    "type": "보행등",
+    "name": "광진구 자양동 227-7대",
+    "lat": 37.5342778,
+    "lng": 127.0715859,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-73",
+    "type": "보행등",
+    "name": "광진구 자양동 553-649도",
+    "lat": 37.5340636,
+    "lng": 127.0681419,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-74",
+    "type": "보행등",
+    "name": "광진구 자양동 550-2도",
+    "lat": 37.5341026,
+    "lng": 127.0677865,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-75",
+    "type": "보행등",
+    "name": "광진구 자양동 553-500도",
+    "lat": 37.5342258,
+    "lng": 127.0717073,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-76",
+    "type": "보행등",
+    "name": "광진구 자양동 227-7대",
+    "lat": 37.5342373,
+    "lng": 127.0717788,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-77",
+    "type": "보행등",
+    "name": "광진구 자양동 227-9도",
+    "lat": 37.5378705,
+    "lng": 127.0770088,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-78",
+    "type": "보행등",
+    "name": "광진구 자양동 518-1학",
+    "lat": 37.5341815,
+    "lng": 127.0725814,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-79",
+    "type": "보행등",
+    "name": "광진구 자양동 224-17도",
+    "lat": 37.5379118,
+    "lng": 127.0772139,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-80",
+    "type": "보행등",
+    "name": "광진구 자양동 794-10 도",
+    "lat": 37.5370405,
+    "lng": 127.0767564,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-81",
+    "type": "보행등",
+    "name": "광진구 자양동 224-17도",
+    "lat": 37.5381251,
+    "lng": 127.0773921,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-82",
+    "type": "보행등",
+    "name": "광진구 자양동 559-22도",
+    "lat": 37.5340619,
+    "lng": 127.0724785,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-83",
+    "type": "보행등",
+    "name": "광진구 화양동 23-40대",
+    "lat": 37.5468757,
+    "lng": 127.0668629,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-84",
+    "type": "보행등",
+    "name": "광진구 자양동 794-10 도",
+    "lat": 37.5369976,
+    "lng": 127.0769424,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-85",
+    "type": "보행등",
+    "name": "광진구 노유동 236-147주",
+    "lat": 37.5373031,
+    "lng": 127.0614892,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-86",
+    "type": "보행등",
+    "name": "광진구 노유동 236-147주",
+    "lat": 37.5372072,
+    "lng": 127.0615284,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-87",
+    "type": "보행등",
+    "name": "광진구 노유동 203-22 도",
+    "lat": 37.5369864,
+    "lng": 127.061433,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-88",
+    "type": "보행등",
+    "name": "광진구 노유동 854-3 도",
+    "lat": 37.5333417,
+    "lng": 127.0678019,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-89",
+    "type": "보행등",
+    "name": "광진구 노유동 65-2도",
+    "lat": 37.533375,
+    "lng": 127.0674491,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-90",
+    "type": "보행등",
+    "name": "광진구 노유동 203-22 도",
+    "lat": 37.5369585,
+    "lng": 127.0613631,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-91",
+    "type": "보행등",
+    "name": "광진구 자양동 783-1대",
+    "lat": 37.5339086,
+    "lng": 127.0734644,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-92",
+    "type": "보행등",
+    "name": "광진구 자양동 783-1대",
+    "lat": 37.5338012,
+    "lng": 127.0733126,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-93",
+    "type": "보행등",
+    "name": "광진구 노유동 250-50대",
+    "lat": 37.5369669,
+    "lng": 127.0611087,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-94",
+    "type": "보행등",
+    "name": "광진구 화양동 164-1도",
+    "lat": 37.5469199,
+    "lng": 127.0738128,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-95",
+    "type": "보행등",
+    "name": "광진구 화양동 39-5도",
+    "lat": 37.5468339,
+    "lng": 127.0740953,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-96",
+    "type": "보행등",
+    "name": "광진구 화양동 363-26대",
+    "lat": 37.547861,
+    "lng": 127.0706581,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-97",
+    "type": "보행등",
+    "name": "광진구 화양동 346-42도",
+    "lat": 37.5479017,
+    "lng": 127.0703144,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-98",
+    "type": "보행등",
+    "name": "광진구 군자동 98학",
+    "lat": 37.5475191,
+    "lng": 127.0726714,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-99",
+    "type": "보행등",
+    "name": "광진구 자양동 712 도",
+    "lat": 37.5348881,
+    "lng": 127.0761211,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-100",
+    "type": "보행등",
+    "name": "광진구 군자동 98학",
+    "lat": 37.5472673,
+    "lng": 127.0736536,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-101",
+    "type": "보행등",
+    "name": "광진구 모진동 342-33도",
+    "lat": 37.5470973,
+    "lng": 127.074276,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-102",
+    "type": "보행등",
+    "name": "광진구 화양동 21-11도",
+    "lat": 37.5480228,
+    "lng": 127.0675117,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-103",
+    "type": "보행등",
+    "name": "광진구 자양동 712 도",
+    "lat": 37.5348642,
+    "lng": 127.0763119,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-104",
+    "type": "보행등",
+    "name": "광진구 군자동 363대",
+    "lat": 37.5481078,
+    "lng": 127.0706454,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-105",
+    "type": "보행등",
+    "name": "광진구 군자동 363대",
+    "lat": 37.5481197,
+    "lng": 127.0705629,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-106",
+    "type": "보행등",
+    "name": "광진구 군자동 98학",
+    "lat": 37.5477302,
+    "lng": 127.072647,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-107",
+    "type": "보행등",
+    "name": "광진구 군자동 360-45 도",
+    "lat": 37.5481476,
+    "lng": 127.070357,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-108",
+    "type": "보행등",
+    "name": "광진구 군자동 364-15대",
+    "lat": 37.5481814,
+    "lng": 127.0704182,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-109",
+    "type": "보행등",
+    "name": "광진구 화양동 21-53 도",
+    "lat": 37.5481619,
+    "lng": 127.0676904,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-110",
+    "type": "보행등",
+    "name": "광진구 군자동 98학",
+    "lat": 37.5474507,
+    "lng": 127.0738125,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-111",
+    "type": "보행등",
+    "name": "광진구 모진동 374-21도",
+    "lat": 37.5472932,
+    "lng": 127.0743808,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-112",
+    "type": "보행등",
+    "name": "광진구 모진동 523-1도",
+    "lat": 37.5463283,
+    "lng": 127.0760925,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-113",
+    "type": "보행등",
+    "name": "광진구 모진동 523-1도",
+    "lat": 37.5461734,
+    "lng": 127.0763627,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-114",
+    "type": "보행등",
+    "name": "광진구 군자동 374-35도",
+    "lat": 37.5474567,
+    "lng": 127.0741524,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-115",
+    "type": "보행등",
+    "name": "광진구 모진동 18공",
+    "lat": 37.5461433,
+    "lng": 127.0764822,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-116",
+    "type": "보행등",
+    "name": "광진구 자양동 223-18도",
+    "lat": 37.5377191,
+    "lng": 127.078995,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-117",
+    "type": "보행등",
+    "name": "광진구 군자동 73-21대",
+    "lat": 37.5483878,
+    "lng": 127.0678905,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-118",
+    "type": "보행등",
+    "name": "광진구 노유동 553-22 공",
+    "lat": 37.5323755,
+    "lng": 127.0672735,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-119",
+    "type": "보행등",
+    "name": "광진구 군자동 355-8도",
+    "lat": 37.5484517,
+    "lng": 127.0677767,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-120",
+    "type": "보행등",
+    "name": "광진구 자양동 223-18도",
+    "lat": 37.5374722,
+    "lng": 127.0790054,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-121",
+    "type": "보행등",
+    "name": "광진구 노유동 553-444대",
+    "lat": 37.5323897,
+    "lng": 127.0670151,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-122",
+    "type": "보행등",
+    "name": "광진구 모진동 18공",
+    "lat": 37.5463502,
+    "lng": 127.0765145,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-123",
+    "type": "보행등",
+    "name": "광진구 군자동 503-1 도",
+    "lat": 37.5487461,
+    "lng": 127.0707778,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-124",
+    "type": "보행등",
+    "name": "광진구 군자동 360-48 도",
+    "lat": 37.5488514,
+    "lng": 127.0705591,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-125",
+    "type": "보행등",
+    "name": "광진구 자양동 794-10도",
+    "lat": 37.533319,
+    "lng": 127.0756381,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-126",
+    "type": "보행등",
+    "name": "광진구 자양동 227-326대",
+    "lat": 37.5332892,
+    "lng": 127.0755907,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-127",
+    "type": "보행등",
+    "name": "광진구 자양동 227-262대",
+    "lat": 37.5331378,
+    "lng": 127.0754903,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-128",
+    "type": "보행등",
+    "name": "광진구 자양동 794-10도",
+    "lat": 37.5332762,
+    "lng": 127.0758286,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-129",
+    "type": "보행등",
+    "name": "광진구 자양동 794-11도",
+    "lat": 37.5330762,
+    "lng": 127.0755638,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-130",
+    "type": "보행등",
+    "name": "광진구 노유동 550-2도",
+    "lat": 37.5317111,
+    "lng": 127.0672769,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-131",
+    "type": "보행등",
+    "name": "광진구 자양동 794-11도",
+    "lat": 37.5332041,
+    "lng": 127.0758423,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-132",
+    "type": "보행등",
+    "name": "광진구 노유동 550-2도",
+    "lat": 37.5315996,
+    "lng": 127.0673018,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-133",
+    "type": "보행등",
+    "name": "광진구 자양동 794-11도",
+    "lat": 37.5330265,
+    "lng": 127.0757696,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-134",
+    "type": "보행등",
+    "name": "광진구 자양동 804-14도",
+    "lat": 37.5330481,
+    "lng": 127.0758369,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-135",
+    "type": "보행등",
+    "name": "광진구 노유동 203-21 도",
+    "lat": 37.5348799,
+    "lng": 127.0603355,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-136",
+    "type": "보행등",
+    "name": "광진구 모진동 18공",
+    "lat": 37.5454358,
+    "lng": 127.0787526,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-137",
+    "type": "보행등",
+    "name": "광진구 노유동 203-21 도",
+    "lat": 37.5349074,
+    "lng": 127.060184,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-138",
+    "type": "보행등",
+    "name": "광진구 모진동 18공",
+    "lat": 37.5456119,
+    "lng": 127.0789082,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-139",
+    "type": "보행등",
+    "name": "광진구 군자동 346-41도",
+    "lat": 37.5497356,
+    "lng": 127.0708339,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-140",
+    "type": "보행등",
+    "name": "광진구 노유동 97-5천",
+    "lat": 37.5310679,
+    "lng": 127.0670855,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-141",
+    "type": "보행등",
+    "name": "광진구 자양동 219-16도",
+    "lat": 37.5372972,
+    "lng": 127.0806864,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-142",
+    "type": "보행등",
+    "name": "광진구 군자동 363-43도",
+    "lat": 37.5497838,
+    "lng": 127.0709616,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-143",
+    "type": "보행등",
+    "name": "광진구 노유동 97-5천",
+    "lat": 37.5310003,
+    "lng": 127.0669079,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-144",
+    "type": "보행등",
+    "name": "광진구 자양동 219-16도",
+    "lat": 37.5370547,
+    "lng": 127.0806958,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-145",
+    "type": "보행등",
+    "name": "광진구 자양동 718 도",
+    "lat": 37.5328204,
+    "lng": 127.0770352,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-146",
+    "type": "보행등",
+    "name": "광진구 군자동 355-8도",
+    "lat": 37.5501185,
+    "lng": 127.0686878,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-147",
+    "type": "보행등",
+    "name": "광진구 자양동 808-10도",
+    "lat": 37.5327086,
+    "lng": 127.0769914,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-148",
+    "type": "보행등",
+    "name": "광진구 자양동 727도",
+    "lat": 37.5316373,
+    "lng": 127.0751316,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-149",
+    "type": "보행등",
+    "name": "광진구 자양동 727도",
+    "lat": 37.5316773,
+    "lng": 127.0753505,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-150",
+    "type": "보행등",
+    "name": "광진구 능동 339-2도",
+    "lat": 37.5490269,
+    "lng": 127.0754439,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-151",
+    "type": "보행등",
+    "name": "광진구 능동 263대",
+    "lat": 37.5491633,
+    "lng": 127.0752651,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-152",
+    "type": "보행등",
+    "name": "광진구 모진동 18공",
+    "lat": 37.5452231,
+    "lng": 127.0803352,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-153",
+    "type": "보행등",
+    "name": "광진구 모진동 18공",
+    "lat": 37.5454188,
+    "lng": 127.0803461,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-154",
+    "type": "보행등",
+    "name": "광진구 군자동 363대",
+    "lat": 37.5508213,
+    "lng": 127.0711719,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-155",
+    "type": "보행등",
+    "name": "광진구 군자동 130-27대",
+    "lat": 37.5509315,
+    "lng": 127.0710801,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-156",
+    "type": "보행등",
+    "name": "광진구 군자동 130-27대",
+    "lat": 37.5509315,
+    "lng": 127.0710801,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-157",
+    "type": "보행등",
+    "name": "광진구 자양동 738도",
+    "lat": 37.5306575,
+    "lng": 127.0748622,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-158",
+    "type": "보행등",
+    "name": "광진구 자양동 232-30대",
+    "lat": 37.5324269,
+    "lng": 127.0783356,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-159",
+    "type": "보행등",
+    "name": "광진구 군자동 364-15대",
+    "lat": 37.5509684,
+    "lng": 127.0712108,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-160",
+    "type": "보행등",
+    "name": "광진구 군자동 364-15대",
+    "lat": 37.5509684,
+    "lng": 127.0712108,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-161",
+    "type": "보행등",
+    "name": "광진구 자양동 738도",
+    "lat": 37.5305801,
+    "lng": 127.0748296,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-162",
+    "type": "보행등",
+    "name": "광진구 자양동 738도",
+    "lat": 37.5305801,
+    "lng": 127.0748296,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-163",
+    "type": "보행등",
+    "name": "광진구 자양동 232-34대",
+    "lat": 37.53232,
+    "lng": 127.0782869,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-164",
+    "type": "보행등",
+    "name": "광진구 자양동 738도",
+    "lat": 37.5306266,
+    "lng": 127.0750412,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-165",
+    "type": "보행등",
+    "name": "광진구 자양동 738도",
+    "lat": 37.5305614,
+    "lng": 127.0750216,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-166",
+    "type": "보행등",
+    "name": "광진구 자양동 738도",
+    "lat": 37.5305614,
+    "lng": 127.0750216,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-167",
+    "type": "보행등",
+    "name": "광진구 자양동 738도",
+    "lat": 37.5304717,
+    "lng": 127.0748022,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-168",
+    "type": "보행등",
+    "name": "광진구 군자동 344-15도",
+    "lat": 37.5510958,
+    "lng": 127.071096,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-169",
+    "type": "보행등",
+    "name": "광진구 자양동 738도",
+    "lat": 37.530412,
+    "lng": 127.0747857,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-170",
+    "type": "보행등",
+    "name": "광진구 자양동 738도",
+    "lat": 37.5304531,
+    "lng": 127.0749955,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-171",
+    "type": "보행등",
+    "name": "광진구 자양동 738도",
+    "lat": 37.5303799,
+    "lng": 127.0749657,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-172",
+    "type": "보행등",
+    "name": "광진구 자양동 205-6도",
+    "lat": 37.5393434,
+    "lng": 127.0831131,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-173",
+    "type": "보행등",
+    "name": "광진구 구의동 252-20도",
+    "lat": 37.5394186,
+    "lng": 127.0833703,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-174",
+    "type": "보행등",
+    "name": "광진구 군자동 349-21도",
+    "lat": 37.5515338,
+    "lng": 127.0694666,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-175",
+    "type": "보행등",
+    "name": "광진구 자양동 205-6도",
+    "lat": 37.5384625,
+    "lng": 127.0832287,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-176",
+    "type": "보행등",
+    "name": "광진구 자양동 205-2도",
+    "lat": 37.5408318,
+    "lng": 127.0834432,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-177",
+    "type": "보행등",
+    "name": "광진구 자양동 779-15 도",
+    "lat": 37.5381329,
+    "lng": 127.0832403,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-178",
+    "type": "보행등",
+    "name": "광진구 구의동 252-20도",
+    "lat": 37.5384836,
+    "lng": 127.0834762,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-179",
+    "type": "보행등",
+    "name": "광진구 구의동 251-38도",
+    "lat": 37.5408294,
+    "lng": 127.0836745,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-180",
+    "type": "보행등",
+    "name": "광진구 노유동 158-17천",
+    "lat": 37.5326036,
+    "lng": 127.0588688,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-181",
+    "type": "보행등",
+    "name": "광진구 구의동 252-133 도",
+    "lat": 37.5382319,
+    "lng": 127.0835286,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-182",
+    "type": "보행등",
+    "name": "광진구 노유동 158-17천",
+    "lat": 37.5326016,
+    "lng": 127.0587447,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-183",
+    "type": "보행등",
+    "name": "광진구 구의동 632-12 도",
+    "lat": 37.5451044,
+    "lng": 127.0825513,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-184",
+    "type": "보행등",
+    "name": "광진구 자양동 621-16대",
+    "lat": 37.5320559,
+    "lng": 127.0795744,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-185",
+    "type": "보행등",
+    "name": "광진구 자양동 621-16대",
+    "lat": 37.5320559,
+    "lng": 127.0795744,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-186",
+    "type": "보행등",
+    "name": "광진구 자양동 621-35대",
+    "lat": 37.5319652,
+    "lng": 127.0794596,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-187",
+    "type": "보행등",
+    "name": "광진구 자양동 729-2 도",
+    "lat": 37.5320882,
+    "lng": 127.0796317,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-188",
+    "type": "보행등",
+    "name": "광진구 구의동 18-12도",
+    "lat": 37.5452954,
+    "lng": 127.0826378,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-189",
+    "type": "보행등",
+    "name": "광진구 자양동 204-1도",
+    "lat": 37.5366769,
+    "lng": 127.0832959,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-190",
+    "type": "보행등",
+    "name": "광진구 자양동 621-35대",
+    "lat": 37.5319376,
+    "lng": 127.0795405,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-191",
+    "type": "보행등",
+    "name": "광진구 자양동 621-35대",
+    "lat": 37.5319376,
+    "lng": 127.0795405,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-192",
+    "type": "보행등",
+    "name": "광진구 자양동 204-1도",
+    "lat": 37.53674,
+    "lng": 127.0833748,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-193",
+    "type": "보행등",
+    "name": "광진구 자양동 621-28대",
+    "lat": 37.532007,
+    "lng": 127.0797694,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-194",
+    "type": "보행등",
+    "name": "광진구 자양동 621-28대",
+    "lat": 37.532007,
+    "lng": 127.0797694,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-195",
+    "type": "보행등",
+    "name": "광진구 자양동 204-1도",
+    "lat": 37.5364183,
+    "lng": 127.0833526,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-196",
+    "type": "보행등",
+    "name": "광진구 자양동 635-24도",
+    "lat": 37.5319756,
+    "lng": 127.0798502,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-197",
+    "type": "보행등",
+    "name": "광진구 자양동 729 도",
+    "lat": 37.5318816,
+    "lng": 127.079732,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-198",
+    "type": "보행등",
+    "name": "광진구 자양동 729 도",
+    "lat": 37.5318635,
+    "lng": 127.0798077,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-199",
+    "type": "보행등",
+    "name": "광진구 구의동 236-11도",
+    "lat": 37.542534,
+    "lng": 127.0841143,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-200",
+    "type": "보행등",
+    "name": "광진구 구의동 254-32대",
+    "lat": 37.5425821,
+    "lng": 127.0841093,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-201",
+    "type": "보행등",
+    "name": "광진구 구의동 246-99 도",
+    "lat": 37.5367549,
+    "lng": 127.0837157,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-202",
+    "type": "보행등",
+    "name": "광진구 구의동 254-32대",
+    "lat": 37.5426765,
+    "lng": 127.0841499,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-203",
+    "type": "보행등",
+    "name": "광진구 자양동 204-1도",
+    "lat": 37.5362801,
+    "lng": 127.0835345,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-204",
+    "type": "보행등",
+    "name": "광진구 구의동 236-11도",
+    "lat": 37.5427056,
+    "lng": 127.0841826,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-205",
+    "type": "보행등",
+    "name": "광진구 구의동 246-99 도",
+    "lat": 37.536693,
+    "lng": 127.0838356,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-206",
+    "type": "보행등",
+    "name": "광진구 구의동 236-21도",
+    "lat": 37.542536,
+    "lng": 127.0843925,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-207",
+    "type": "보행등",
+    "name": "광진구 자양동 216-13도",
+    "lat": 37.5363411,
+    "lng": 127.083825,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-208",
+    "type": "보행등",
+    "name": "광진구 자양동 216-13도",
+    "lat": 37.5364442,
+    "lng": 127.083895,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-209",
+    "type": "보행등",
+    "name": "광진구 구의동 236-21도",
+    "lat": 37.5426941,
+    "lng": 127.0844611,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-210",
+    "type": "보행등",
+    "name": "광진구 군자동 102-16도",
+    "lat": 37.552755,
+    "lng": 127.0721834,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-211",
+    "type": "보행등",
+    "name": "광진구 군자동 143-11대",
+    "lat": 37.5528536,
+    "lng": 127.0721802,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-212",
+    "type": "보행등",
+    "name": "광진구 자양동 714도",
+    "lat": 37.5316177,
+    "lng": 127.0810862,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-213",
+    "type": "보행등",
+    "name": "광진구 군자동 90대",
+    "lat": 37.5531224,
+    "lng": 127.0703677,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-214",
+    "type": "보행등",
+    "name": "광진구 자양동 740도",
+    "lat": 37.5298949,
+    "lng": 127.0786103,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-215",
+    "type": "보행등",
+    "name": "광진구 자양동 639-11대",
+    "lat": 37.529908,
+    "lng": 127.0787494,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-216",
+    "type": "보행등",
+    "name": "광진구 군자동 159-4대",
+    "lat": 37.5529626,
+    "lng": 127.072628,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-217",
+    "type": "보행등",
+    "name": "광진구 자양동 714도",
+    "lat": 37.5314859,
+    "lng": 127.0811199,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-218",
+    "type": "보행등",
+    "name": "광진구 자양동 740도",
+    "lat": 37.5297079,
+    "lng": 127.0785194,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-219",
+    "type": "보행등",
+    "name": "광진구 자양동 640대",
+    "lat": 37.5297265,
+    "lng": 127.0786552,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-220",
+    "type": "보행등",
+    "name": "광진구 군자동 159도",
+    "lat": 37.5530752,
+    "lng": 127.0726349,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-221",
+    "type": "보행등",
+    "name": "광진구 군자동 1-14대",
+    "lat": 37.5520703,
+    "lng": 127.0767148,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-222",
+    "type": "보행등",
+    "name": "광진구 능동 280-1도",
+    "lat": 37.5520078,
+    "lng": 127.0769364,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-223",
+    "type": "보행등",
+    "name": "광진구 자양동 715-1도",
+    "lat": 37.5345279,
+    "lng": 127.0841866,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-224",
+    "type": "보행등",
+    "name": "광진구 구의동 234-20도",
+    "lat": 37.5449416,
+    "lng": 127.0849708,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-225",
+    "type": "보행등",
+    "name": "광진구 구의동 617-71대",
+    "lat": 37.5449224,
+    "lng": 127.0850804,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-226",
+    "type": "보행등",
+    "name": "광진구 자양동 715-1도",
+    "lat": 37.5345266,
+    "lng": 127.0845198,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-227",
+    "type": "보행등",
+    "name": "광진구 자양동 715-1도",
+    "lat": 37.5345266,
+    "lng": 127.0845198,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-228",
+    "type": "보행등",
+    "name": "광진구 구의동 234-21도",
+    "lat": 37.5451533,
+    "lng": 127.0851425,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-229",
+    "type": "보행등",
+    "name": "광진구 자양동 716도",
+    "lat": 37.5344135,
+    "lng": 127.0845784,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  },
+  {
+    "id": "pedestrian-light-230",
+    "type": "보행등",
+    "name": "광진구 구의동 617-31대",
+    "lat": 37.54488,
+    "lng": 127.0853725,
+    "quantity": 1,
+    "source": "서울특별시 보행등 위치정보 현황 (2026-02-13 파일)",
+    "source_updated_at": "2026-02-13"
+  }
+]
