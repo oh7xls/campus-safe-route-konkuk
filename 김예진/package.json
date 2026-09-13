@@ -11,7 +11,12 @@
     "test": "tsx --test tests/*.test.ts",
     "check": "eslint . && tsc --noEmit && tsx --test tests/*.test.ts",
     "data:cctv": "node scripts/import-gwangjin-cctv.mjs",
-    "data:security-lights": "node scripts/import-gwangjin-security-lights.mjs"
+    "data:security-lights": "node scripts/import-gwangjin-security-lights.mjs",
+    "data:build": "node scripts/build-facility-delivery.mjs",
+    "data:refresh": "node scripts/refresh-facility-data.mjs",
+    "data:sensitivity": "node scripts/analyze-distance-sensitivity.mjs",
+    "data:validation-sample": "node scripts/build-field-validation-sample.mjs",
+    "data:week3": "node scripts/build-data-week3.mjs"
   },
   "dependencies": {
     "next": "^16.0.0",

@@ -21,8 +21,8 @@ const ACCEPTED_PURPOSES = new Set([
   "다목적",
 ]);
 const OUTPUT_PATH = path.resolve(
-  process.cwd(),
-  "data/gwangjin-cctv-konkuk.json",
+  process.env.FACILITY_OUTPUT_PATH ??
+    path.join(process.cwd(), "data/gwangjin-cctv-konkuk.json"),
 );
 
 function decodeXml(value) {
@@ -194,8 +194,10 @@ try {
       continue;
     }
 
-    const facilityName = String(row[columnByHeader["시설명"]] ?? purpose).trim();
-    const address = String(row[columnByHeader["소재지"]] ?? "주소 미제공").trim();
+    const facilityName =
+      String(row[columnByHeader["시설명"]] ?? "").trim() || purpose;
+    const address =
+      String(row[columnByHeader["소재지"]] ?? "").trim() || "주소 미제공";
     const coordinateKey = `${lat.toFixed(7)}:${lng.toFixed(7)}`;
     if (deduplicated.has(coordinateKey)) continue;
 
@@ -224,6 +226,7 @@ try {
     sourceDatasetId: "gwangjin-cctv-installations",
     sourcePageUrl: SOURCE_PAGE_URL,
     sourceFileUrl,
+    sourceSha256: createHash("sha256").update(bytes).digest("hex"),
     sourceSheetName: "광진구 CCTV 설치 현황",
     sourceRowCount: dataRows.length,
     selectedRowCount: facilities.length,

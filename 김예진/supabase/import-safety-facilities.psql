@@ -1,0 +1,94 @@
+\set ON_ERROR_STOP on
+
+begin;
+
+create temp table dataset_import (
+  id text,
+  facility_type text,
+  name text,
+  provider text,
+  source_url text,
+  coordinate_system text,
+  source_record_count integer,
+  selected_record_count integer,
+  source_updated_at timestamptz,
+  collected_at timestamptz,
+  source_sha256 text
+) on commit drop;
+
+\copy dataset_import from 'data/processed/facility-datasets-postgis.csv' with (format csv, header true, encoding 'UTF8', null '')
+
+insert into public.facility_datasets
+select * from dataset_import
+on conflict (id) do update set
+  facility_type = excluded.facility_type,
+  name = excluded.name,
+  provider = excluded.provider,
+  source_url = excluded.source_url,
+  coordinate_system = excluded.coordinate_system,
+  source_record_count = excluded.source_record_count,
+  selected_record_count = excluded.selected_record_count,
+  source_updated_at = excluded.source_updated_at,
+  collected_at = excluded.collected_at,
+  source_sha256 = excluded.source_sha256;
+
+create temp table facility_import (
+  id text,
+  facility_type text,
+  name text,
+  latitude double precision,
+  longitude double precision,
+  address text,
+  purpose text,
+  managing_agency text,
+  source_dataset_id text,
+  source_record_id text,
+  source_updated_at timestamptz,
+  collected_at timestamptz
+) on commit drop;
+
+\copy facility_import from 'data/processed/safety-facilities-postgis.csv' with (format csv, header true, encoding 'UTF8', null '')
+
+insert into public.safety_facilities (
+  id,
+  facility_type,
+  name,
+  latitude,
+  longitude,
+  address,
+  purpose,
+  managing_agency,
+  source_dataset_id,
+  source_record_id,
+  source_updated_at,
+  collected_at
+)
+select * from facility_import
+on conflict (id) do update set
+  facility_type = excluded.facility_type,
+  name = excluded.name,
+  latitude = excluded.latitude,
+  longitude = excluded.longitude,
+  address = excluded.address,
+  purpose = excluded.purpose,
+  managing_agency = excluded.managing_agency,
+  source_dataset_id = excluded.source_dataset_id,
+  source_record_id = excluded.source_record_id,
+  source_updated_at = excluded.source_updated_at,
+  collected_at = excluded.collected_at;
+
+-- 최신 원본에서 사라진 시설은 같은 데이터셋의 기존 행에서도 제거한다.
+delete from public.safety_facilities as existing
+where existing.source_dataset_id in (select id from dataset_import)
+  and not exists (
+    select 1
+    from facility_import as incoming
+    where incoming.id = existing.id
+  );
+
+commit;
+
+select facility_type, count(*) as facility_count
+from public.safety_facilities
+group by facility_type
+order by facility_type;

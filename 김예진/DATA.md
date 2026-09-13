@@ -1,5 +1,10 @@
 # 데이터 계약
 
+팀 통합용 공통 규격은 `docs/DATA_CONTRACT.md`, 필드 정의는
+`docs/DATA_DICTIONARY.md`, 출처·이용 상태는 `docs/DATA_SOURCES.md`를
+기준으로 한다. 기계 판독 규격은
+`data/schema/safety-facility-v1.schema.json`이다.
+
 ## 파일럿 범위
 
 - 이름: 건국대·건대입구
@@ -14,8 +19,10 @@
 - 공식 페이지: https://www.gwangjin.go.kr/portal/main/contents.do?menuNo=200896
 - 공식 페이지 개정일: 2025-09-25
 - 2026-09-05 수집 시 좌표가 있는 설치 위치 1,327개
+- 2026-09-14(KST) 최신 원본 재수집 결과도 1,327개이며 파일럿 선택 수는 214개로 동일
 - 필터: 생활방범·공원방범·어린이보호·다목적, 파일럿 반경 1km
 - 앱 스냅샷: `data/gwangjin-cctv-konkuk.json`
+- 원본 XLSX SHA-256을 스냅샷의 `sourceSha256`에 기록
 - 현재 위치 수: 214개
 - 주의: 개별 카메라의 실시간 작동 상태·촬영 방향·정확한 촬영범위는 포함하지 않는다. 화면의 70m는 비교를 위한 MVP 가정이다.
 
@@ -25,9 +32,34 @@
 - 공식 화면: https://www.gwangjin.go.kr/gooddata/orl/sqt/ssqt.do?type=smsl
 - 공개 WFS 레이어: `gjgc:smart_security_light`, EPSG:4326
 - 2026-09-05 수집 시 광진구 전체 3,699개, 파일럿 반경 1km 902개
+- 2026-09-14(KST) 최신 공식 WFS 재수집 결과도 광진구 전체 3,699개, 파일럿 반경 1km 902개
 - 앱 스냅샷: `data/gwangjin-security-lights-konkuk.json`
 - 별도 측정자료: 서울 열린데이터광장 `서울시 광진구 스마트보안등(IoT) 측정정보`는 2026-09-04 갱신됨.
 - 주의: 지도 WFS에는 측정시각이 없으므로 별도 측정자료의 갱신일을 위치 좌표의 기준일이라고 표기하지 않는다. 현재 앱은 위치만 사용하며 점등·고장 상태를 주장하지 않는다.
+
+## 팀 전달 파일
+
+`corepack pnpm data:refresh`를 실행하면 두 공식 원본을 다시 수집하고 아래 파일을 생성한다.
+
+- `data/processed/safety-facilities-v1.json`
+- `data/processed/safety-facilities-v1.csv`
+- `data/processed/safety-facilities-v1.geojson`
+- `data/processed/data-quality-report.json`
+- `data/processed/CHECKSUMS.sha256`
+
+2026-09-14(KST) 결과는 광진구 원본 5,026개에서 건국대 파일럿 CCTV 214개와 스마트보안등 902개, 총 1,116개를 선택했다. 필수값·좌표·중복 ID·동일 종류 중복 좌표·파일럿 범위·메타데이터 개수 검사에서 치명적 문제는 0개다. 상세 해석은 `docs/DATA_QUALITY.md`에 기록한다.
+
+## 3주 차 분석·DB 전달
+
+- PostGIS 적재 CSV: `data/processed/safety-facilities-postgis.csv`
+- 데이터셋 적재 CSV: `data/processed/facility-datasets-postgis.csv`
+- 마이그레이션: `supabase/migrations/202609130001_create_safety_facilities.sql`
+- 적재 안내: `docs/POSTGIS_HANDOFF.md`
+- 거리 민감도 분석: `data/analysis/distance-sensitivity.json`
+- 지도·현장 검증 표본: `data/qa/facility-validation-sample.csv`
+- 지도·현장 검증 결과 입력: `data/qa/facility-validation-results.csv`
+
+거리 민감도 결과는 현재 실제 보행 경로가 아니라 5개 장소 사이 직선 대리경로를 사용한 예비 결과다. 커버리지는 구간 길이에 따른 표본 수를 반영한 가중 집계를 우선 사용한다. 지도 표본과 현장 표본도 아직 확인 완료가 아니므로 안전성 근거로 과장하지 않는다. 자동 실행은 실제 검증 결과 CSV를 덮어쓰지 않는다.
 
 ## 화면·점수 규칙
 

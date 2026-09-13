@@ -1,0 +1,9 @@
+# 체크섬이 운영체제의 자동 줄바꿈 변환으로 달라지지 않도록 생성물을 LF로 고정한다.
+data/processed/*.json text eol=lf
+data/processed/*.csv text eol=lf
+data/processed/*.geojson text eol=lf
+data/processed/*.sha256 text eol=lf
+data/analysis/*.json text eol=lf
+data/analysis/*.csv text eol=lf
+data/qa/*.json text eol=lf
+data/qa/*.csv text eol=lf

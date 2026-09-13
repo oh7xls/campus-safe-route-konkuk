@@ -2,11 +2,12 @@
   "sourceDatasetId": "gwangjin-cctv-installations",
   "sourcePageUrl": "https://www.gwangjin.go.kr/portal/main/contents.do?menuNo=200896",
   "sourceFileUrl": "https://www.gwangjin.go.kr/portal/cmmn/file/fileDown.do?atchFileId=3fd879a5aa70bb48e900ecfd02fc3b202ed6aa5f017fddeebb323c77575ef895&fileSn=2",
+  "sourceSha256": "7b7e0590837c233ded55b35d4ff830a5c3ace2fa421194583e91a68c37b807e4",
   "sourceSheetName": "광진구 CCTV 설치 현황",
   "sourceRowCount": 1327,
   "selectedRowCount": 214,
   "pageRevisionDate": "2025-09-25",
-  "generatedAt": "2026-09-05T08:25:03.590Z",
+  "generatedAt": "2026-09-13T15:06:53.138Z",
   "filter": {
     "acceptedPurposes": [
       "생활방범",

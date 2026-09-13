@@ -1,4 +1,4 @@
-# 캠퍼스 안심길 — 건국대·건대입구 2주 차
+# 캠퍼스 안심길 — 건국대·건대입구 데이터 1~3주 차
 
 건국대학교 서울캠퍼스와 건대입구역 주변에서 TMAP 실제 보행 경로를 조회하고, 그 경로에 가까운 공공 CCTV·스마트보안등만 보여 주는 MVP입니다.
 
@@ -38,8 +38,25 @@ TMAP_API_KEY=본인의_TMAP_키
 ## 공공데이터 갱신
 
 ```powershell
-corepack pnpm data:cctv
-corepack pnpm data:security-lights -- "C:\path\to\gwangjin-smart-lights.geojson"
+corepack pnpm data:refresh
 ```
 
-`data:cctv`는 광진구 공식 페이지의 현재 설치 현황 엑셀을 자동으로 찾아 내려받습니다. 이미 받은 공식 엑셀을 쓰려면 명령 뒤에 파일 경로를 전달할 수도 있습니다. 가져오기 스크립트는 건국대 파일럿 반경 안의 WGS84 위치만 저장하며, 결과가 0개이거나 형식이 다르면 기존 스냅샷을 덮어쓰지 않습니다. 자세한 계보와 한계는 `DATA.md`를 참고합니다.
+위 명령은 광진구 공식 CCTV와 스마트보안등 위치를 일괄 재수집하고 `SafetyFacility v1` JSON·CSV·GeoJSON과 품질 보고서를 생성합니다. 개별 단계만 다시 실행하려면 다음 명령을 사용합니다.
+
+```powershell
+corepack pnpm data:cctv
+corepack pnpm data:security-lights
+corepack pnpm data:build
+```
+
+데이터 담당 3주 차의 PostGIS 전달 CSV, 거리 민감도 분석, 지도·현장 검증 표본을 다시 만들려면 실행합니다.
+
+```powershell
+corepack pnpm data:week3
+```
+
+PostGIS 적용 방법은 `docs/POSTGIS_HANDOFF.md`, 거리 기준 해석은 `docs/DISTANCE_SENSITIVITY.md`, 직접 확인 절차는 `docs/FIELD_VALIDATION.md`를 참고합니다.
+
+파생 데이터의 `generatedAt`은 실행 시각이 아니라 최신 원본 수집 시각을 사용합니다. 원본이 같으면 다시 실행해도 결과가 같으며, `data/processed/CHECKSUMS.sha256`으로 팀에 전달한 6개 파일의 무결성을 확인할 수 있습니다. 현장검증 입력 파일 `data/qa/facility-validation-results.csv`는 최초 한 번만 만들고 이후 자동 실행에서는 덮어쓰지 않습니다.
+
+`data:cctv`는 광진구 공식 페이지의 현재 설치 현황 엑셀을, `data:security-lights`는 광진구 공식 지도 WFS를 자동으로 요청합니다. 이미 받은 공식 원본을 쓰려면 각 명령 뒤에 파일 경로를 전달할 수도 있습니다. 가져오기 스크립트는 건국대 파일럿 반경 안의 WGS84 위치만 저장하며, 결과가 0개이거나 형식이 다르면 기존 스냅샷을 덮어쓰지 않습니다. 자세한 계보와 한계는 `DATA.md`와 `docs/`를 참고합니다.

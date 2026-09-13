@@ -1,0 +1,65 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-09-13T15:06:54.013Z",
+  "pilotArea": {
+    "label": "건국대·건대입구",
+    "center": {
+      "lat": 37.542,
+      "lng": 127.073
+    },
+    "radiusMeters": 1000
+  },
+  "summary": {
+    "sourceRecordCount": 5026,
+    "selectedRecordCount": 1116,
+    "cctvCount": 214,
+    "securityLightCount": 902
+  },
+  "checks": {
+    "invalidFacilityCount": 0,
+    "duplicateIdCount": 0,
+    "duplicateCoordinateCount": 0,
+    "outsidePilotCount": 0,
+    "metadataMismatchCount": 0,
+    "fatalIssueCount": 0
+  },
+  "missingOptionalValues": {
+    "address": 909,
+    "purpose": 902,
+    "managingAgency": 0,
+    "sourceRecordId": 0,
+    "sourceUpdatedAt": 902
+  },
+  "datasets": [
+    {
+      "id": "gwangjin-cctv-installations",
+      "type": "cctv",
+      "name": "광진구 CCTV 설치 현황",
+      "provider": "서울특별시 광진구",
+      "sourceUrl": "https://www.gwangjin.go.kr/portal/main/contents.do?menuNo=200896",
+      "coordinateSystem": "EPSG:4326",
+      "sourceRecordCount": 1327,
+      "selectedRecordCount": 214,
+      "sourceUpdatedAt": "2025-09-25T00:00:00+09:00",
+      "collectedAt": "2026-09-13T15:06:53.138Z",
+      "sourceSha256": "7b7e0590837c233ded55b35d4ff830a5c3ace2fa421194583e91a68c37b807e4"
+    },
+    {
+      "id": "gwangjin-smart-security-light",
+      "type": "security_light",
+      "name": "광진구 스마트보안등 위치",
+      "provider": "서울특별시 광진구 빅데이터포털",
+      "sourceUrl": "https://www.gwangjin.go.kr/gooddata/orl/sqt/ssqt.do?type=smsl",
+      "coordinateSystem": "EPSG:4326",
+      "sourceRecordCount": 3699,
+      "selectedRecordCount": 902,
+      "sourceUpdatedAt": null,
+      "collectedAt": "2026-09-13T15:06:54.013Z",
+      "sourceSha256": "d3e703783ca27d636d652e76d9ed0e32f05a4b822b1bae0ee1ad8f3b3c6be610"
+    }
+  ],
+  "warnings": [
+    "스마트보안등 위치 WFS에는 원본 갱신시각과 점등·고장 상태가 없어 sourceUpdatedAt을 null로 유지합니다.",
+    "CCTV 70m·보안등 35m는 앱의 비교용 공간 기준이며 실제 촬영·조명 범위가 아닙니다."
+  ]
+}

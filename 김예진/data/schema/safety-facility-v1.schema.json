@@ -1,0 +1,72 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "SafetyFacility v1",
+  "description": "캠퍼스 안심길 팀 공통 안전시설 교환 규격",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "id",
+    "type",
+    "name",
+    "latitude",
+    "longitude",
+    "address",
+    "purpose",
+    "managingAgency",
+    "sourceDatasetId",
+    "sourceRecordId",
+    "sourceUpdatedAt",
+    "collectedAt"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "minLength": 1,
+      "description": "데이터셋과 원본 식별자를 포함하는 전역 고유 ID"
+    },
+    "type": {
+      "type": "string",
+      "enum": ["cctv", "security_light"]
+    },
+    "name": {
+      "type": "string",
+      "minLength": 1
+    },
+    "latitude": {
+      "type": "number",
+      "minimum": -90,
+      "maximum": 90
+    },
+    "longitude": {
+      "type": "number",
+      "minimum": -180,
+      "maximum": 180
+    },
+    "address": {
+      "type": ["string", "null"]
+    },
+    "purpose": {
+      "type": ["string", "null"]
+    },
+    "managingAgency": {
+      "type": ["string", "null"]
+    },
+    "sourceDatasetId": {
+      "type": "string",
+      "minLength": 1
+    },
+    "sourceRecordId": {
+      "type": ["string", "null"]
+    },
+    "sourceUpdatedAt": {
+      "anyOf": [
+        { "type": "string", "format": "date-time" },
+        { "type": "null" }
+      ]
+    },
+    "collectedAt": {
+      "type": "string",
+      "format": "date-time"
+    }
+  }
+}
